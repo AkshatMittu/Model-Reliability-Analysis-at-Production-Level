@@ -4,10 +4,8 @@ import pandas as pd
 from datetime import datetime, timedelta
 import numpy as np
 import os
-from pydantic_settings import BaseSettings
 import shap
 import joblib
-import xgboost
 import matplotlib.pyplot as plt
 import random
 import json
