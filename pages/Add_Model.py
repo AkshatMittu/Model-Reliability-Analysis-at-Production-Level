@@ -33,13 +33,13 @@ st.markdown(f"<p><h2>{model_type}</h2></p>", unsafe_allow_html=True)
 
 st.write("---")
 
-with open("C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/benchmark.json", "r") as af:
+with open("./pages/benchmark.json", "r") as af:
     benchmark_metrics = json.load(af)
 
-with open("C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/models.json", "r") as m:
+with open("./pages/models.json", "r") as m:
     models = json.load(m)
 
-with open("C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/output.json", "r") as o:
+with open("./pages/output.json", "r") as o:
     outputs = json.load(o)
 
 
@@ -133,37 +133,37 @@ def Regression_Classification():
             
     if st.button("Submit"):
         
-        os.mkdir(f'C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/models/{model_name}')
+        os.mkdir(f'./pages/models/{model_name}')
         baseline = baseline.rename(columns={target:'target'})
-        baseline.to_csv(f"C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/models/{model_name}/baseline.csv")
+        baseline.to_csv(f"./pages/models/{model_name}/baseline.csv")
         
         if scaler_file != None:
             scaler = joblib.load(scaler_file)
-            joblib.dump(scaler, f"C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/models/{model_name}/scaler.joblib")
+            joblib.dump(scaler, f"./pages/models/{model_name}/scaler.joblib")
         
         if 'pkl' in model_file.name.split('.'):
             model = pickle.load(model_file)
-            pickle.dump(model, f"C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/models/{model_name}/model.pkl")
+            pickle.dump(model, f"./pages/models/{model_name}/model.pkl")
         if 'joblib' in model_file.name.split('.'):
             model = joblib.load(model_file)
-            joblib.dump(model, f"C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/models/{model_name}/model.joblib")
+            joblib.dump(model, f"./pages/models/{model_name}/model.joblib")
         if 'h5' in model_file.name.split('.'):
             model = load_model(model_file)
-            model.save(f"C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/models/{model_name}/model.h5")
+            model.save(f"./pages/models/{model_name}/model.h5")
             
         benchmark_metrics[model_name] = new_bench
-        with open("C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/benchmark.json", "w") as f:
+        with open("./pages/benchmark.json", "w") as f:
             json.dump(benchmark_metrics, f)
         
         models[model_type].append(model_name)
-        with open("C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/models.json", "w") as mf:
+        with open("./pages/models.json", "w") as mf:
             json.dump(models, mf)
         
-        os.makedirs(f'C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/models/{model_name}/Ground Truths')
-        os.makedirs(f'C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/models/{model_name}/Production Runs')
+        os.makedirs(f'./pages/models/{model_name}/Ground Truths')
+        os.makedirs(f'./pages/models/{model_name}/Production Runs')
 
         outputs[model_name] = model_type
-        with open("C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/output.json", "w") as f:
+        with open("./pages/output.json", "w") as f:
             json.dump(outputs, f)
         
         
@@ -213,23 +213,23 @@ def Regression_Classification():
         
         if model_type == "Classification":
             
-            dirs = os.listdir(f"C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/models/{model_name}")
+            dirs = os.listdir(f"./pages/models/{model_name}")
             
             if 'scaler.joblib' in dirs:
-                scaler = joblib.load(f"C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/models/{model_name}/scaler.joblib")
+                scaler = joblib.load(f"./pages/models/{model_name}/scaler.joblib")
             else:
                 scaler = None
             if 'model.joblib' in dirs:
-                model = joblib.load(f"C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/models/{model_name}/model.joblib")
+                model = joblib.load(f"./pages/models/{model_name}/model.joblib")
             if 'model.pkl' in dirs:
-                model = pickle.load(f"C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/models/{model_name}/model.pkl")
+                model = pickle.load(f"./pages/models/{model_name}/model.pkl")
             if 'model.h5' in dirs:
-                model = load_model(f"C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/models/{model_name}/model.h5")
+                model = load_model(f"./pages/models/{model_name}/model.h5")
             
             prod = get_probs(prod, model, scaler)
         
-        gt.to_csv(f"C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/models/{model_name}/Ground Truths/{date}.csv")
-        prod.to_csv(f"C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/models/{model_name}/Production Runs/{date}.csv")       
+        gt.to_csv(f"./pages/models/{model_name}/Ground Truths/{date}.csv")
+        prod.to_csv(f"./pages/models/{model_name}/Production Runs/{date}.csv")       
 
 
 def NLP():
@@ -309,51 +309,51 @@ def NLP():
         
     if st.button("Submit", key="NLP_button"):
         
-        os.mkdir(f'C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/models/{model_name}')
+        os.mkdir(f'./pages/models/{model_name}')
         baseline = baseline.rename(columns={target:'target', text:'text'})
-        baseline.to_csv(f"C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/models/{model_name}/baseline.csv")
+        baseline.to_csv(f"./pages/models/{model_name}/baseline.csv")
         
         if output != "Text":
             
             if vectorizer_file != None:
                 vectorizer = joblib.load(vectorizer_file)
-                joblib.dump(vectorizer, f"C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/models/{model_name}/vectorizer.joblib")
+                joblib.dump(vectorizer, f"./pages/models/{model_name}/vectorizer.joblib")
             if 'pkl' in model_file.name.split('.'):
                 model = pickle.load(model_file)
-                pickle.dump(model, f"C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/models/{model_name}/model.pkl")
+                pickle.dump(model, f"./pages/models/{model_name}/model.pkl")
             if 'joblib' in model_file.name.split('.'):
                 model = joblib.load(model_file)
-                joblib.dump(model, f"C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/models/{model_name}/model.joblib")
+                joblib.dump(model, f"./pages/models/{model_name}/model.joblib")
             if 'h5' in model_file.name.split('.'):
                 model = load_model(model_file)
-                model.save(f"C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/models/{model_name}/model.h5")
+                model.save(f"./pages/models/{model_name}/model.h5")
             
         benchmark_metrics[model_name] = new_bench
-        with open("C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/benchmark.json", "w") as f:
+        with open("./pages/benchmark.json", "w") as f:
             json.dump(benchmark_metrics, f)
         
         models[model_type].append(model_name)
-        with open("C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/models.json", "w") as mf:
+        with open("./pages/models.json", "w") as mf:
             json.dump(models, mf)
         
-        os.makedirs(f'C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/models/{model_name}/Ground Truths')
-        os.makedirs(f'C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/models/{model_name}/Production Runs')
-        os.makedirs(f'C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/models/{model_name}/embeds')
-        os.makedirs(f'C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/models/{model_name}/helper')
+        os.makedirs(f'./pages/models/{model_name}/Ground Truths')
+        os.makedirs(f'./pages/models/{model_name}/Production Runs')
+        os.makedirs(f'./pages/models/{model_name}/embeds')
+        os.makedirs(f'./pages/models/{model_name}/helper')
         
         if output == "Text":
-            os.makedirs(f'C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/models/{model_name}/embeds_target/Ground Truths')
-            os.makedirs(f'C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/models/{model_name}/helper_target/Ground Truths')
-            os.makedirs(f'C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/models/{model_name}/embeds_target/Production Runs')
-            os.makedirs(f'C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/models/{model_name}/helper_target/Production Runs')
+            os.makedirs(f'./pages/models/{model_name}/embeds_target/Ground Truths')
+            os.makedirs(f'./pages/models/{model_name}/helper_target/Ground Truths')
+            os.makedirs(f'./pages/models/{model_name}/embeds_target/Production Runs')
+            os.makedirs(f'./pages/models/{model_name}/helper_target/Production Runs')
         
         
-        create_and_save_embeddings(baseline, 'text', f'C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/models/{model_name}/embeds/baseline')
+        create_and_save_embeddings(baseline, 'text', f'./pages/models/{model_name}/embeds/baseline')
         helper_df = get_helper_csv_nlp(baseline)
-        helper_df.to_csv(f'C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/models/{model_name}/helper/baseline.csv')
+        helper_df.to_csv(f'./pages/models/{model_name}/helper/baseline.csv')
         
         outputs[model_name] = output
-        with open("C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/output.json", "w") as f:
+        with open("./pages/output.json", "w") as f:
             json.dump(outputs, f)
 
     
@@ -406,51 +406,51 @@ def NLP():
         prod = prod.rename(columns={p_target:'target', text_col:'text'})
     
             
-        dirs = os.listdir(f"C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/models/{model_name}")
+        dirs = os.listdir(f"./pages/models/{model_name}")
         
         if output != "Text":
             if 'vectorizer.joblib' in dirs:
-                vectorizer = joblib.load(f"C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/models/{model_name}/vectorizer.joblib")
+                vectorizer = joblib.load(f"./pages/models/{model_name}/vectorizer.joblib")
             else:
                 vectorizer = None
 
             if 'model.joblib' in dirs:
-                model = joblib.load(f"C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/models/{model_name}/model.joblib")
+                model = joblib.load(f"./pages/models/{model_name}/model.joblib")
             if 'model.pkl' in dirs:
-                model = pickle.load(f"C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/models/{model_name}/model.pkl")
+                model = pickle.load(f"./pages/models/{model_name}/model.pkl")
             if 'model.h5' in dirs:
-                model = load_model(f"C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/models/{model_name}/model.h5")
+                model = load_model(f"./pages/models/{model_name}/model.h5")
     
             prod = get_probs(prod, model, vectorizer)
         
-            gt.to_csv(f"C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/models/{model_name}/Ground Truths/{date}.csv")
-            prod.to_csv(f"C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/models/{model_name}/Production Runs/{date}.csv")
+            gt.to_csv(f"./pages/models/{model_name}/Ground Truths/{date}.csv")
+            prod.to_csv(f"./pages/models/{model_name}/Production Runs/{date}.csv")
             
-            create_and_save_embeddings(prod, 'text', f'C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/models/{model_name}/embeds/{date}')
+            create_and_save_embeddings(prod, 'text', f'./pages/models/{model_name}/embeds/{date}')
             helper_df = get_helper_csv_nlp(prod)
-            helper_df.to_csv(f'C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/models/{model_name}/helper/{date}.csv')
+            helper_df.to_csv(f'./pages/models/{model_name}/helper/{date}.csv')
         
         if output == "Text":
             
-            gt.to_csv(f"C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/models/{model_name}/Ground Truths/{date}.csv")
-            prod.to_csv(f"C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/models/{model_name}/Production Runs/{date}.csv")
+            gt.to_csv(f"./pages/models/{model_name}/Ground Truths/{date}.csv")
+            prod.to_csv(f"./pages/models/{model_name}/Production Runs/{date}.csv")
             
-            create_and_save_embeddings(prod, 'text', f'C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/models/{model_name}/embeds/{date}')
+            create_and_save_embeddings(prod, 'text', f'./pages/models/{model_name}/embeds/{date}')
             helper_df_text = get_helper_csv_nlp(prod)
-            helper_df_text.to_csv(f'C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/models/{model_name}/helper/{date}.csv')
+            helper_df_text.to_csv(f'./pages/models/{model_name}/helper/{date}.csv')
             
-            create_and_save_embeddings(gt, 'target', f'C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/models/{model_name}/embeds_target/Ground Truths/{date}')
-            helper_df_target_gt = get_helper_csv_nlp(gt, 'target', f'C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/models/{model_name}/embeds/{date}.csv', f'C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/models/{model_name}/embeds_target/Ground Truths/{date}.csv')
+            create_and_save_embeddings(gt, 'target', f'./pages/models/{model_name}/embeds_target/Ground Truths/{date}')
+            helper_df_target_gt = get_helper_csv_nlp(gt, 'target', f'./pages/models/{model_name}/embeds/{date}.csv', f'./pages/models/{model_name}/embeds_target/Ground Truths/{date}.csv')
             
-            helper_df_target_gt.to_csv(f'C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/models/{model_name}/helper_target/Ground Truths/{date}.csv')
+            helper_df_target_gt.to_csv(f'./pages/models/{model_name}/helper_target/Ground Truths/{date}.csv')
             
-            create_and_save_embeddings(prod, 'target', f'C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/models/{model_name}/embeds_target/Production Runs/{date}')
+            create_and_save_embeddings(prod, 'target', f'./pages/models/{model_name}/embeds_target/Production Runs/{date}')
             helper_df = get_helper_csv_nlp(prod, 'target')
             
-            scores_df = get_text_scores_df(gt, prod, pd.read_csv(f'C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/models/{model_name}/embeds_target/Ground Truths/{date}.csv'), pd.read_csv(f'C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/models/{model_name}/embeds_target/Production Runs/{date}.csv'), pd.read_csv(f'C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/models/{model_name}/embeds/{date}.csv'))
+            scores_df = get_text_scores_df(gt, prod, pd.read_csv(f'./pages/models/{model_name}/embeds_target/Ground Truths/{date}.csv'), pd.read_csv(f'./pages/models/{model_name}/embeds_target/Production Runs/{date}.csv'), pd.read_csv(f'./pages/models/{model_name}/embeds/{date}.csv'))
             
             combined_df = pd.concat([helper_df, scores_df], axis=1)
-            combined_df.to_csv(f'C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/models/{model_name}/helper_target/Production Runs/{date}.csv')
+            combined_df.to_csv(f'./pages/models/{model_name}/helper_target/Production Runs/{date}.csv')
     
 
 def CV():
@@ -481,7 +481,7 @@ def CV():
     
     new_bench = {"Accuracy": accuracy, "F1": f1, "Recall": recall, "Precision": precision, "ROC_AUC": roc, "False Positive Rate": fpr}
 
-    baseline_dir = f"C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/models/{name}/Baseline/"
+    baseline_dir = f"./pages/models/{name}/Baseline/"
 
     upload_image, model_ = st.columns(2)
     with upload_image:
@@ -505,8 +505,8 @@ def CV():
         baseline_lists = os.listdir(baseline_dir)
 
         for i in baseline_lists:
-            for j in os.listdir(f"C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/models/{name}/Baseline/{i}"):
-                baseline_paths.append(f"C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/models/{name}/Baseline/{i}/{j}")
+            for j in os.listdir(f"./pages/models/{name}/Baseline/{i}"):
+                baseline_paths.append(f"./pages/models/{name}/Baseline/{i}/{j}")
                 baseline_labels.append(i)
 
         baseline_paths_df = pd.DataFrame({"paths": baseline_paths,
@@ -515,29 +515,29 @@ def CV():
         baseline_paths_df.to_csv(f"{baseline_dir}/baseline_paths_df.csv", index=False)
 
         baseline_glcm = get_glcm_csv(baseline_paths_df, [2], [np.pi/2])
-        baseline_glcm.to_csv(f"C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/models/{name}/baseline.csv")
+        baseline_glcm.to_csv(f"./pages/models/{name}/baseline.csv")
 
-        os.makedirs(f'C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/models/{name}/Ground Truths')
-        os.makedirs(f'C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/models/{name}/Production Runs')
+        os.makedirs(f'./pages/models/{name}/Ground Truths')
+        os.makedirs(f'./pages/models/{name}/Production Runs')
 
         # if 'pkl' in model_cv.name.split('.'):
         #     model = pickle.load(model_cv)
-        #     pickle.dump(model, f"C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/models/{model_name}/model.pkl")
+        #     pickle.dump(model, f"./pages/models/{model_name}/model.pkl")
         # if 'h5' in model_cv.name.split('.'):
         #     st.write(model_cv)
         #     model = load_model(model_cv)
-        #     model.save(f"C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/models/{model_name}/model.h5")
+        #     model.save(f"./pages/models/{model_name}/model.h5")
         
         benchmark_metrics[name] = new_bench
-        with open("C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/benchmark.json", "w") as f:
+        with open("./pages/benchmark.json", "w") as f:
             json.dump(benchmark_metrics, f)
         
         models[model_type].append(name)
-        with open("C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/models.json", "w") as mf:
+        with open("./pages/models.json", "w") as mf:
             json.dump(models, mf)
 
         outputs[name] = "Classification"
-        with open("C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/output.json", "w") as f:
+        with open("./pages/output.json", "w") as f:
             json.dump(outputs, f)
     
     st.write("---")
@@ -555,7 +555,7 @@ def CV():
     with date_cv:
         date = st.date_input("Enter Date of production run", datetime.date(2023, 12, 12))
 
-    production_dir = f"C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/models/{name}/Production/{date}"
+    production_dir = f"./pages/models/{name}/Production/{date}"
 
     with upload_image_p:
         with st.form("my-form-p", clear_on_submit=True):
@@ -576,8 +576,8 @@ def CV():
         production_lists = os.listdir(production_dir)
 
         for i in production_lists:
-            for j in os.listdir(f"C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/models/{name}/Production/{date}/{i}"):
-                production_paths.append(f"C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/models/{name}/Production/{date}/{i}/{j}")
+            for j in os.listdir(f"./pages/models/{name}/Production/{date}/{i}"):
+                production_paths.append(f"./pages/models/{name}/Production/{date}/{i}/{j}")
                 production_labels.append(i)
 
         production_paths_df = pd.DataFrame({"paths": production_paths,
@@ -588,11 +588,11 @@ def CV():
         production_paths_df.to_csv(f"{production_dir}/production_paths_df.csv", index=False)
 
         date_glcm = get_glcm_csv(production_paths_df, [2], [np.pi/2])
-        date_glcm.to_csv(f"C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/models/{name}/Ground Truths/{date}.csv")
+        date_glcm.to_csv(f"./pages/models/{name}/Ground Truths/{date}.csv")
 
-        model = load_model(f"C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/models/{name}/model.h5")
+        model = load_model(f"./pages/models/{name}/model.h5")
         production_run_csv = prep_and_predict(model, date_glcm.drop("target", axis=1), production_lists)
-        production_run_csv.to_csv(f"C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/models/{name}/Production Runs/{date}.csv")
+        production_run_csv.to_csv(f"./pages/models/{name}/Production Runs/{date}.csv")
         
         # Determine Ground Truth files and Production Runs
 
