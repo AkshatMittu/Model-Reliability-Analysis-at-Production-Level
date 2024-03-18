@@ -1,0 +1,1217 @@
+paths,target,contrast,energy,homogeneity,correlation,dissimilarity
+./pages/models/Bone Fracture Detection/Baseline/fracture/10-rotated1-rotated1-rotated1.jpg,fracture,62.07496782,0.181371784,0.573961802,0.98168034,2.942446911
+./pages/models/Bone Fracture Detection/Baseline/fracture/10-rotated1-rotated1-rotated2.jpg,fracture,61.69194418,0.183657832,0.568558039,0.982458158,3.062721203
+./pages/models/Bone Fracture Detection/Baseline/fracture/10-rotated1-rotated1-rotated3.jpg,fracture,60.96531129,0.189449092,0.573245384,0.983152236,3.12932352
+./pages/models/Bone Fracture Detection/Baseline/fracture/10-rotated1-rotated1.jpg,fracture,127.8333534,0.172960711,0.573006359,0.959753411,3.410452864
+./pages/models/Bone Fracture Detection/Baseline/fracture/10-rotated1-rotated2-rotated1.jpg,fracture,72.36458333,0.173927253,0.587243471,0.977612099,2.724903475
+./pages/models/Bone Fracture Detection/Baseline/fracture/10-rotated1-rotated2-rotated2.jpg,fracture,111.9011221,0.162174344,0.563922875,0.96190737,3.226773649
+./pages/models/Bone Fracture Detection/Baseline/fracture/10-rotated1-rotated2-rotated3.jpg,fracture,67.4606258,0.196758477,0.579243139,0.982438639,3.169522201
+./pages/models/Bone Fracture Detection/Baseline/fracture/10-rotated1-rotated2.jpg,fracture,69.67125161,0.177472894,0.567971086,0.979169613,3.082006113
+./pages/models/Bone Fracture Detection/Baseline/fracture/10-rotated1-rotated3-rotated1.jpg,fracture,88.97663288,0.202082821,0.571928394,0.97653977,3.65789897
+./pages/models/Bone Fracture Detection/Baseline/fracture/10-rotated1-rotated3-rotated2.jpg,fracture,110.2756797,0.196490387,0.591807772,0.970825769,3.382380148
+./pages/models/Bone Fracture Detection/Baseline/fracture/10-rotated1-rotated3-rotated3.jpg,fracture,109.5738417,0.200217105,0.597210059,0.971057325,3.32911036
+./pages/models/Bone Fracture Detection/Baseline/fracture/10-rotated1-rotated3.jpg,fracture,74.16465573,0.201484569,0.569544779,0.980570958,3.691200129
+./pages/models/Bone Fracture Detection/Baseline/fracture/10-rotated1.jpg,fracture,88.13728684,0.168810032,0.561019897,0.966401977,3.204814189
+./pages/models/Bone Fracture Detection/Baseline/fracture/10-rotated2-rotated1-rotated2.jpg,fracture,88.34141731,0.174000205,0.572955851,0.971663441,3.055984556
+./pages/models/Bone Fracture Detection/Baseline/fracture/10-rotated2-rotated1-rotated3.jpg,fracture,61.75347893,0.186135242,0.571928375,0.982784472,3.110541345
+./pages/models/Bone Fracture Detection/Baseline/fracture/10-rotated2-rotated2-rotated1.jpg,fracture,70.27694659,0.200719281,0.582947571,0.98205983,3.250040219
+./pages/models/Bone Fracture Detection/Baseline/fracture/10-rotated2-rotated2-rotated2.jpg,fracture,70.26389559,0.192734873,0.584052681,0.981311303,3.003680019
+./pages/models/Bone Fracture Detection/Baseline/fracture/10-rotated2-rotated2-rotated3.jpg,fracture,123.0925233,0.175800217,0.577360187,0.963972556,3.290842181
+./pages/models/Bone Fracture Detection/Baseline/fracture/10-rotated2-rotated2.jpg,fracture,85.76492117,0.175534405,0.581717807,0.97411055,2.952099421
+./pages/models/Bone Fracture Detection/Baseline/fracture/10-rotated2-rotated3-rotated1.jpg,fracture,71.76522281,0.191716918,0.569959563,0.980378252,3.400679698
+./pages/models/Bone Fracture Detection/Baseline/fracture/10-rotated2-rotated3-rotated2.jpg,fracture,68.76783703,0.205280907,0.566069155,0.982460292,3.748491795
+./pages/models/Bone Fracture Detection/Baseline/fracture/10-rotated2-rotated3-rotated3.jpg,fracture,60.42800837,0.196215192,0.570135302,0.983837803,3.309403153
+./pages/models/Bone Fracture Detection/Baseline/fracture/10-rotated3-rotated1-rotated1.jpg,fracture,58.42054778,0.172694058,0.564034248,0.98122793,2.948821589
+./pages/models/Bone Fracture Detection/Baseline/fracture/10-rotated3-rotated1-rotated2.jpg,fracture,58.63823198,0.181125885,0.561554315,0.98281253,3.160312098
+./pages/models/Bone Fracture Detection/Baseline/fracture/10-rotated3-rotated1-rotated3.jpg,fracture,116.9712033,0.164764178,0.572010106,0.958987328,3.211027992
+./pages/models/Bone Fracture Detection/Baseline/fracture/10-rotated3-rotated2-rotated1.jpg,fracture,70.78444739,0.172160872,0.598735611,0.978480605,2.658602799
+./pages/models/Bone Fracture Detection/Baseline/fracture/10-rotated3-rotated2.jpg,fracture,122.9963602,0.179380188,0.57934966,0.964139212,3.441099582
+./pages/models/Bone Fracture Detection/Baseline/fracture/10-rotated3-rotated3.jpg,fracture,79.96448681,0.204392317,0.562253985,0.979639823,4.033220721
+./pages/models/Bone Fracture Detection/Baseline/fracture/10.jpg,fracture,9.321399644,0.180578153,0.730003555,0.99541572,0.926515468
+./pages/models/Bone Fracture Detection/Baseline/fracture/100-rotated1-rotated1-rotated1.jpg,fracture,216.9050233,0.106690782,0.511111035,0.965092809,4.419984717
+./pages/models/Bone Fracture Detection/Baseline/fracture/100-rotated1-rotated1-rotated2.jpg,fracture,198.0046654,0.12033204,0.55980942,0.968162412,3.831362613
+./pages/models/Bone Fracture Detection/Baseline/fracture/100-rotated1-rotated1-rotated3.jpg,fracture,233.0247144,0.113496178,0.51624324,0.963132269,4.626829955
+./pages/models/Bone Fracture Detection/Baseline/fracture/100-rotated1-rotated1.jpg,fracture,260.9705196,0.113523877,0.524047378,0.959004732,4.607625483
+./pages/models/Bone Fracture Detection/Baseline/fracture/100-rotated1-rotated2-rotated1.jpg,fracture,195.0546573,0.111923066,0.530918059,0.968550117,4.029359717
+./pages/models/Bone Fracture Detection/Baseline/fracture/100-rotated1-rotated2-rotated2.jpg,fracture,194.2606982,0.111981824,0.546397596,0.968447387,3.867921493
+./pages/models/Bone Fracture Detection/Baseline/fracture/100-rotated1-rotated2.jpg,fracture,236.2220882,0.115633696,0.52146194,0.96267354,4.678692085
+./pages/models/Bone Fracture Detection/Baseline/fracture/100-rotated1-rotated3-rotated1.jpg,fracture,216.5355534,0.116065522,0.529553103,0.963549659,4.374758687
+./pages/models/Bone Fracture Detection/Baseline/fracture/100-rotated1-rotated3-rotated2.jpg,fracture,208.2014559,0.112315393,0.530897784,0.964896139,4.222450129
+./pages/models/Bone Fracture Detection/Baseline/fracture/100-rotated2-rotated1-rotated2.jpg,fracture,192.1053732,0.123765596,0.542530178,0.967988177,4.019666988
+./pages/models/Bone Fracture Detection/Baseline/fracture/100-rotated2-rotated1-rotated3.jpg,fracture,192.1053732,0.123765596,0.542530178,0.967988177,4.019666988
+./pages/models/Bone Fracture Detection/Baseline/fracture/100-rotated2-rotated2-rotated1.jpg,fracture,301.6066401,0.150459989,0.482995322,0.953366491,6.304637227
+./pages/models/Bone Fracture Detection/Baseline/fracture/100-rotated2-rotated2-rotated2.jpg,fracture,297.1036639,0.149184113,0.485840924,0.954082516,6.245877574
+./pages/models/Bone Fracture Detection/Baseline/fracture/100-rotated2-rotated2.jpg,fracture,222.8026464,0.111297612,0.521527548,0.964494885,4.448922136
+./pages/models/Bone Fracture Detection/Baseline/fracture/100-rotated2-rotated3-rotated2.jpg,fracture,271.1675515,0.131648697,0.494746176,0.957776026,5.527750965
+./pages/models/Bone Fracture Detection/Baseline/fracture/100-rotated2-rotated3.jpg,fracture,230.7495576,0.118633874,0.529393434,0.961331182,4.446026384
+./pages/models/Bone Fracture Detection/Baseline/fracture/100-rotated3-rotated1-rotated1.jpg,fracture,213.3181306,0.128463356,0.515263825,0.966793383,4.493645431
+./pages/models/Bone Fracture Detection/Baseline/fracture/100-rotated3-rotated1-rotated3.jpg,fracture,288.1370254,0.14411723,0.487164234,0.955440776,6.044481982
+./pages/models/Bone Fracture Detection/Baseline/fracture/100-rotated3-rotated2-rotated3.jpg,fracture,260.9043396,0.147607814,0.493423586,0.959894825,5.433819981
+./pages/models/Bone Fracture Detection/Baseline/fracture/100.jpg,fracture,50.36567712,0.135167958,0.691492477,0.9926356,1.496875269
+./pages/models/Bone Fracture Detection/Baseline/fracture/101-rotated1-rotated1-rotated1.jpg,fracture,153.8396678,0.134788336,0.472245197,0.978130684,4.922076094
+./pages/models/Bone Fracture Detection/Baseline/fracture/101-rotated1-rotated1-rotated3.jpg,fracture,161.9929215,0.155551812,0.478358173,0.977441863,5.213642214
+./pages/models/Bone Fracture Detection/Baseline/fracture/101-rotated1-rotated2-rotated2.jpg,fracture,150.9975265,0.114249416,0.475610486,0.977631153,4.740890444
+./pages/models/Bone Fracture Detection/Baseline/fracture/101-rotated1-rotated3-rotated1.jpg,fracture,157.566542,0.13631106,0.472711498,0.977654501,4.97604971
+./pages/models/Bone Fracture Detection/Baseline/fracture/101-rotated1-rotated3-rotated3.jpg,fracture,180.8573641,0.110523259,0.47183483,0.973691083,4.758787806
+./pages/models/Bone Fracture Detection/Baseline/fracture/101-rotated1-rotated3.jpg,fracture,156.5160674,0.084402268,0.48564195,0.975436687,4.42951657
+./pages/models/Bone Fracture Detection/Baseline/fracture/101-rotated2-rotated1-rotated1.jpg,fracture,128.6554858,0.090220006,0.490725817,0.980020519,4.078547297
+./pages/models/Bone Fracture Detection/Baseline/fracture/101-rotated2-rotated1-rotated2.jpg,fracture,140.3261342,0.084301587,0.465336296,0.978000051,4.831241956
+./pages/models/Bone Fracture Detection/Baseline/fracture/101-rotated2-rotated1-rotated3.jpg,fracture,135.2564752,0.109310519,0.492393051,0.979697957,4.242639961
+./pages/models/Bone Fracture Detection/Baseline/fracture/101-rotated2-rotated2-rotated1.jpg,fracture,161.4103925,0.077413054,0.46607525,0.974343704,4.661759974
+./pages/models/Bone Fracture Detection/Baseline/fracture/101-rotated2-rotated2-rotated2.jpg,fracture,150.7842865,0.082872104,0.483694746,0.976217532,4.364804537
+./pages/models/Bone Fracture Detection/Baseline/fracture/101-rotated2-rotated3-rotated2.jpg,fracture,146.3613859,0.087609543,0.484834988,0.977204944,4.296151062
+./pages/models/Bone Fracture Detection/Baseline/fracture/101-rotated2-rotated3.jpg,fracture,164.1804215,0.117161489,0.475775769,0.975932902,4.801801802
+./pages/models/Bone Fracture Detection/Baseline/fracture/101-rotated2.jpg,fracture,202.3810127,0.084215417,0.455991303,0.968380299,5.584600225
+./pages/models/Bone Fracture Detection/Baseline/fracture/101-rotated3-rotated1-rotated2.jpg,fracture,180.4869691,0.115783073,0.452236293,0.973772114,5.685207529
+./pages/models/Bone Fracture Detection/Baseline/fracture/101-rotated3-rotated1-rotated3.jpg,fracture,184.0179175,0.153986426,0.459657951,0.974277379,5.974440959
+./pages/models/Bone Fracture Detection/Baseline/fracture/101-rotated3-rotated2-rotated1.jpg,fracture,173.7215452,0.106690057,0.454466426,0.974670413,5.387367278
+./pages/models/Bone Fracture Detection/Baseline/fracture/101-rotated3-rotated2.jpg,fracture,166.6219032,0.133031635,0.47529014,0.976154812,5.11104408
+./pages/models/Bone Fracture Detection/Baseline/fracture/101-rotated3-rotated3-rotated1.jpg,fracture,174.4321308,0.096118418,0.454246405,0.974192791,5.159527831
+./pages/models/Bone Fracture Detection/Baseline/fracture/101-rotated3-rotated3-rotated3.jpg,fracture,184.955337,0.15608452,0.459089653,0.974198064,6.140826094
+./pages/models/Bone Fracture Detection/Baseline/fracture/101-rotated3-rotated3.jpg,fracture,194.0423303,0.126030274,0.480058794,0.972350356,4.941541988
+./pages/models/Bone Fracture Detection/Baseline/fracture/101-rotated3.jpg,fracture,178.4581322,0.069394835,0.457409179,0.969995191,5.110923423
+./pages/models/Bone Fracture Detection/Baseline/fracture/101.jpg,fracture,26.45257791,0.070245385,0.501192108,0.995337844,2.195055907
+./pages/models/Bone Fracture Detection/Baseline/fracture/102-rotated1-rotated1-rotated3.jpg,fracture,119.1985199,0.164580175,0.540634636,0.967553484,4.828748391
+./pages/models/Bone Fracture Detection/Baseline/fracture/102-rotated1-rotated1.jpg,fracture,94.10987773,0.146904212,0.568540324,0.973635356,3.911277349
+./pages/models/Bone Fracture Detection/Baseline/fracture/102-rotated1-rotated2-rotated2.jpg,fracture,106.9892817,0.130168294,0.534835637,0.96921306,4.381897523
+./pages/models/Bone Fracture Detection/Baseline/fracture/102-rotated1-rotated2.jpg,fracture,129.6785714,0.139786925,0.544948697,0.963471884,4.749034749
+./pages/models/Bone Fracture Detection/Baseline/fracture/102-rotated1-rotated3-rotated3.jpg,fracture,88.98200209,0.202756137,0.653552803,0.975784958,3.161780084
+./pages/models/Bone Fracture Detection/Baseline/fracture/102-rotated1-rotated3.jpg,fracture,86.8499638,0.197049895,0.654185801,0.97617141,3.042812902
+./pages/models/Bone Fracture Detection/Baseline/fracture/102-rotated1.jpg,fracture,175.1982384,0.132467188,0.532393765,0.949884209,5.420004826
+./pages/models/Bone Fracture Detection/Baseline/fracture/102-rotated2-rotated1-rotated2.jpg,fracture,95.4248713,0.145854986,0.562345303,0.973249848,3.915661197
+./pages/models/Bone Fracture Detection/Baseline/fracture/102-rotated2-rotated2-rotated1.jpg,fracture,104.4440154,0.156888864,0.573541728,0.971105198,3.848093629
+./pages/models/Bone Fracture Detection/Baseline/fracture/102-rotated2-rotated2-rotated3.jpg,fracture,112.2117318,0.157843454,0.558320088,0.969024551,4.241895914
+./pages/models/Bone Fracture Detection/Baseline/fracture/102-rotated2-rotated2.jpg,fracture,140.1630269,0.131391541,0.516666623,0.960216324,5.177143662
+./pages/models/Bone Fracture Detection/Baseline/fracture/102-rotated2-rotated3-rotated1.jpg,fracture,111.9809162,0.16151416,0.553815697,0.969470743,4.510879183
+./pages/models/Bone Fracture Detection/Baseline/fracture/102-rotated2-rotated3.jpg,fracture,146.5354126,0.177113904,0.55005153,0.960018853,5.172679376
+./pages/models/Bone Fracture Detection/Baseline/fracture/102-rotated2.jpg,fracture,121.5993605,0.145810883,0.568017431,0.965985762,4.308055824
+./pages/models/Bone Fracture Detection/Baseline/fracture/102-rotated3-rotated1-rotated2.jpg,fracture,154.9443774,0.152599731,0.530617208,0.957058564,5.364784427
+./pages/models/Bone Fracture Detection/Baseline/fracture/102-rotated3-rotated1-rotated3.jpg,fracture,113.0125483,0.143366078,0.544911458,0.968462994,4.464124839
+./pages/models/Bone Fracture Detection/Baseline/fracture/102-rotated3-rotated1.jpg,fracture,86.05924228,0.185025789,0.629535013,0.976291928,3.200611326
+./pages/models/Bone Fracture Detection/Baseline/fracture/102-rotated3-rotated2-rotated2.jpg,fracture,123.4769144,0.132766348,0.517182826,0.964824391,4.952984234
+./pages/models/Bone Fracture Detection/Baseline/fracture/102-rotated3-rotated2-rotated3.jpg,fracture,132.1896919,0.156659867,0.529330272,0.963313134,5.100205116
+./pages/models/Bone Fracture Detection/Baseline/fracture/102-rotated3-rotated2.jpg,fracture,115.0377856,0.168065924,0.596885649,0.968395566,3.760597651
+./pages/models/Bone Fracture Detection/Baseline/fracture/102-rotated3-rotated3-rotated3.jpg,fracture,123.2787363,0.172815813,0.542802896,0.966134243,4.918697716
+./pages/models/Bone Fracture Detection/Baseline/fracture/102-rotated3-rotated3.jpg,fracture,80.08116152,0.177867515,0.616282771,0.977920945,3.238618082
+./pages/models/Bone Fracture Detection/Baseline/fracture/102-rotated3.jpg,fracture,120.1342101,0.148802266,0.570373808,0.966505528,4.271034427
+./pages/models/Bone Fracture Detection/Baseline/fracture/102.jpg,fracture,16.0379532,0.187163947,0.774219084,0.995283359,1.000110933
+./pages/models/Bone Fracture Detection/Baseline/fracture/103-rotated1-rotated1-rotated1.jpg,fracture,123.5288168,0.205631978,0.574330322,0.97935561,4.09706805
+./pages/models/Bone Fracture Detection/Baseline/fracture/103-rotated1-rotated1-rotated2.jpg,fracture,90.17191522,0.207675787,0.577458792,0.985475326,3.93949083
+./pages/models/Bone Fracture Detection/Baseline/fracture/103-rotated1-rotated1-rotated3.jpg,fracture,112.6904963,0.216116508,0.558602825,0.982446496,4.579613095
+./pages/models/Bone Fracture Detection/Baseline/fracture/103-rotated1-rotated2-rotated2.jpg,fracture,76.80616554,0.205420432,0.586438387,0.987525122,3.648668758
+./pages/models/Bone Fracture Detection/Baseline/fracture/103-rotated1-rotated2-rotated3.jpg,fracture,158.484013,0.213221681,0.542938729,0.97559096,5.360420689
+./pages/models/Bone Fracture Detection/Baseline/fracture/103-rotated1-rotated2.jpg,fracture,116.091176,0.209037495,0.584683079,0.980262731,4.133244852
+./pages/models/Bone Fracture Detection/Baseline/fracture/103-rotated1-rotated3-rotated2.jpg,fracture,92.32175032,0.211685484,0.570433076,0.985236314,4.034185972
+./pages/models/Bone Fracture Detection/Baseline/fracture/103-rotated1-rotated3-rotated3.jpg,fracture,133.4602437,0.204228531,0.571876343,0.978582923,4.441019144
+./pages/models/Bone Fracture Detection/Baseline/fracture/103-rotated1-rotated3.jpg,fracture,98.00311696,0.205591337,0.577003269,0.983772234,4.06183639
+./pages/models/Bone Fracture Detection/Baseline/fracture/103-rotated1.jpg,fracture,141.7108671,0.215504937,0.585896025,0.976160617,4.375160875
+./pages/models/Bone Fracture Detection/Baseline/fracture/103-rotated2-rotated1-rotated1.jpg,fracture,114.1167149,0.206732614,0.593830176,0.981468108,3.924107143
+./pages/models/Bone Fracture Detection/Baseline/fracture/103-rotated2-rotated1-rotated2.jpg,fracture,115.4647482,0.205373423,0.590873079,0.981298568,3.957589286
+./pages/models/Bone Fracture Detection/Baseline/fracture/103-rotated2-rotated1-rotated3.jpg,fracture,131.4734154,0.212770248,0.58017959,0.979277255,4.423463642
+./pages/models/Bone Fracture Detection/Baseline/fracture/103-rotated2-rotated1.jpg,fracture,115.4497667,0.195269091,0.561385709,0.981180567,4.272401866
+./pages/models/Bone Fracture Detection/Baseline/fracture/103-rotated2-rotated2-rotated1.jpg,fracture,102.9910111,0.194897255,0.554502086,0.983482637,4.209238256
+./pages/models/Bone Fracture Detection/Baseline/fracture/103-rotated2-rotated2-rotated2.jpg,fracture,102.9910111,0.194897255,0.554502086,0.983482637,4.209238256
+./pages/models/Bone Fracture Detection/Baseline/fracture/103-rotated2-rotated2-rotated3.jpg,fracture,105.9734355,0.210485849,0.59646714,0.983270814,3.807935167
+./pages/models/Bone Fracture Detection/Baseline/fracture/103-rotated2-rotated2.jpg,fracture,112.2994892,0.19819171,0.571818476,0.981669894,4.126186454
+./pages/models/Bone Fracture Detection/Baseline/fracture/103-rotated2-rotated3-rotated3.jpg,fracture,105.1374678,0.199244251,0.578943889,0.983229022,3.915017696
+./pages/models/Bone Fracture Detection/Baseline/fracture/103-rotated2.jpg,fracture,134.5743243,0.216112502,0.587306073,0.977525713,4.361164736
+./pages/models/Bone Fracture Detection/Baseline/fracture/103-rotated3-rotated1-rotated1.jpg,fracture,109.0125684,0.21103139,0.580394598,0.981591681,4.001186454
+./pages/models/Bone Fracture Detection/Baseline/fracture/103-rotated3-rotated1-rotated2.jpg,fracture,110.0278716,0.20706995,0.580011075,0.9814306,3.994650901
+./pages/models/Bone Fracture Detection/Baseline/fracture/103-rotated3-rotated2-rotated1.jpg,fracture,98.61486486,0.212679787,0.587150068,0.983209943,3.888754826
+./pages/models/Bone Fracture Detection/Baseline/fracture/103-rotated3-rotated2-rotated2.jpg,fracture,90.4092463,0.205543475,0.576587911,0.985261177,3.931205759
+./pages/models/Bone Fracture Detection/Baseline/fracture/103-rotated3-rotated2-rotated3.jpg,fracture,119.9701375,0.212588851,0.592720436,0.979868374,3.944397523
+./pages/models/Bone Fracture Detection/Baseline/fracture/103-rotated3-rotated2.jpg,fracture,141.6656411,0.198165345,0.563026965,0.977170968,4.534849582
+./pages/models/Bone Fracture Detection/Baseline/fracture/103-rotated3-rotated3-rotated2.jpg,fracture,114.0577743,0.214445993,0.564473354,0.982052913,4.516590251
+./pages/models/Bone Fracture Detection/Baseline/fracture/103-rotated3-rotated3.jpg,fracture,101.8425434,0.215182597,0.572643577,0.984051793,4.237250644
+./pages/models/Bone Fracture Detection/Baseline/fracture/103-rotated3.jpg,fracture,116.6454714,0.207199047,0.574150372,0.980810717,4.366714929
+./pages/models/Bone Fracture Detection/Baseline/fracture/103.jpg,fracture,52.71822149,0.245289788,0.723771163,0.991215939,1.569120376
+./pages/models/Bone Fracture Detection/Baseline/fracture/104-rotated1-rotated1-rotated1.jpg,fracture,105.0950169,0.27041484,0.638249012,0.98705614,3.372446107
+./pages/models/Bone Fracture Detection/Baseline/fracture/104-rotated1-rotated1-rotated2.jpg,fracture,116.0419482,0.276899073,0.637521891,0.985722447,3.748149936
+./pages/models/Bone Fracture Detection/Baseline/fracture/104-rotated1-rotated1-rotated3.jpg,fracture,142.8507079,0.280686092,0.631724732,0.982761557,4.637427606
+./pages/models/Bone Fracture Detection/Baseline/fracture/104-rotated1-rotated1.jpg,fracture,95.5006435,0.297206058,0.687182799,0.98791071,2.720479408
+./pages/models/Bone Fracture Detection/Baseline/fracture/104-rotated1-rotated2-rotated1.jpg,fracture,139.1904159,0.279785806,0.634717736,0.983164789,4.486184846
+./pages/models/Bone Fracture Detection/Baseline/fracture/104-rotated1-rotated2-rotated2.jpg,fracture,143.1591055,0.280325654,0.628580867,0.98271731,4.649493243
+./pages/models/Bone Fracture Detection/Baseline/fracture/104-rotated1-rotated2-rotated3.jpg,fracture,32.49235843,0.284673053,0.690744611,0.996031635,2.148367117
+./pages/models/Bone Fracture Detection/Baseline/fracture/104-rotated1-rotated3-rotated1.jpg,fracture,146.3885135,0.281360451,0.640767571,0.982246186,4.356499356
+./pages/models/Bone Fracture Detection/Baseline/fracture/104-rotated1-rotated3-rotated2.jpg,fracture,146.3885135,0.281360451,0.640767571,0.982246186,4.356499356
+./pages/models/Bone Fracture Detection/Baseline/fracture/104-rotated2-rotated1-rotated3.jpg,fracture,89.49376609,0.29390707,0.688164924,0.989011354,2.789333977
+./pages/models/Bone Fracture Detection/Baseline/fracture/104-rotated2-rotated1.jpg,fracture,71.01763594,0.31294065,0.719576195,0.991015865,2.322534588
+./pages/models/Bone Fracture Detection/Baseline/fracture/104-rotated2-rotated2-rotated1.jpg,fracture,64.24308237,0.328048384,0.704644803,0.991745061,2.365548584
+./pages/models/Bone Fracture Detection/Baseline/fracture/104-rotated2-rotated2-rotated2.jpg,fracture,123.1148246,0.301752261,0.669092121,0.984606767,3.274694337
+./pages/models/Bone Fracture Detection/Baseline/fracture/104-rotated2-rotated3-rotated1.jpg,fracture,109.5608108,0.294040406,0.688807642,0.98648027,2.921573359
+./pages/models/Bone Fracture Detection/Baseline/fracture/104-rotated2-rotated3-rotated3.jpg,fracture,109.1833172,0.292829691,0.679411082,0.986554347,3.007561133
+./pages/models/Bone Fracture Detection/Baseline/fracture/104-rotated2-rotated3.jpg,fracture,126.2211229,0.315099168,0.693689561,0.983958926,2.921010296
+./pages/models/Bone Fracture Detection/Baseline/fracture/104-rotated2.jpg,fracture,87.22243002,0.328154062,0.706335787,0.988853323,2.552586068
+./pages/models/Bone Fracture Detection/Baseline/fracture/104-rotated3-rotated1-rotated1.jpg,fracture,117.2940798,0.275104933,0.639378191,0.985733082,3.78856982
+./pages/models/Bone Fracture Detection/Baseline/fracture/104-rotated3-rotated1-rotated2.jpg,fracture,120.9227196,0.276197664,0.633393673,0.985287825,3.938445142
+./pages/models/Bone Fracture Detection/Baseline/fracture/104-rotated3-rotated2-rotated1.jpg,fracture,145.4827864,0.282102998,0.636838389,0.982319216,4.363980051
+./pages/models/Bone Fracture Detection/Baseline/fracture/104-rotated3-rotated2-rotated3.jpg,fracture,109.7730655,0.276895156,0.642976974,0.986646503,3.56481258
+./pages/models/Bone Fracture Detection/Baseline/fracture/104-rotated3-rotated3-rotated1.jpg,fracture,108.2232344,0.274938595,0.641688334,0.986775171,3.490970882
+./pages/models/Bone Fracture Detection/Baseline/fracture/104-rotated3-rotated3-rotated2.jpg,fracture,130.1174791,0.280700795,0.634025288,0.984155284,4.188545689
+./pages/models/Bone Fracture Detection/Baseline/fracture/104-rotated3-rotated3-rotated3.jpg,fracture,143.4068734,0.279142496,0.629541164,0.982683548,4.664032336
+./pages/models/Bone Fracture Detection/Baseline/fracture/104-rotated3.jpg,fracture,132.1320986,0.296282015,0.682631582,0.983942024,3.313284266
+./pages/models/Bone Fracture Detection/Baseline/fracture/105-rotated1-rotated1-rotated3.jpg,fracture,54.92412725,0.158561315,0.53641911,0.98885637,3.808659106
+./pages/models/Bone Fracture Detection/Baseline/fracture/105-rotated1-rotated2-rotated1.jpg,fracture,50.82553089,0.145381495,0.529229812,0.989787138,3.458413771
+./pages/models/Bone Fracture Detection/Baseline/fracture/105-rotated1-rotated2-rotated3.jpg,fracture,56.98067487,0.16043206,0.531556929,0.988413844,3.889016248
+./pages/models/Bone Fracture Detection/Baseline/fracture/105-rotated1-rotated3-rotated1.jpg,fracture,56.78515122,0.161915401,0.532827957,0.988441703,3.915942728
+./pages/models/Bone Fracture Detection/Baseline/fracture/105-rotated1-rotated3-rotated2.jpg,fracture,81.77388996,0.176462518,0.535147938,0.983360816,4.529560811
+./pages/models/Bone Fracture Detection/Baseline/fracture/105-rotated1-rotated3-rotated3.jpg,fracture,74.50828507,0.171067357,0.531707115,0.984800833,4.378820785
+./pages/models/Bone Fracture Detection/Baseline/fracture/105-rotated1.jpg,fracture,84.65848214,0.13502722,0.52374427,0.983193942,3.938646236
+./pages/models/Bone Fracture Detection/Baseline/fracture/105-rotated2-rotated1-rotated3.jpg,fracture,61.16413288,0.128298703,0.536906516,0.987690452,3.054214929
+./pages/models/Bone Fracture Detection/Baseline/fracture/105-rotated2-rotated1.jpg,fracture,110.6122909,0.124180585,0.50623113,0.977296555,3.987813707
+./pages/models/Bone Fracture Detection/Baseline/fracture/105-rotated2-rotated2-rotated2.jpg,fracture,96.60754505,0.124172393,0.522301211,0.979647425,3.370374839
+./pages/models/Bone Fracture Detection/Baseline/fracture/105-rotated2-rotated2.jpg,fracture,81.70996219,0.128717576,0.525164439,0.983430765,3.534970238
+./pages/models/Bone Fracture Detection/Baseline/fracture/105-rotated2-rotated3-rotated1.jpg,fracture,104.5552003,0.128614444,0.529237923,0.979324437,3.503197394
+./pages/models/Bone Fracture Detection/Baseline/fracture/105-rotated2-rotated3-rotated3.jpg,fracture,86.23767294,0.180813504,0.527110986,0.982485306,4.869228604
+./pages/models/Bone Fracture Detection/Baseline/fracture/105-rotated2.jpg,fracture,78.44347249,0.134790657,0.536407334,0.983367516,3.42485119
+./pages/models/Bone Fracture Detection/Baseline/fracture/105-rotated3-rotated1-rotated1.jpg,fracture,100.7164575,0.137598337,0.542792324,0.980126172,3.470358752
+./pages/models/Bone Fracture Detection/Baseline/fracture/105-rotated3-rotated1-rotated2.jpg,fracture,98.90801963,0.138892985,0.549686207,0.980493478,3.315878378
+./pages/models/Bone Fracture Detection/Baseline/fracture/105-rotated3-rotated1.jpg,fracture,77.79733752,0.134500243,0.538845712,0.984706831,3.265001609
+./pages/models/Bone Fracture Detection/Baseline/fracture/105-rotated3-rotated2-rotated2.jpg,fracture,58.69510135,0.162184378,0.559150874,0.988744981,3.15327381
+./pages/models/Bone Fracture Detection/Baseline/fracture/105-rotated3-rotated2.jpg,fracture,78.46921252,0.140531657,0.542721116,0.984696922,3.324062902
+./pages/models/Bone Fracture Detection/Baseline/fracture/105-rotated3-rotated3.jpg,fracture,89.05825692,0.172902248,0.521522546,0.981996507,4.93816361
+./pages/models/Bone Fracture Detection/Baseline/fracture/105-rotated3.jpg,fracture,95.53173263,0.133964873,0.527760645,0.9805618,3.801560489
+./pages/models/Bone Fracture Detection/Baseline/fracture/106-rotated1-rotated1-rotated1.jpg,fracture,66.95664414,0.179406769,0.624306286,0.982162773,2.575772201
+./pages/models/Bone Fracture Detection/Baseline/fracture/106-rotated1-rotated1-rotated3.jpg,fracture,57.09509733,0.184219833,0.589744322,0.984939003,3.201315154
+./pages/models/Bone Fracture Detection/Baseline/fracture/106-rotated1-rotated1.jpg,fracture,63.9991353,0.178158997,0.612416531,0.982773468,2.694236647
+./pages/models/Bone Fracture Detection/Baseline/fracture/106-rotated1-rotated2-rotated2.jpg,fracture,81.40017696,0.183653572,0.627999836,0.97833947,2.731298263
+./pages/models/Bone Fracture Detection/Baseline/fracture/106-rotated1-rotated2-rotated3.jpg,fracture,80.95708655,0.184346425,0.633838693,0.978455321,2.682995495
+./pages/models/Bone Fracture Detection/Baseline/fracture/106-rotated1-rotated2.jpg,fracture,59.60923423,0.182096064,0.589218631,0.984494656,3.298423423
+./pages/models/Bone Fracture Detection/Baseline/fracture/106-rotated1-rotated3.jpg,fracture,66.18462436,0.175418349,0.598254597,0.982493798,2.900398166
+./pages/models/Bone Fracture Detection/Baseline/fracture/106-rotated1.jpg,fracture,80.19936454,0.177780171,0.607789612,0.978344578,2.96842825
+./pages/models/Bone Fracture Detection/Baseline/fracture/106-rotated2-rotated1-rotated2.jpg,fracture,54.08986889,0.196749801,0.590148297,0.985371322,3.513533623
+./pages/models/Bone Fracture Detection/Baseline/fracture/106-rotated2-rotated1.jpg,fracture,61.04767938,0.190831825,0.597209764,0.983917615,3.330417471
+./pages/models/Bone Fracture Detection/Baseline/fracture/106-rotated2-rotated3-rotated1.jpg,fracture,54.9424268,0.173525394,0.595481033,0.985590003,2.79655325
+./pages/models/Bone Fracture Detection/Baseline/fracture/106-rotated2-rotated3-rotated2.jpg,fracture,54.90675273,0.172173978,0.598292118,0.985459243,2.699304215
+./pages/models/Bone Fracture Detection/Baseline/fracture/106-rotated2-rotated3.jpg,fracture,93.39872909,0.179405053,0.612183856,0.974449688,2.884250322
+./pages/models/Bone Fracture Detection/Baseline/fracture/106-rotated2.jpg,fracture,62.28583494,0.190801899,0.632527525,0.982710906,2.832006113
+./pages/models/Bone Fracture Detection/Baseline/fracture/106-rotated3-rotated1-rotated3.jpg,fracture,77.57414334,0.199515348,0.587774699,0.978812666,4.074062902
+./pages/models/Bone Fracture Detection/Baseline/fracture/106-rotated3-rotated1.jpg,fracture,92.831986,0.182110573,0.590166307,0.975280702,3.597309363
+./pages/models/Bone Fracture Detection/Baseline/fracture/106-rotated3-rotated2-rotated1.jpg,fracture,69.49109154,0.188544991,0.614955617,0.981259585,2.915399775
+./pages/models/Bone Fracture Detection/Baseline/fracture/106-rotated3-rotated2-rotated2.jpg,fracture,54.76164334,0.195517567,0.584839524,0.985126019,3.54486406
+./pages/models/Bone Fracture Detection/Baseline/fracture/106-rotated3-rotated2-rotated3.jpg,fracture,67.78312017,0.186131262,0.586440395,0.981701782,3.40293195
+./pages/models/Bone Fracture Detection/Baseline/fracture/106-rotated3-rotated2.jpg,fracture,70.56432995,0.199825353,0.593289254,0.980784373,3.921513031
+./pages/models/Bone Fracture Detection/Baseline/fracture/106-rotated3-rotated3.jpg,fracture,105.3336551,0.20786774,0.588076306,0.971601708,4.645310489
+./pages/models/Bone Fracture Detection/Baseline/fracture/106.jpg,fracture,25.41223903,0.142234859,0.580105953,0.99298175,2.130367642
+./pages/models/Bone Fracture Detection/Baseline/fracture/107-rotated1-rotated1-rotated3.jpg,fracture,131.2733872,0.171155289,0.490675452,0.967287858,4.60905325
+./pages/models/Bone Fracture Detection/Baseline/fracture/107-rotated1-rotated2-rotated3.jpg,fracture,126.250925,0.158442995,0.494204761,0.967661029,4.310971686
+./pages/models/Bone Fracture Detection/Baseline/fracture/107-rotated1-rotated3-rotated2.jpg,fracture,140.3013393,0.155724943,0.496615197,0.964227561,4.644566441
+./pages/models/Bone Fracture Detection/Baseline/fracture/107-rotated1-rotated3-rotated3.jpg,fracture,164.6211993,0.182219725,0.471202317,0.960566845,5.465874356
+./pages/models/Bone Fracture Detection/Baseline/fracture/107-rotated1-rotated3.jpg,fracture,138.5208937,0.132425283,0.519710756,0.958060825,4.007742117
+./pages/models/Bone Fracture Detection/Baseline/fracture/107-rotated2-rotated1-rotated2.jpg,fracture,124.8084178,0.138614206,0.523387802,0.965950431,3.965793919
+./pages/models/Bone Fracture Detection/Baseline/fracture/107-rotated2-rotated1-rotated3.jpg,fracture,131.8914897,0.16553769,0.487286431,0.967178034,4.5877574
+./pages/models/Bone Fracture Detection/Baseline/fracture/107-rotated2-rotated2-rotated2.jpg,fracture,152.3312218,0.133870065,0.528317572,0.956306833,4.241332851
+./pages/models/Bone Fracture Detection/Baseline/fracture/107-rotated2-rotated2-rotated3.jpg,fracture,169.2355816,0.177431352,0.48326572,0.959070862,5.234616313
+./pages/models/Bone Fracture Detection/Baseline/fracture/107-rotated2-rotated2.jpg,fracture,159.000744,0.129459329,0.490521957,0.95541002,4.662705116
+./pages/models/Bone Fracture Detection/Baseline/fracture/107-rotated2-rotated3-rotated1.jpg,fracture,129.5936092,0.151483532,0.486549261,0.9671218,4.382782336
+./pages/models/Bone Fracture Detection/Baseline/fracture/107-rotated2-rotated3-rotated2.jpg,fracture,148.0561253,0.175512962,0.472240261,0.964504292,5.168617278
+./pages/models/Bone Fracture Detection/Baseline/fracture/107-rotated2-rotated3-rotated3.jpg,fracture,157.5375845,0.180825412,0.472528953,0.962380285,5.477658462
+./pages/models/Bone Fracture Detection/Baseline/fracture/107-rotated2-rotated3.jpg,fracture,181.3127413,0.166953638,0.484942644,0.955131139,5.34841538
+./pages/models/Bone Fracture Detection/Baseline/fracture/107-rotated3-rotated1-rotated2.jpg,fracture,150.8926158,0.164555867,0.478194378,0.962606286,5.09507722
+./pages/models/Bone Fracture Detection/Baseline/fracture/107-rotated3-rotated1-rotated3.jpg,fracture,149.4337798,0.160928175,0.478844105,0.962696087,5.033763674
+./pages/models/Bone Fracture Detection/Baseline/fracture/107-rotated3-rotated1.jpg,fracture,152.3923745,0.128380179,0.514203338,0.956333596,4.287403475
+./pages/models/Bone Fracture Detection/Baseline/fracture/107-rotated3-rotated2-rotated2.jpg,fracture,154.6862331,0.161863869,0.471412568,0.962056919,5.233329311
+./pages/models/Bone Fracture Detection/Baseline/fracture/107-rotated3-rotated3-rotated3.jpg,fracture,134.0530084,0.156907935,0.497767761,0.966212679,4.56615991
+./pages/models/Bone Fracture Detection/Baseline/fracture/107.jpg,fracture,40.70644947,0.209680766,0.642951118,0.986279883,2.017900952
+./pages/models/Bone Fracture Detection/Baseline/fracture/108-rotated1-rotated1-rotated1.jpg,fracture,133.5832529,0.202800316,0.592548867,0.971475838,3.621259653
+./pages/models/Bone Fracture Detection/Baseline/fracture/108-rotated1-rotated1-rotated3.jpg,fracture,127.2234958,0.189594346,0.591549384,0.974675864,3.573359073
+./pages/models/Bone Fracture Detection/Baseline/fracture/108-rotated1-rotated1.jpg,fracture,149.9645069,0.197114383,0.617233043,0.965570942,3.505127896
+./pages/models/Bone Fracture Detection/Baseline/fracture/108-rotated1-rotated2-rotated1.jpg,fracture,123.5754907,0.21369483,0.62672507,0.973339826,3.319699163
+./pages/models/Bone Fracture Detection/Baseline/fracture/108-rotated1-rotated2-rotated2.jpg,fracture,125.4927606,0.196344884,0.596947305,0.974299279,3.527107465
+./pages/models/Bone Fracture Detection/Baseline/fracture/108-rotated1-rotated2-rotated3.jpg,fracture,125.5817246,0.189728063,0.583804161,0.974734366,3.639277671
+./pages/models/Bone Fracture Detection/Baseline/fracture/108-rotated1-rotated3-rotated2.jpg,fracture,131.3700531,0.181969351,0.567298407,0.974338809,3.861204955
+./pages/models/Bone Fracture Detection/Baseline/fracture/108-rotated1.jpg,fracture,191.5354931,0.251730257,0.640103711,0.95480121,3.690295206
+./pages/models/Bone Fracture Detection/Baseline/fracture/108-rotated2-rotated1-rotated1.jpg,fracture,148.2188707,0.203337645,0.613994997,0.968734845,3.589486808
+./pages/models/Bone Fracture Detection/Baseline/fracture/108-rotated2-rotated2-rotated1.jpg,fracture,127.9202059,0.186656323,0.574648781,0.974430862,3.777308559
+./pages/models/Bone Fracture Detection/Baseline/fracture/108-rotated2-rotated2-rotated3.jpg,fracture,127.6395592,0.175321674,0.602200298,0.973723954,3.543315637
+./pages/models/Bone Fracture Detection/Baseline/fracture/108-rotated2-rotated2.jpg,fracture,156.0319739,0.193531078,0.564871669,0.968739849,4.0625
+./pages/models/Bone Fracture Detection/Baseline/fracture/108-rotated2-rotated3-rotated2.jpg,fracture,126.8817769,0.189251343,0.554385726,0.975344577,4.049569659
+./pages/models/Bone Fracture Detection/Baseline/fracture/108-rotated2-rotated3-rotated3.jpg,fracture,140.3802687,0.195222384,0.534254829,0.973904194,4.619047619
+./pages/models/Bone Fracture Detection/Baseline/fracture/108-rotated3-rotated1-rotated1.jpg,fracture,151.6210988,0.196606283,0.574766327,0.968576141,3.966216216
+./pages/models/Bone Fracture Detection/Baseline/fracture/108-rotated3-rotated1-rotated3.jpg,fracture,143.4297378,0.198582727,0.539334714,0.973124291,4.664173102
+./pages/models/Bone Fracture Detection/Baseline/fracture/108-rotated3-rotated1.jpg,fracture,151.3769908,0.191197242,0.567768361,0.969597342,4.026484073
+./pages/models/Bone Fracture Detection/Baseline/fracture/108-rotated3-rotated2-rotated1.jpg,fracture,129.4869088,0.198137292,0.58415145,0.972796709,3.678269788
+./pages/models/Bone Fracture Detection/Baseline/fracture/108-rotated3-rotated2-rotated2.jpg,fracture,128.0999638,0.180543829,0.60878578,0.972464313,3.497808076
+./pages/models/Bone Fracture Detection/Baseline/fracture/108-rotated3-rotated2-rotated3.jpg,fracture,135.8476914,0.190349446,0.55088486,0.97380792,4.306708494
+./pages/models/Bone Fracture Detection/Baseline/fracture/108-rotated3-rotated3-rotated1.jpg,fracture,136.8794643,0.192691753,0.550001098,0.973530692,4.289333977
+./pages/models/Bone Fracture Detection/Baseline/fracture/108-rotated3-rotated3.jpg,fracture,150.12132,0.197498743,0.615546901,0.970396662,3.645652349
+./pages/models/Bone Fracture Detection/Baseline/fracture/108.jpg,fracture,33.59082889,0.357252534,0.743561154,0.992032467,1.353280683
+./pages/models/Bone Fracture Detection/Baseline/fracture/109-rotated1-rotated1-rotated1.jpg,fracture,244.7740911,0.243420084,0.609020268,0.936192766,4.302887709
+./pages/models/Bone Fracture Detection/Baseline/fracture/109-rotated1-rotated1-rotated2.jpg,fracture,170.5358752,0.248312631,0.615985015,0.955164183,4.049911519
+./pages/models/Bone Fracture Detection/Baseline/fracture/109-rotated1-rotated1-rotated3.jpg,fracture,250.6333856,0.244230946,0.612135074,0.934961359,4.361989221
+./pages/models/Bone Fracture Detection/Baseline/fracture/109-rotated1-rotated1.jpg,fracture,244.9818211,0.253127814,0.655136972,0.937667069,3.846806628
+./pages/models/Bone Fracture Detection/Baseline/fracture/109-rotated1-rotated2-rotated3.jpg,fracture,193.7088964,0.254631644,0.659461684,0.951325684,3.521356178
+./pages/models/Bone Fracture Detection/Baseline/fracture/109-rotated1-rotated3-rotated3.jpg,fracture,109.406069,0.243584069,0.610177994,0.970958717,3.674127252
+./pages/models/Bone Fracture Detection/Baseline/fracture/109-rotated1-rotated3.jpg,fracture,272.5428129,0.259267447,0.657350178,0.929104236,3.887729247
+./pages/models/Bone Fracture Detection/Baseline/fracture/109-rotated1.jpg,fracture,349.4168879,0.262020203,0.655758613,0.911159673,4.264056467
+./pages/models/Bone Fracture Detection/Baseline/fracture/109-rotated2-rotated1-rotated1.jpg,fracture,195.074626,0.246888624,0.616891391,0.948979526,4.096786519
+./pages/models/Bone Fracture Detection/Baseline/fracture/109-rotated2-rotated1-rotated2.jpg,fracture,230.5633044,0.253616499,0.664588284,0.941109767,3.643018018
+./pages/models/Bone Fracture Detection/Baseline/fracture/109-rotated2-rotated2-rotated1.jpg,fracture,268.6167954,0.250834379,0.631478177,0.931363632,4.321307915
+./pages/models/Bone Fracture Detection/Baseline/fracture/109-rotated2-rotated2-rotated2.jpg,fracture,269.7193131,0.253298351,0.633160399,0.930891012,4.293476512
+./pages/models/Bone Fracture Detection/Baseline/fracture/109-rotated2-rotated2.jpg,fracture,314.1250603,0.255186722,0.629618441,0.919723121,4.566783301
+./pages/models/Bone Fracture Detection/Baseline/fracture/109-rotated2-rotated3.jpg,fracture,313.6096364,0.256040845,0.631091611,0.919484581,4.534065315
+./pages/models/Bone Fracture Detection/Baseline/fracture/109-rotated3-rotated2-rotated1.jpg,fracture,153.838059,0.247220595,0.646739814,0.959808425,3.271496943
+./pages/models/Bone Fracture Detection/Baseline/fracture/109-rotated3-rotated2-rotated2.jpg,fracture,156.4319498,0.246690115,0.64249896,0.959171212,3.37833816
+./pages/models/Bone Fracture Detection/Baseline/fracture/109-rotated3-rotated3-rotated1.jpg,fracture,269.618746,0.244318427,0.648318893,0.931348239,3.962254665
+./pages/models/Bone Fracture Detection/Baseline/fracture/109-rotated3-rotated3-rotated3.jpg,fracture,267.8131636,0.241671109,0.644258376,0.931827851,3.957991474
+./pages/models/Bone Fracture Detection/Baseline/fracture/109-rotated3-rotated3.jpg,fracture,234.4385256,0.240729203,0.606971251,0.939040002,4.435308076
+./pages/models/Bone Fracture Detection/Baseline/fracture/11-rotated1-rotated1-rotated2.jpg,fracture,113.7870214,0.355114176,0.641446312,0.9740421,3.671633687
+./pages/models/Bone Fracture Detection/Baseline/fracture/11-rotated1-rotated1-rotated3.jpg,fracture,71.95827301,0.380963522,0.740174079,0.983964604,2.161176802
+./pages/models/Bone Fracture Detection/Baseline/fracture/11-rotated1-rotated1.jpg,fracture,89.91228282,0.359607639,0.661309532,0.97954143,3.276101995
+./pages/models/Bone Fracture Detection/Baseline/fracture/11-rotated1-rotated3-rotated1.jpg,fracture,108.7659065,0.350345819,0.645780388,0.975187502,3.547317407
+./pages/models/Bone Fracture Detection/Baseline/fracture/11-rotated1-rotated3-rotated2.jpg,fracture,128.8712798,0.359050027,0.656461808,0.971134115,3.868102477
+./pages/models/Bone Fracture Detection/Baseline/fracture/11-rotated1-rotated3-rotated3.jpg,fracture,75.36502574,0.363895644,0.667993365,0.982814441,3.05485843
+./pages/models/Bone Fracture Detection/Baseline/fracture/11-rotated1-rotated3.jpg,fracture,81.87186293,0.375798796,0.726686295,0.981813905,2.460223616
+./pages/models/Bone Fracture Detection/Baseline/fracture/11-rotated2-rotated1-rotated1.jpg,fracture,82.46611567,0.375022099,0.737260268,0.981549992,2.255851834
+./pages/models/Bone Fracture Detection/Baseline/fracture/11-rotated2-rotated1-rotated2.jpg,fracture,84.47566763,0.356277512,0.69192138,0.980976493,2.759411197
+./pages/models/Bone Fracture Detection/Baseline/fracture/11-rotated2-rotated1-rotated3.jpg,fracture,85.40452059,0.370483494,0.688932241,0.981010722,2.826616795
+./pages/models/Bone Fracture Detection/Baseline/fracture/11-rotated2-rotated1.jpg,fracture,135.1417913,0.362543616,0.652186015,0.969834964,4.01663047
+./pages/models/Bone Fracture Detection/Baseline/fracture/11-rotated2-rotated2-rotated1.jpg,fracture,87.77559926,0.3658307,0.714348945,0.980300984,2.576315154
+./pages/models/Bone Fracture Detection/Baseline/fracture/11-rotated2-rotated2.jpg,fracture,139.6622426,0.362461918,0.661074905,0.969073782,4.034025097
+./pages/models/Bone Fracture Detection/Baseline/fracture/11-rotated2-rotated3-rotated1.jpg,fracture,133.1129746,0.355531062,0.65162622,0.97000152,3.776544402
+./pages/models/Bone Fracture Detection/Baseline/fracture/11-rotated2-rotated3-rotated2.jpg,fracture,133.1129746,0.355531062,0.65162622,0.97000152,3.776544402
+./pages/models/Bone Fracture Detection/Baseline/fracture/11-rotated2-rotated3-rotated3.jpg,fracture,130.419844,0.361817297,0.65993092,0.970880306,3.916143822
+./pages/models/Bone Fracture Detection/Baseline/fracture/11-rotated2-rotated3.jpg,fracture,90.10989784,0.370386792,0.656547083,0.979512829,3.424328346
+./pages/models/Bone Fracture Detection/Baseline/fracture/11-rotated2.jpg,fracture,159.2871823,0.365666099,0.648020919,0.964384591,4.234093468
+./pages/models/Bone Fracture Detection/Baseline/fracture/11-rotated3-rotated1-rotated1.jpg,fracture,128.9733551,0.360469558,0.655085171,0.971716688,4.048966377
+./pages/models/Bone Fracture Detection/Baseline/fracture/11-rotated3-rotated1-rotated2.jpg,fracture,123.4300796,0.351534149,0.646542203,0.972587604,3.93052204
+./pages/models/Bone Fracture Detection/Baseline/fracture/11-rotated3-rotated1-rotated3.jpg,fracture,126.319297,0.365334652,0.649255298,0.972385887,4.136221042
+./pages/models/Bone Fracture Detection/Baseline/fracture/11-rotated3-rotated1.jpg,fracture,90.54206885,0.368331293,0.661009761,0.97938426,3.31117278
+./pages/models/Bone Fracture Detection/Baseline/fracture/11-rotated3-rotated2-rotated1.jpg,fracture,120.5391128,0.354181426,0.636488839,0.973028069,3.910412645
+./pages/models/Bone Fracture Detection/Baseline/fracture/11-rotated3-rotated2-rotated2.jpg,fracture,91.00790299,0.357373675,0.649773758,0.979647573,3.409728925
+./pages/models/Bone Fracture Detection/Baseline/fracture/11-rotated3-rotated3-rotated1.jpg,fracture,127.8986486,0.360561093,0.659723886,0.97185769,4.016811454
+./pages/models/Bone Fracture Detection/Baseline/fracture/11-rotated3-rotated3.jpg,fracture,76.46742278,0.37861393,0.729028124,0.983061317,2.418315637
+./pages/models/Bone Fracture Detection/Baseline/fracture/11.jpg,fracture,10.61926384,0.421449741,0.848613634,0.997609026,0.605519802
+./pages/models/Bone Fracture Detection/Baseline/fracture/110-rotated1-rotated2-rotated1.jpg,fracture,136.0922217,0.15586847,0.549822774,0.975041746,4.132842664
+./pages/models/Bone Fracture Detection/Baseline/fracture/110-rotated1-rotated2-rotated3.jpg,fracture,120.1125322,0.165580363,0.556922915,0.979596523,3.894747426
+./pages/models/Bone Fracture Detection/Baseline/fracture/110-rotated1-rotated2.jpg,fracture,108.7316602,0.163841247,0.561968749,0.980858774,3.763996139
+./pages/models/Bone Fracture Detection/Baseline/fracture/110-rotated1-rotated3-rotated3.jpg,fracture,123.7322233,0.148570397,0.536855013,0.977477025,4.013191763
+./pages/models/Bone Fracture Detection/Baseline/fracture/110-rotated2-rotated2-rotated1.jpg,fracture,107.2383768,0.148758468,0.559532643,0.980908728,3.501608752
+./pages/models/Bone Fracture Detection/Baseline/fracture/110-rotated2-rotated2-rotated3.jpg,fracture,112.194297,0.149332055,0.554801916,0.980024483,3.636019949
+./pages/models/Bone Fracture Detection/Baseline/fracture/110-rotated2-rotated3-rotated1.jpg,fracture,80.47126367,0.152217339,0.573665549,0.985499481,3.270893662
+./pages/models/Bone Fracture Detection/Baseline/fracture/110-rotated2-rotated3-rotated3.jpg,fracture,127.986949,0.170244879,0.509884975,0.978898691,4.736989221
+./pages/models/Bone Fracture Detection/Baseline/fracture/110-rotated2-rotated3.jpg,fracture,91.13859395,0.164243268,0.579478888,0.982214036,3.305542149
+./pages/models/Bone Fracture Detection/Baseline/fracture/110-rotated3-rotated1-rotated1.jpg,fracture,122.571328,0.166817749,0.524129569,0.979459562,4.487230534
+./pages/models/Bone Fracture Detection/Baseline/fracture/110-rotated3-rotated1-rotated3.jpg,fracture,97.06531532,0.170444576,0.566901882,0.983843892,3.504424067
+./pages/models/Bone Fracture Detection/Baseline/fracture/110-rotated3-rotated1.jpg,fracture,89.42151303,0.161800908,0.577211359,0.983753514,3.354950933
+./pages/models/Bone Fracture Detection/Baseline/fracture/110-rotated3-rotated2.jpg,fracture,122.4154802,0.153791932,0.557162202,0.976897792,3.79586953
+./pages/models/Bone Fracture Detection/Baseline/fracture/110-rotated3-rotated3-rotated2.jpg,fracture,110.7531974,0.174914406,0.541055693,0.981812688,4.004484395
+./pages/models/Bone Fracture Detection/Baseline/fracture/110-rotated3-rotated3-rotated3.jpg,fracture,101.7762629,0.165737179,0.550129228,0.983026986,3.740990991
+./pages/models/Bone Fracture Detection/Baseline/fracture/110-rotated3-rotated3.jpg,fracture,139.9931226,0.162750311,0.522804493,0.976394429,4.639880952
+./pages/models/Bone Fracture Detection/Baseline/fracture/110.jpg,fracture,27.01617208,0.178889379,0.678245391,0.994473303,1.421251115
+./pages/models/Bone Fracture Detection/Baseline/fracture/111-rotated1-rotated1-rotated1.jpg,fracture,259.2012548,0.248892099,0.582180142,0.957491509,4.792712355
+./pages/models/Bone Fracture Detection/Baseline/fracture/111-rotated1-rotated1-rotated3.jpg,fracture,279.9771959,0.249336642,0.588443849,0.953554844,4.700490669
+./pages/models/Bone Fracture Detection/Baseline/fracture/111-rotated1-rotated1.jpg,fracture,321.3766691,0.274949909,0.601835452,0.947055453,4.838461229
+./pages/models/Bone Fracture Detection/Baseline/fracture/111-rotated1-rotated2-rotated1.jpg,fracture,253.4452622,0.241855304,0.573136788,0.958662975,4.763111326
+./pages/models/Bone Fracture Detection/Baseline/fracture/111-rotated1-rotated2-rotated3.jpg,fracture,247.4835304,0.243135771,0.601034103,0.95966575,4.379765927
+./pages/models/Bone Fracture Detection/Baseline/fracture/111-rotated1-rotated2.jpg,fracture,310.7696067,0.265080767,0.594508336,0.948342139,4.884471525
+./pages/models/Bone Fracture Detection/Baseline/fracture/111-rotated1-rotated3-rotated3.jpg,fracture,189.4728925,0.248378489,0.606074846,0.968845659,3.864824646
+./pages/models/Bone Fracture Detection/Baseline/fracture/111-rotated1-rotated3.jpg,fracture,420.3606419,0.282620137,0.597262798,0.931576114,5.383888353
+./pages/models/Bone Fracture Detection/Baseline/fracture/111-rotated1.jpg,fracture,384.7790782,0.26202827,0.588616369,0.9377588,5.293154762
+./pages/models/Bone Fracture Detection/Baseline/fracture/111-rotated2-rotated1-rotated1.jpg,fracture,275.1393179,0.250353775,0.594124852,0.954670305,4.659507722
+./pages/models/Bone Fracture Detection/Baseline/fracture/111-rotated2-rotated1.jpg,fracture,308.8992519,0.248071511,0.582378804,0.949409098,4.992438867
+./pages/models/Bone Fracture Detection/Baseline/fracture/111-rotated2-rotated2-rotated2.jpg,fracture,300.4656129,0.2544391,0.574557931,0.951188421,5.12898166
+./pages/models/Bone Fracture Detection/Baseline/fracture/111-rotated2-rotated2-rotated3.jpg,fracture,275.6554657,0.256550576,0.606751693,0.955005335,4.537986647
+./pages/models/Bone Fracture Detection/Baseline/fracture/111-rotated2-rotated2.jpg,fracture,302.8665138,0.255533378,0.585205035,0.950685685,5.033421815
+./pages/models/Bone Fracture Detection/Baseline/fracture/111-rotated2-rotated3-rotated1.jpg,fracture,251.0599059,0.251235207,0.570900677,0.958713647,4.962938385
+./pages/models/Bone Fracture Detection/Baseline/fracture/111-rotated2-rotated3-rotated2.jpg,fracture,276.9305019,0.240200431,0.581060237,0.954520103,4.755228443
+./pages/models/Bone Fracture Detection/Baseline/fracture/111-rotated2.jpg,fracture,373.5912967,0.254637664,0.585247606,0.939791348,5.363014801
+./pages/models/Bone Fracture Detection/Baseline/fracture/111-rotated3-rotated1-rotated1.jpg,fracture,191.5648327,0.251099931,0.560722185,0.96828998,5.141690798
+./pages/models/Bone Fracture Detection/Baseline/fracture/111-rotated3-rotated1.jpg,fracture,320.2842061,0.265001645,0.591882743,0.946992852,4.952159749
+./pages/models/Bone Fracture Detection/Baseline/fracture/111-rotated3-rotated2-rotated1.jpg,fracture,198.7007722,0.248080608,0.54690626,0.96724215,5.534387066
+./pages/models/Bone Fracture Detection/Baseline/fracture/111-rotated3-rotated2-rotated2.jpg,fracture,198.7007722,0.248080608,0.54690626,0.96724215,5.534387066
+./pages/models/Bone Fracture Detection/Baseline/fracture/111-rotated3-rotated2-rotated3.jpg,fracture,197.803853,0.246922251,0.547328997,0.967387567,5.542028636
+./pages/models/Bone Fracture Detection/Baseline/fracture/111-rotated3-rotated2.jpg,fracture,316.1008888,0.277130704,0.596545379,0.947860077,4.847470238
+./pages/models/Bone Fracture Detection/Baseline/fracture/111.jpg,fracture,45.89459165,0.30533485,0.743315816,0.992644447,1.338475706
+./pages/models/Bone Fracture Detection/Baseline/fracture/112-rotated1-rotated1-rotated3.jpg,fracture,187.4967825,0.133973194,0.460890685,0.965497994,4.941602317
+./pages/models/Bone Fracture Detection/Baseline/fracture/112-rotated1-rotated1.jpg,fracture,256.9916345,0.10441436,0.435103628,0.951146017,5.601472008
+./pages/models/Bone Fracture Detection/Baseline/fracture/112-rotated1-rotated2-rotated3.jpg,fracture,230.0535915,0.115248693,0.430949285,0.956806181,5.634873713
+./pages/models/Bone Fracture Detection/Baseline/fracture/112-rotated1-rotated3-rotated1.jpg,fracture,245.9808559,0.123286976,0.427518571,0.954681717,5.77292471
+./pages/models/Bone Fracture Detection/Baseline/fracture/112-rotated1-rotated3-rotated3.jpg,fracture,244.5688345,0.123224269,0.42016958,0.954868444,6.028133044
+./pages/models/Bone Fracture Detection/Baseline/fracture/112-rotated2-rotated1-rotated1.jpg,fracture,212.3187339,0.082263763,0.450044309,0.954458554,4.606780888
+./pages/models/Bone Fracture Detection/Baseline/fracture/112-rotated2-rotated1-rotated2.jpg,fracture,211.7904199,0.081539443,0.448776099,0.956137645,4.700209138
+./pages/models/Bone Fracture Detection/Baseline/fracture/112-rotated2-rotated1-rotated3.jpg,fracture,213.9124437,0.082248724,0.447888208,0.954711357,4.601793758
+./pages/models/Bone Fracture Detection/Baseline/fracture/112-rotated2-rotated1.jpg,fracture,264.2958494,0.075424516,0.433171793,0.944390066,5.146999678
+./pages/models/Bone Fracture Detection/Baseline/fracture/112-rotated2-rotated2-rotated2.jpg,fracture,219.4026102,0.095337472,0.441996756,0.957125009,5.189571268
+./pages/models/Bone Fracture Detection/Baseline/fracture/112-rotated3-rotated1-rotated1.jpg,fracture,184.777389,0.120331494,0.423105642,0.965624289,5.670045045
+./pages/models/Bone Fracture Detection/Baseline/fracture/112-rotated3-rotated1.jpg,fracture,245.341538,0.079495523,0.441587867,0.947222418,4.883807915
+./pages/models/Bone Fracture Detection/Baseline/fracture/112-rotated3-rotated2-rotated1.jpg,fracture,218.3707167,0.095267487,0.444993048,0.957987334,5.194759492
+./pages/models/Bone Fracture Detection/Baseline/fracture/112-rotated3-rotated2-rotated2.jpg,fracture,218.6384733,0.095890292,0.446646997,0.957924104,5.113296332
+./pages/models/Bone Fracture Detection/Baseline/fracture/112-rotated3-rotated2-rotated3.jpg,fracture,213.2176038,0.153077049,0.419884522,0.961817716,6.710042632
+./pages/models/Bone Fracture Detection/Baseline/fracture/112-rotated3-rotated2.jpg,fracture,262.0007642,0.114993443,0.421863497,0.951234926,5.972812098
+./pages/models/Bone Fracture Detection/Baseline/fracture/112-rotated3-rotated3-rotated3.jpg,fracture,249.6155285,0.158406882,0.43205756,0.955783806,6.290359556
+./pages/models/Bone Fracture Detection/Baseline/fracture/112-rotated3-rotated3.jpg,fracture,260.9524614,0.111263785,0.428641566,0.951004448,5.779842342
+./pages/models/Bone Fracture Detection/Baseline/fracture/113-rotated1-rotated1-rotated1.jpg,fracture,204.7286639,0.148778802,0.599944722,0.957033415,3.817708333
+./pages/models/Bone Fracture Detection/Baseline/fracture/113-rotated1-rotated1-rotated2.jpg,fracture,205.3870455,0.149445828,0.588280633,0.957216818,4.037624678
+./pages/models/Bone Fracture Detection/Baseline/fracture/113-rotated1-rotated1-rotated3.jpg,fracture,207.7397442,0.161553977,0.578373841,0.957192268,4.448721042
+./pages/models/Bone Fracture Detection/Baseline/fracture/113-rotated1-rotated2-rotated1.jpg,fracture,219.9168879,0.15955874,0.581216724,0.954335432,4.380168115
+./pages/models/Bone Fracture Detection/Baseline/fracture/113-rotated1-rotated3-rotated1.jpg,fracture,169.1586631,0.155385086,0.588279512,0.964581093,4.021798584
+./pages/models/Bone Fracture Detection/Baseline/fracture/113-rotated1-rotated3-rotated2.jpg,fracture,187.6762387,0.143561686,0.602167202,0.959135912,3.59608269
+./pages/models/Bone Fracture Detection/Baseline/fracture/113-rotated1-rotated3-rotated3.jpg,fracture,173.2776906,0.171209871,0.578187019,0.96372295,4.492378539
+./pages/models/Bone Fracture Detection/Baseline/fracture/113-rotated1-rotated3.jpg,fracture,201.8714607,0.149507532,0.615345001,0.956359103,3.464124839
+./pages/models/Bone Fracture Detection/Baseline/fracture/113-rotated1.jpg,fracture,255.5029963,0.150905416,0.604017269,0.947275018,4.112150097
+./pages/models/Bone Fracture Detection/Baseline/fracture/113-rotated2-rotated1-rotated2.jpg,fracture,199.5956202,0.159969363,0.589148528,0.958264997,4.069035553
+./pages/models/Bone Fracture Detection/Baseline/fracture/113-rotated2-rotated1-rotated3.jpg,fracture,198.5573319,0.162657594,0.622727228,0.958439938,3.611627252
+./pages/models/Bone Fracture Detection/Baseline/fracture/113-rotated2-rotated3-rotated1.jpg,fracture,173.452944,0.152146844,0.584671171,0.963645624,3.984917954
+./pages/models/Bone Fracture Detection/Baseline/fracture/113-rotated2-rotated3-rotated2.jpg,fracture,175.1841216,0.158333638,0.581488755,0.963458205,4.167511261
+./pages/models/Bone Fracture Detection/Baseline/fracture/113-rotated2-rotated3.jpg,fracture,232.9594997,0.181836908,0.568051852,0.952154372,5.402348777
+./pages/models/Bone Fracture Detection/Baseline/fracture/113-rotated2.jpg,fracture,254.0709459,0.148459166,0.60053884,0.947447545,4.075892857
+./pages/models/Bone Fracture Detection/Baseline/fracture/113-rotated3-rotated1-rotated1.jpg,fracture,198.6145632,0.15086722,0.574272002,0.958512298,4.264016248
+./pages/models/Bone Fracture Detection/Baseline/fracture/113-rotated3-rotated1-rotated2.jpg,fracture,187.9396316,0.153622263,0.577165658,0.960705065,4.28458816
+./pages/models/Bone Fracture Detection/Baseline/fracture/113-rotated3-rotated1.jpg,fracture,213.1802405,0.147919591,0.609024975,0.954984414,3.554436133
+./pages/models/Bone Fracture Detection/Baseline/fracture/113-rotated3-rotated2-rotated2.jpg,fracture,197.0445624,0.144781001,0.589661683,0.958549137,3.977517696
+./pages/models/Bone Fracture Detection/Baseline/fracture/113-rotated3-rotated2-rotated3.jpg,fracture,208.4291546,0.174554998,0.597168871,0.956793495,4.088461229
+./pages/models/Bone Fracture Detection/Baseline/fracture/113-rotated3-rotated2.jpg,fracture,275.3293316,0.162664987,0.567259419,0.944127655,5.114442568
+./pages/models/Bone Fracture Detection/Baseline/fracture/113-rotated3-rotated3-rotated2.jpg,fracture,180.8421211,0.15569385,0.590361068,0.962186289,3.971183237
+./pages/models/Bone Fracture Detection/Baseline/fracture/113.jpg,fracture,52.29843618,0.182863868,0.775530406,0.989106918,1.174422424
+./pages/models/Bone Fracture Detection/Baseline/fracture/114-rotated1-rotated1-rotated2.jpg,fracture,192.6146638,0.113953457,0.397300548,0.969767643,6.190395753
+./pages/models/Bone Fracture Detection/Baseline/fracture/114-rotated1-rotated1-rotated3.jpg,fracture,139.4602437,0.130784241,0.439649737,0.978580824,5.063364704
+./pages/models/Bone Fracture Detection/Baseline/fracture/114-rotated1-rotated1.jpg,fracture,276.0698801,0.087278949,0.385016902,0.952644957,6.874255952
+./pages/models/Bone Fracture Detection/Baseline/fracture/114-rotated1-rotated2-rotated2.jpg,fracture,234.0401786,0.142607393,0.384380088,0.965619657,7.314269627
+./pages/models/Bone Fracture Detection/Baseline/fracture/114-rotated1-rotated2-rotated3.jpg,fracture,137.6340291,0.137362594,0.444422249,0.979270039,5.020250161
+./pages/models/Bone Fracture Detection/Baseline/fracture/114-rotated1-rotated3-rotated3.jpg,fracture,208.2544241,0.123460973,0.398467022,0.968033947,6.318532819
+./pages/models/Bone Fracture Detection/Baseline/fracture/114-rotated2-rotated1-rotated1.jpg,fracture,177.4489825,0.083970617,0.409199175,0.969284899,5.594896236
+./pages/models/Bone Fracture Detection/Baseline/fracture/114-rotated2-rotated1.jpg,fracture,281.7099019,0.085770791,0.381568042,0.952730841,7.041103604
+./pages/models/Bone Fracture Detection/Baseline/fracture/114-rotated2-rotated2-rotated1.jpg,fracture,203.7495375,0.134857282,0.396943688,0.969251326,6.539716055
+./pages/models/Bone Fracture Detection/Baseline/fracture/114-rotated2-rotated2-rotated3.jpg,fracture,258.1635095,0.157894506,0.374837475,0.962696814,7.8972611
+./pages/models/Bone Fracture Detection/Baseline/fracture/114-rotated2-rotated2.jpg,fracture,279.1350748,0.087907647,0.377564657,0.95357755,7.123491795
+./pages/models/Bone Fracture Detection/Baseline/fracture/114-rotated2-rotated3-rotated1.jpg,fracture,219.4118404,0.142194018,0.387104802,0.967454541,6.97707529
+./pages/models/Bone Fracture Detection/Baseline/fracture/114-rotated2-rotated3-rotated2.jpg,fracture,233.1721364,0.147468614,0.386527467,0.965659116,7.233188546
+./pages/models/Bone Fracture Detection/Baseline/fracture/114-rotated2-rotated3.jpg,fracture,307.1703266,0.133621687,0.38103248,0.95427738,8.036116474
+./pages/models/Bone Fracture Detection/Baseline/fracture/114-rotated2.jpg,fracture,275.0307473,0.095164357,0.383902537,0.955293583,7.122084138
+./pages/models/Bone Fracture Detection/Baseline/fracture/114-rotated3-rotated1-rotated1.jpg,fracture,199.2378941,0.121765526,0.398616369,0.969102347,6.33908462
+./pages/models/Bone Fracture Detection/Baseline/fracture/114-rotated3-rotated1.jpg,fracture,161.3617479,0.091158481,0.422301741,0.971276666,5.35736406
+./pages/models/Bone Fracture Detection/Baseline/fracture/114-rotated3-rotated2-rotated1.jpg,fracture,122.7269144,0.090043988,0.433848352,0.978238966,4.747224903
+./pages/models/Bone Fracture Detection/Baseline/fracture/114-rotated3-rotated2-rotated2.jpg,fracture,171.4793074,0.095732015,0.404687141,0.971446367,5.657717986
+./pages/models/Bone Fracture Detection/Baseline/fracture/114-rotated3-rotated3-rotated2.jpg,fracture,206.6366836,0.142100596,0.397034658,0.969300593,6.586048102
+./pages/models/Bone Fracture Detection/Baseline/fracture/114-rotated3.jpg,fracture,340.3425032,0.130287387,0.376590322,0.949416711,8.360521236
+./pages/models/Bone Fracture Detection/Baseline/fracture/114.jpg,fracture,38.26059533,0.117540484,0.619070537,0.992970012,1.761216077
+./pages/models/Bone Fracture Detection/Baseline/fracture/115-rotated1-rotated2-rotated1.jpg,fracture,186.40808,0.06720325,0.372467691,0.95909749,5.896175193
+./pages/models/Bone Fracture Detection/Baseline/fracture/115-rotated1-rotated2-rotated2.jpg,fracture,155.800555,0.089177067,0.409475849,0.966196574,5.258445946
+./pages/models/Bone Fracture Detection/Baseline/fracture/115-rotated1-rotated2.jpg,fracture,230.1545608,0.088497868,0.402992971,0.950262435,6.173704955
+./pages/models/Bone Fracture Detection/Baseline/fracture/115-rotated1-rotated3-rotated2.jpg,fracture,195.8009773,0.106217399,0.368054004,0.959086956,6.310348295
+./pages/models/Bone Fracture Detection/Baseline/fracture/115-rotated1-rotated3.jpg,fracture,286.2764841,0.14089322,0.372681508,0.943030842,7.363557754
+./pages/models/Bone Fracture Detection/Baseline/fracture/115-rotated2-rotated1.jpg,fracture,231.2823158,0.06741798,0.350287489,0.949794643,6.676178411
+./pages/models/Bone Fracture Detection/Baseline/fracture/115-rotated2-rotated2-rotated2.jpg,fracture,165.6914414,0.083866872,0.416968221,0.963360266,5.402831403
+./pages/models/Bone Fracture Detection/Baseline/fracture/115-rotated2-rotated2-rotated3.jpg,fracture,183.4344434,0.132526094,0.381589269,0.962263096,6.134893822
+./pages/models/Bone Fracture Detection/Baseline/fracture/115-rotated2-rotated3-rotated2.jpg,fracture,191.0677888,0.127510343,0.377569286,0.960773224,6.202360843
+./pages/models/Bone Fracture Detection/Baseline/fracture/115-rotated2-rotated3-rotated3.jpg,fracture,177.7089768,0.119143121,0.397017665,0.963445975,5.70845399
+./pages/models/Bone Fracture Detection/Baseline/fracture/115-rotated2-rotated3.jpg,fracture,282.4686696,0.141371342,0.34872968,0.94445268,8.042712355
+./pages/models/Bone Fracture Detection/Baseline/fracture/115-rotated2.jpg,fracture,322.6854086,0.071673246,0.388866916,0.930410682,7.119932432
+./pages/models/Bone Fracture Detection/Baseline/fracture/115-rotated3-rotated1-rotated1.jpg,fracture,227.6288007,0.144949044,0.369554282,0.954615958,6.906752735
+./pages/models/Bone Fracture Detection/Baseline/fracture/115-rotated3-rotated1-rotated2.jpg,fracture,195.4546533,0.124224649,0.394042503,0.960142654,6.09775177
+./pages/models/Bone Fracture Detection/Baseline/fracture/115-rotated3-rotated1.jpg,fracture,204.8126005,0.062769923,0.385828546,0.953254123,6.057412323
+./pages/models/Bone Fracture Detection/Baseline/fracture/115-rotated3-rotated2-rotated1.jpg,fracture,187.6673906,0.112686304,0.414216984,0.960978494,5.729528636
+./pages/models/Bone Fracture Detection/Baseline/fracture/115-rotated3-rotated2.jpg,fracture,224.9564028,0.093372664,0.404572289,0.951725004,6.140122265
+./pages/models/Bone Fracture Detection/Baseline/fracture/115-rotated3-rotated3-rotated1.jpg,fracture,163.256435,0.116951933,0.412506729,0.966095157,5.519305019
+./pages/models/Bone Fracture Detection/Baseline/fracture/115-rotated3-rotated3.jpg,fracture,262.6809242,0.129874408,0.348430778,0.947321137,7.572092181
+./pages/models/Bone Fracture Detection/Baseline/fracture/115-rotated3.jpg,fracture,382.4640042,0.125725017,0.373485446,0.924134477,7.963481338
+./pages/models/Bone Fracture Detection/Baseline/fracture/115.jpg,fracture,61.84689843,0.134842141,0.630931583,0.986739385,1.9726195
+./pages/models/Bone Fracture Detection/Baseline/fracture/116-rotated1-rotated1-rotated1.jpg,fracture,108.4704995,0.145304844,0.530862363,0.96952093,3.547920689
+./pages/models/Bone Fracture Detection/Baseline/fracture/116-rotated1-rotated1-rotated2.jpg,fracture,109.3460425,0.143216736,0.549888987,0.969143824,3.479327542
+./pages/models/Bone Fracture Detection/Baseline/fracture/116-rotated1-rotated2-rotated2.jpg,fracture,115.7011945,0.157906005,0.487733753,0.969368725,4.312278797
+./pages/models/Bone Fracture Detection/Baseline/fracture/116-rotated1-rotated2-rotated3.jpg,fracture,124.8863819,0.172140799,0.484455307,0.967564739,4.650538932
+./pages/models/Bone Fracture Detection/Baseline/fracture/116-rotated1-rotated3-rotated1.jpg,fracture,114.3603,0.133956499,0.503082444,0.968833139,3.820644305
+./pages/models/Bone Fracture Detection/Baseline/fracture/116-rotated1-rotated3-rotated2.jpg,fracture,107.4463682,0.147005591,0.48909351,0.970924661,4.065456081
+./pages/models/Bone Fracture Detection/Baseline/fracture/116-rotated1-rotated3-rotated3.jpg,fracture,131.7556507,0.175087232,0.475790418,0.965925964,4.918295528
+./pages/models/Bone Fracture Detection/Baseline/fracture/116-rotated1-rotated3.jpg,fracture,126.8146517,0.143874693,0.506064218,0.964720882,3.969775579
+./pages/models/Bone Fracture Detection/Baseline/fracture/116-rotated1.jpg,fracture,159.7096807,0.173092285,0.526486763,0.954737815,4.044059685
+./pages/models/Bone Fracture Detection/Baseline/fracture/116-rotated2-rotated1-rotated3.jpg,fracture,122.9600426,0.171112582,0.481449753,0.968066121,4.675132722
+./pages/models/Bone Fracture Detection/Baseline/fracture/116-rotated2-rotated1.jpg,fracture,123.008647,0.167997206,0.530032582,0.964759158,3.718227156
+./pages/models/Bone Fracture Detection/Baseline/fracture/116-rotated2-rotated2-rotated1.jpg,fracture,118.8832449,0.153340139,0.488548333,0.968819051,4.314229408
+./pages/models/Bone Fracture Detection/Baseline/fracture/116-rotated2-rotated2-rotated3.jpg,fracture,118.8832449,0.153340139,0.488548333,0.968819051,4.314229408
+./pages/models/Bone Fracture Detection/Baseline/fracture/116-rotated2-rotated2.jpg,fracture,123.1315959,0.146752467,0.51822813,0.965490804,3.814068533
+./pages/models/Bone Fracture Detection/Baseline/fracture/116-rotated2.jpg,fracture,156.8934001,0.155391915,0.508504584,0.956204267,4.189732143
+./pages/models/Bone Fracture Detection/Baseline/fracture/116-rotated3-rotated1-rotated1.jpg,fracture,116.4429094,0.152751885,0.486623538,0.96913996,4.331181628
+./pages/models/Bone Fracture Detection/Baseline/fracture/116-rotated3-rotated1-rotated2.jpg,fracture,111.2873633,0.153648164,0.482842494,0.970478112,4.372627091
+./pages/models/Bone Fracture Detection/Baseline/fracture/116-rotated3-rotated1-rotated3.jpg,fracture,133.3834862,0.159458349,0.485954931,0.964956634,4.624638031
+./pages/models/Bone Fracture Detection/Baseline/fracture/116-rotated3-rotated1.jpg,fracture,140.9064511,0.157951291,0.482342825,0.963128949,4.702582046
+./pages/models/Bone Fracture Detection/Baseline/fracture/116-rotated3-rotated2-rotated2.jpg,fracture,115.2382159,0.158388598,0.485264645,0.969592981,4.368203024
+./pages/models/Bone Fracture Detection/Baseline/fracture/116-rotated3-rotated2.jpg,fracture,138.6059765,0.150366533,0.483380169,0.963425875,4.530847812
+./pages/models/Bone Fracture Detection/Baseline/fracture/116-rotated3-rotated3-rotated3.jpg,fracture,115.4858229,0.158924644,0.497463044,0.969601176,4.142475064
+./pages/models/Bone Fracture Detection/Baseline/fracture/116-rotated3-rotated3.jpg,fracture,161.9551359,0.177537411,0.466893395,0.958387295,5.469212516
+./pages/models/Bone Fracture Detection/Baseline/fracture/116-rotated3.jpg,fracture,156.8934001,0.155391915,0.508504584,0.956204267,4.189732143
+./pages/models/Bone Fracture Detection/Baseline/fracture/116.jpg,fracture,40.15861105,0.3013613,0.644307186,0.988758017,1.86755319
+./pages/models/Bone Fracture Detection/Baseline/fracture/117-rotated1-rotated1-rotated2.jpg,fracture,69.98369128,0.381324527,0.721005637,0.977504014,2.161820302
+./pages/models/Bone Fracture Detection/Baseline/fracture/117-rotated1-rotated1-rotated3.jpg,fracture,79.75699807,0.374638362,0.683139687,0.97438953,2.665701416
+./pages/models/Bone Fracture Detection/Baseline/fracture/117-rotated1-rotated1.jpg,fracture,83.2341538,0.436623646,0.736433939,0.972833223,2.200088481
+./pages/models/Bone Fracture Detection/Baseline/fracture/117-rotated1-rotated2-rotated1.jpg,fracture,69.46609556,0.407158483,0.722184733,0.977477405,2.160432754
+./pages/models/Bone Fracture Detection/Baseline/fracture/117-rotated1-rotated2-rotated3.jpg,fracture,69.70266248,0.379916581,0.711700816,0.977571144,2.249396718
+./pages/models/Bone Fracture Detection/Baseline/fracture/117-rotated1-rotated2.jpg,fracture,88.57951255,0.438257182,0.720578834,0.971110244,2.400176963
+./pages/models/Bone Fracture Detection/Baseline/fracture/117-rotated1-rotated3-rotated1.jpg,fracture,70.36641329,0.370407607,0.706460532,0.977248536,2.200068372
+./pages/models/Bone Fracture Detection/Baseline/fracture/117-rotated1-rotated3-rotated2.jpg,fracture,71.15074003,0.37400367,0.707282193,0.977014366,2.238859395
+./pages/models/Bone Fracture Detection/Baseline/fracture/117-rotated1-rotated3-rotated3.jpg,fracture,79.67177445,0.338184677,0.658802271,0.974905706,2.903394466
+./pages/models/Bone Fracture Detection/Baseline/fracture/117-rotated1-rotated3.jpg,fracture,92.07870817,0.407898582,0.700371659,0.970284822,2.609596203
+./pages/models/Bone Fracture Detection/Baseline/fracture/117-rotated1.jpg,fracture,107.9814591,0.470628996,0.737967418,0.964876233,2.45411036
+./pages/models/Bone Fracture Detection/Baseline/fracture/117-rotated2-rotated1-rotated1.jpg,fracture,90.67396638,0.351436372,0.660685711,0.971162612,3.031149453
+./pages/models/Bone Fracture Detection/Baseline/fracture/117-rotated2-rotated1-rotated2.jpg,fracture,99.62244611,0.375084477,0.674577675,0.968183001,2.890142375
+./pages/models/Bone Fracture Detection/Baseline/fracture/117-rotated2-rotated1-rotated3.jpg,fracture,86.35641892,0.36269202,0.667637712,0.972368689,2.864985521
+./pages/models/Bone Fracture Detection/Baseline/fracture/117-rotated2-rotated1.jpg,fracture,117.1642938,0.407902176,0.697823042,0.962613297,2.831724582
+./pages/models/Bone Fracture Detection/Baseline/fracture/117-rotated2-rotated2-rotated1.jpg,fracture,88.05447635,0.337372015,0.660807867,0.971853886,2.906350547
+./pages/models/Bone Fracture Detection/Baseline/fracture/117-rotated2-rotated2-rotated2.jpg,fracture,105.6069015,0.365958624,0.666174761,0.966517301,3.08578668
+./pages/models/Bone Fracture Detection/Baseline/fracture/117-rotated2-rotated2.jpg,fracture,117.1642938,0.407902176,0.697823042,0.962613297,2.831724582
+./pages/models/Bone Fracture Detection/Baseline/fracture/117-rotated2-rotated3-rotated1.jpg,fracture,81.61850467,0.335908506,0.659279565,0.974362278,2.900156853
+./pages/models/Bone Fracture Detection/Baseline/fracture/117-rotated2-rotated3-rotated3.jpg,fracture,90.14406371,0.32484998,0.639901328,0.971797537,3.29918758
+./pages/models/Bone Fracture Detection/Baseline/fracture/117-rotated2-rotated3.jpg,fracture,110.558639,0.347862963,0.654618838,0.965221367,3.333695302
+./pages/models/Bone Fracture Detection/Baseline/fracture/117-rotated3-rotated1.jpg,fracture,94.11550837,0.349201948,0.670794185,0.970411412,2.849219755
+./pages/models/Bone Fracture Detection/Baseline/fracture/117-rotated3-rotated2-rotated3.jpg,fracture,71.65970882,0.377437208,0.718044168,0.977036011,2.175916988
+./pages/models/Bone Fracture Detection/Baseline/fracture/117-rotated3-rotated3-rotated2.jpg,fracture,74.34911921,0.34547718,0.683155604,0.976480473,2.478543275
+./pages/models/Bone Fracture Detection/Baseline/fracture/117-rotated3-rotated3-rotated3.jpg,fracture,83.8368927,0.327559519,0.653243432,0.973750137,3.000864704
+./pages/models/Bone Fracture Detection/Baseline/fracture/117-rotated3.jpg,fracture,127.51287,0.370575577,0.671428983,0.95989834,3.262146075
+./pages/models/Bone Fracture Detection/Baseline/fracture/117.jpg,fracture,27.35652817,0.574151783,0.820096639,0.991188174,0.999175234
+./pages/models/Bone Fracture Detection/Baseline/fracture/118-rotated1-rotated1-rotated1.jpg,fracture,44.38722651,0.215003745,0.695177897,0.985959421,1.625925032
+./pages/models/Bone Fracture Detection/Baseline/fracture/118-rotated1-rotated1-rotated2.jpg,fracture,46.05174147,0.220536489,0.70202584,0.985512117,1.589868887
+./pages/models/Bone Fracture Detection/Baseline/fracture/118-rotated1-rotated1-rotated3.jpg,fracture,48.09383044,0.190056304,0.631548477,0.985658709,2.106258044
+./pages/models/Bone Fracture Detection/Baseline/fracture/118-rotated1-rotated1.jpg,fracture,60.25496702,0.18649245,0.59078258,0.982586249,2.516710907
+./pages/models/Bone Fracture Detection/Baseline/fracture/118-rotated1-rotated2-rotated2.jpg,fracture,33.85670045,0.185744038,0.697918649,0.990015332,1.586912806
+./pages/models/Bone Fracture Detection/Baseline/fracture/118-rotated1-rotated3-rotated2.jpg,fracture,47.52805261,0.208441781,0.690617666,0.985260182,1.648387227
+./pages/models/Bone Fracture Detection/Baseline/fracture/118-rotated1-rotated3-rotated3.jpg,fracture,50.96651786,0.190951073,0.578176285,0.985384513,2.587616634
+./pages/models/Bone Fracture Detection/Baseline/fracture/118-rotated1-rotated3.jpg,fracture,31.26110039,0.195082365,0.68072744,0.990745734,1.586631274
+./pages/models/Bone Fracture Detection/Baseline/fracture/118-rotated2-rotated1-rotated1.jpg,fracture,46.32955277,0.207490169,0.678786552,0.985725037,1.76029601
+./pages/models/Bone Fracture Detection/Baseline/fracture/118-rotated2-rotated1-rotated2.jpg,fracture,56.91475627,0.186251554,0.604550324,0.98337347,2.329733752
+./pages/models/Bone Fracture Detection/Baseline/fracture/118-rotated2-rotated2.jpg,fracture,63.80701014,0.183362594,0.610694361,0.981169304,2.476210586
+./pages/models/Bone Fracture Detection/Baseline/fracture/118-rotated2-rotated3-rotated1.jpg,fracture,52.35812822,0.178370153,0.604336612,0.984796839,2.264056467
+./pages/models/Bone Fracture Detection/Baseline/fracture/118-rotated2.jpg,fracture,55.03444739,0.217409151,0.681925493,0.982812604,1.858852156
+./pages/models/Bone Fracture Detection/Baseline/fracture/118-rotated3-rotated1-rotated1.jpg,fracture,49.67438867,0.171496039,0.615264104,0.985270845,2.270431145
+./pages/models/Bone Fracture Detection/Baseline/fracture/118-rotated3-rotated1-rotated2.jpg,fracture,58.98256515,0.184405861,0.58374934,0.982905841,2.644325129
+./pages/models/Bone Fracture Detection/Baseline/fracture/118-rotated3-rotated1-rotated3.jpg,fracture,58.71390364,0.189733132,0.568920259,0.983148946,2.79888594
+./pages/models/Bone Fracture Detection/Baseline/fracture/118-rotated3-rotated2-rotated2.jpg,fracture,53.58842101,0.177359954,0.642391389,0.98374076,2.126467986
+./pages/models/Bone Fracture Detection/Baseline/fracture/118-rotated3-rotated2-rotated3.jpg,fracture,45.20742841,0.195638284,0.586734408,0.987162296,2.355353121
+./pages/models/Bone Fracture Detection/Baseline/fracture/118-rotated3-rotated3-rotated2.jpg,fracture,41.12031451,0.187037229,0.684670962,0.987896939,1.629846364
+./pages/models/Bone Fracture Detection/Baseline/fracture/118-rotated3-rotated3.jpg,fracture,36.61747909,0.222878239,0.70845732,0.988287028,1.558437902
+./pages/models/Bone Fracture Detection/Baseline/fracture/118-rotated3.jpg,fracture,55.66678732,0.190736102,0.635278835,0.983447407,2.106097169
+./pages/models/Bone Fracture Detection/Baseline/fracture/119-rotated1-rotated1-rotated2.jpg,fracture,202.0270069,0.15669922,0.568337343,0.941566814,3.920185811
+./pages/models/Bone Fracture Detection/Baseline/fracture/119-rotated1-rotated1.jpg,fracture,257.0418477,0.134862213,0.594131809,0.916384083,3.971625644
+./pages/models/Bone Fracture Detection/Baseline/fracture/119-rotated1-rotated2-rotated1.jpg,fracture,210.2158542,0.163074482,0.53937145,0.941560174,4.449203668
+./pages/models/Bone Fracture Detection/Baseline/fracture/119-rotated1-rotated2-rotated3.jpg,fracture,207.3529601,0.181262539,0.520202036,0.943906902,4.826697233
+./pages/models/Bone Fracture Detection/Baseline/fracture/119-rotated1-rotated2.jpg,fracture,241.7389197,0.136141382,0.602019286,0.922292643,3.62333092
+./pages/models/Bone Fracture Detection/Baseline/fracture/119-rotated1-rotated3-rotated1.jpg,fracture,207.4480172,0.135898295,0.59428184,0.933973749,3.486345721
+./pages/models/Bone Fracture Detection/Baseline/fracture/119-rotated1-rotated3-rotated3.jpg,fracture,205.2646597,0.169531881,0.545787984,0.943092185,4.26896316
+./pages/models/Bone Fracture Detection/Baseline/fracture/119-rotated1-rotated3.jpg,fracture,250.758084,0.164501532,0.542101616,0.93056937,4.637990669
+./pages/models/Bone Fracture Detection/Baseline/fracture/119-rotated1.jpg,fracture,304.5585988,0.144472163,0.573949439,0.907083274,4.217221686
+./pages/models/Bone Fracture Detection/Baseline/fracture/119-rotated2-rotated1-rotated1.jpg,fracture,204.469675,0.148535615,0.560130545,0.939418302,3.974340412
+./pages/models/Bone Fracture Detection/Baseline/fracture/119-rotated2-rotated1-rotated2.jpg,fracture,202.5434363,0.145537903,0.563720228,0.939125524,3.882038288
+./pages/models/Bone Fracture Detection/Baseline/fracture/119-rotated2-rotated1-rotated3.jpg,fracture,203.5076014,0.168535102,0.581072751,0.942864397,3.878177284
+./pages/models/Bone Fracture Detection/Baseline/fracture/119-rotated2-rotated2-rotated2.jpg,fracture,206.2400056,0.166321594,0.594324908,0.9413891,3.726170367
+./pages/models/Bone Fracture Detection/Baseline/fracture/119-rotated2-rotated2-rotated3.jpg,fracture,227.2136623,0.141613473,0.611523316,0.931739636,3.640745656
+./pages/models/Bone Fracture Detection/Baseline/fracture/119-rotated2-rotated3-rotated3.jpg,fracture,209.922237,0.173711141,0.576527086,0.941493256,4.008546493
+./pages/models/Bone Fracture Detection/Baseline/fracture/119-rotated2-rotated3.jpg,fracture,252.2522724,0.171955066,0.582096843,0.929976597,4.130369208
+./pages/models/Bone Fracture Detection/Baseline/fracture/119-rotated3-rotated1-rotated1.jpg,fracture,209.6514841,0.155475023,0.540741611,0.940879999,4.288026866
+./pages/models/Bone Fracture Detection/Baseline/fracture/119-rotated3-rotated1-rotated2.jpg,fracture,209.6514841,0.155475023,0.540741611,0.940879999,4.288026866
+./pages/models/Bone Fracture Detection/Baseline/fracture/119-rotated3-rotated1-rotated3.jpg,fracture,196.9271034,0.177928629,0.508627434,0.946836798,4.984535875
+./pages/models/Bone Fracture Detection/Baseline/fracture/119-rotated3-rotated1.jpg,fracture,257.3749196,0.160805103,0.557301951,0.928632499,4.367961712
+./pages/models/Bone Fracture Detection/Baseline/fracture/119-rotated3-rotated2-rotated1.jpg,fracture,200.5664213,0.175350507,0.524901638,0.94519839,4.713662323
+./pages/models/Bone Fracture Detection/Baseline/fracture/119-rotated3-rotated2-rotated3.jpg,fracture,199.2357827,0.165573852,0.551697476,0.945141711,4.086007883
+./pages/models/Bone Fracture Detection/Baseline/fracture/119-rotated3-rotated3-rotated2.jpg,fracture,202.1608349,0.1728745,0.526563577,0.944533133,4.612009331
+./pages/models/Bone Fracture Detection/Baseline/fracture/119-rotated3-rotated3.jpg,fracture,244.8012991,0.179656608,0.517399196,0.934272361,5.103462838
+./pages/models/Bone Fracture Detection/Baseline/fracture/119-rotated3.jpg,fracture,320.8070906,0.147867559,0.558454338,0.907400615,4.596464768
+./pages/models/Bone Fracture Detection/Baseline/fracture/12-rotated1-rotated1-rotated1.jpg,fracture,272.1024373,0.255501591,0.544686627,0.976114519,5.81217825
+./pages/models/Bone Fracture Detection/Baseline/fracture/12-rotated1-rotated1-rotated3.jpg,fracture,263.3721244,0.257092832,0.55368138,0.977015273,5.626950611
+./pages/models/Bone Fracture Detection/Baseline/fracture/12-rotated1-rotated2-rotated1.jpg,fracture,321.1374879,0.243950346,0.532756775,0.971635303,6.237310972
+./pages/models/Bone Fracture Detection/Baseline/fracture/12-rotated1-rotated2-rotated2.jpg,fracture,285.6297659,0.253687414,0.536515795,0.974764681,6.120555824
+./pages/models/Bone Fracture Detection/Baseline/fracture/12-rotated1-rotated2-rotated3.jpg,fracture,359.7506435,0.249986041,0.506302146,0.968026845,7.399895431
+./pages/models/Bone Fracture Detection/Baseline/fracture/12-rotated1-rotated2.jpg,fracture,287.6339286,0.249291833,0.531500093,0.975368442,5.768782175
+./pages/models/Bone Fracture Detection/Baseline/fracture/12-rotated1-rotated3-rotated2.jpg,fracture,317.6990227,0.255973836,0.522641394,0.971754421,6.634471525
+./pages/models/Bone Fracture Detection/Baseline/fracture/12-rotated1-rotated3-rotated3.jpg,fracture,279.0319136,0.253679007,0.539128853,0.975431118,5.92452944
+./pages/models/Bone Fracture Detection/Baseline/fracture/12-rotated2-rotated1-rotated2.jpg,fracture,291.5983752,0.238513073,0.52903453,0.974371327,5.697956885
+./pages/models/Bone Fracture Detection/Baseline/fracture/12-rotated2-rotated1-rotated3.jpg,fracture,341.8428652,0.25163034,0.505042133,0.969509486,7.407979408
+./pages/models/Bone Fracture Detection/Baseline/fracture/12-rotated2-rotated1.jpg,fracture,284.7030043,0.256324206,0.519508362,0.976216754,5.431245978
+./pages/models/Bone Fracture Detection/Baseline/fracture/12-rotated2-rotated2-rotated1.jpg,fracture,321.3309805,0.235206222,0.521695892,0.971862919,6.131213803
+./pages/models/Bone Fracture Detection/Baseline/fracture/12-rotated2-rotated2-rotated2.jpg,fracture,309.3094032,0.249263241,0.516163772,0.972674506,6.614060489
+./pages/models/Bone Fracture Detection/Baseline/fracture/12-rotated2-rotated2-rotated3.jpg,fracture,322.4024895,0.255810705,0.512495811,0.971393514,6.95678491
+./pages/models/Bone Fracture Detection/Baseline/fracture/12-rotated2-rotated3-rotated1.jpg,fracture,276.3356459,0.251496084,0.551729094,0.976243289,5.253680019
+./pages/models/Bone Fracture Detection/Baseline/fracture/12-rotated2-rotated3-rotated3.jpg,fracture,296.4515565,0.250036622,0.53846536,0.974067842,5.753639801
+./pages/models/Bone Fracture Detection/Baseline/fracture/12-rotated2-rotated3.jpg,fracture,289.1603523,0.255019899,0.555887744,0.975105396,5.554375804
+./pages/models/Bone Fracture Detection/Baseline/fracture/12-rotated2.jpg,fracture,249.3248472,0.270121245,0.537397263,0.979621516,5.08144305
+./pages/models/Bone Fracture Detection/Baseline/fracture/12-rotated3-rotated2-rotated3.jpg,fracture,317.353865,0.255988917,0.521064675,0.971856754,6.733208655
+./pages/models/Bone Fracture Detection/Baseline/fracture/12-rotated3-rotated2.jpg,fracture,303.9254947,0.245712575,0.527847202,0.973682819,5.665761744
+./pages/models/Bone Fracture Detection/Baseline/fracture/12-rotated3-rotated3-rotated3.jpg,fracture,372.6893702,0.242096007,0.496250434,0.966946995,7.590472169
+./pages/models/Bone Fracture Detection/Baseline/fracture/12-rotated3-rotated3.jpg,fracture,343.834198,0.258885198,0.530875156,0.969829857,6.557894949
+./pages/models/Bone Fracture Detection/Baseline/fracture/12-rotated3.jpg,fracture,354.8754625,0.249685181,0.529749156,0.969758839,6.253639801
+./pages/models/Bone Fracture Detection/Baseline/fracture/12.jpg,fracture,30.02446293,0.284182364,0.637331615,0.997589904,1.675647072
+./pages/models/Bone Fracture Detection/Baseline/fracture/120-rotated1-rotated1-rotated1.jpg,fracture,107.6859717,0.153568668,0.50954504,0.982221459,4.074485199
+./pages/models/Bone Fracture Detection/Baseline/fracture/120-rotated1-rotated1-rotated2.jpg,fracture,109.0553612,0.156287835,0.509867029,0.982064076,4.119107947
+./pages/models/Bone Fracture Detection/Baseline/fracture/120-rotated1-rotated1.jpg,fracture,122.6261462,0.148144415,0.503430159,0.979460036,4.374698359
+./pages/models/Bone Fracture Detection/Baseline/fracture/120-rotated1-rotated2-rotated2.jpg,fracture,98.96024373,0.139349013,0.517750197,0.983145317,3.743987291
+./pages/models/Bone Fracture Detection/Baseline/fracture/120-rotated1-rotated2-rotated3.jpg,fracture,132.9345439,0.178864098,0.479876523,0.978980289,5.195644305
+./pages/models/Bone Fracture Detection/Baseline/fracture/120-rotated1-rotated2.jpg,fracture,130.5709258,0.155057167,0.49652229,0.9784825,4.593890766
+./pages/models/Bone Fracture Detection/Baseline/fracture/120-rotated1-rotated3-rotated3.jpg,fracture,81.16015122,0.148863224,0.522831333,0.986284866,3.502171815
+./pages/models/Bone Fracture Detection/Baseline/fracture/120-rotated1-rotated3.jpg,fracture,147.8436293,0.168673142,0.481711552,0.97640073,5.20845399
+./pages/models/Bone Fracture Detection/Baseline/fracture/120-rotated1.jpg,fracture,115.4526424,0.146903097,0.514247863,0.978397286,4.30817648
+./pages/models/Bone Fracture Detection/Baseline/fracture/120-rotated2-rotated1-rotated1.jpg,fracture,98.56736647,0.1486134,0.506019238,0.983494157,3.996581403
+./pages/models/Bone Fracture Detection/Baseline/fracture/120-rotated2-rotated1-rotated2.jpg,fracture,87.13081162,0.142251615,0.529969638,0.984994032,3.457347973
+./pages/models/Bone Fracture Detection/Baseline/fracture/120-rotated2-rotated1-rotated3.jpg,fracture,126.7805462,0.176981418,0.489234386,0.979779968,4.935106982
+./pages/models/Bone Fracture Detection/Baseline/fracture/120-rotated2-rotated2-rotated2.jpg,fracture,97.34133687,0.146310243,0.505199593,0.983697687,3.998833655
+./pages/models/Bone Fracture Detection/Baseline/fracture/120-rotated2-rotated2-rotated3.jpg,fracture,132.0258808,0.176644068,0.477198542,0.979105492,5.228301963
+./pages/models/Bone Fracture Detection/Baseline/fracture/120-rotated2-rotated3.jpg,fracture,106.8723053,0.144728394,0.497789136,0.982007562,4.178048584
+./pages/models/Bone Fracture Detection/Baseline/fracture/120-rotated2.jpg,fracture,104.0481419,0.143679766,0.518739792,0.980759151,3.929697555
+./pages/models/Bone Fracture Detection/Baseline/fracture/120-rotated3-rotated1-rotated1.jpg,fracture,108.859194,0.151895743,0.503063563,0.981908332,4.229649292
+./pages/models/Bone Fracture Detection/Baseline/fracture/120-rotated3-rotated1-rotated2.jpg,fracture,74.94190396,0.135412128,0.520764064,0.986785268,3.374135296
+./pages/models/Bone Fracture Detection/Baseline/fracture/120.jpg,fracture,25.26262777,0.148921564,0.580470226,0.99526979,2.228139532
+./pages/models/Bone Fracture Detection/Baseline/fracture/13-rotated1-rotated1-rotated2.jpg,fracture,63.84256355,0.131575681,0.624792712,0.982921373,2.414273649
+./pages/models/Bone Fracture Detection/Baseline/fracture/13-rotated1-rotated1-rotated3.jpg,fracture,60.26184443,0.123543744,0.609995874,0.983039477,2.542370495
+./pages/models/Bone Fracture Detection/Baseline/fracture/13-rotated1-rotated1.jpg,fracture,81.04438144,0.118910616,0.593337535,0.974754579,2.745153636
+./pages/models/Bone Fracture Detection/Baseline/fracture/13-rotated1-rotated2-rotated1.jpg,fracture,60.38318452,0.122620149,0.619980506,0.982888895,2.379685489
+./pages/models/Bone Fracture Detection/Baseline/fracture/13-rotated1-rotated2-rotated2.jpg,fracture,71.69083816,0.11790945,0.600626258,0.978249997,2.620978121
+./pages/models/Bone Fracture Detection/Baseline/fracture/13-rotated1-rotated2-rotated3.jpg,fracture,144.8731097,0.151899845,0.549567178,0.964676158,4.720439189
+./pages/models/Bone Fracture Detection/Baseline/fracture/13-rotated1-rotated2.jpg,fracture,120.8230775,0.122029887,0.596158428,0.962720346,3.21376287
+./pages/models/Bone Fracture Detection/Baseline/fracture/13-rotated1-rotated3-rotated1.jpg,fracture,86.74499276,0.14204535,0.590253882,0.97781599,3.04820222
+./pages/models/Bone Fracture Detection/Baseline/fracture/13-rotated1-rotated3-rotated2.jpg,fracture,131.0826295,0.1656312,0.570325951,0.96851761,4.119711229
+./pages/models/Bone Fracture Detection/Baseline/fracture/13-rotated1-rotated3-rotated3.jpg,fracture,99.48902027,0.154283141,0.602101093,0.975088324,3.09608269
+./pages/models/Bone Fracture Detection/Baseline/fracture/13-rotated2-rotated1-rotated2.jpg,fracture,106.766168,0.128354582,0.551100865,0.972051322,3.923906049
+./pages/models/Bone Fracture Detection/Baseline/fracture/13-rotated2-rotated1-rotated3.jpg,fracture,47.93890766,0.139257684,0.607804505,0.987592055,2.475345882
+./pages/models/Bone Fracture Detection/Baseline/fracture/13-rotated2-rotated2-rotated1.jpg,fracture,100.1275539,0.139352997,0.554039897,0.974980555,3.763855373
+./pages/models/Bone Fracture Detection/Baseline/fracture/13-rotated2-rotated2-rotated2.jpg,fracture,123.1297659,0.155874563,0.547811149,0.970238298,4.607967342
+./pages/models/Bone Fracture Detection/Baseline/fracture/13-rotated2-rotated2-rotated3.jpg,fracture,130.0916385,0.163986077,0.542110885,0.9691758,4.861104408
+./pages/models/Bone Fracture Detection/Baseline/fracture/13-rotated2-rotated2.jpg,fracture,95.66413288,0.118650474,0.594009445,0.970582886,2.868042149
+./pages/models/Bone Fracture Detection/Baseline/fracture/13-rotated2-rotated3-rotated2.jpg,fracture,76.74219755,0.131579004,0.616946255,0.979704562,2.63863417
+./pages/models/Bone Fracture Detection/Baseline/fracture/13-rotated2-rotated3-rotated3.jpg,fracture,89.86661438,0.128759723,0.593205273,0.97624857,2.953768501
+./pages/models/Bone Fracture Detection/Baseline/fracture/13-rotated2.jpg,fracture,94.98731097,0.140239745,0.608942916,0.975046789,2.897985039
+./pages/models/Bone Fracture Detection/Baseline/fracture/13-rotated3-rotated1-rotated1.jpg,fracture,106.9148166,0.123670493,0.580646219,0.970295963,3.5186213
+./pages/models/Bone Fracture Detection/Baseline/fracture/13-rotated3-rotated1-rotated2.jpg,fracture,64.18673584,0.120907808,0.614425871,0.98122834,2.485561454
+./pages/models/Bone Fracture Detection/Baseline/fracture/13-rotated3-rotated1-rotated3.jpg,fracture,69.1673906,0.143511119,0.606932797,0.982153266,2.662202381
+./pages/models/Bone Fracture Detection/Baseline/fracture/13-rotated3-rotated2-rotated1.jpg,fracture,114.3849139,0.126359146,0.56412623,0.969355323,3.810066763
+./pages/models/Bone Fracture Detection/Baseline/fracture/13-rotated3-rotated2-rotated2.jpg,fracture,139.2805462,0.148135379,0.550109016,0.965630264,4.561072233
+./pages/models/Bone Fracture Detection/Baseline/fracture/13-rotated3-rotated2-rotated3.jpg,fracture,155.1647965,0.167787585,0.543139349,0.963270557,5.098355051
+./pages/models/Bone Fracture Detection/Baseline/fracture/13-rotated3-rotated2.jpg,fracture,107.2564149,0.131188417,0.592709695,0.971097879,3.349963803
+./pages/models/Bone Fracture Detection/Baseline/fracture/13-rotated3-rotated3-rotated2.jpg,fracture,96.54401947,0.155374826,0.58376428,0.976094706,3.461731821
+./pages/models/Bone Fracture Detection/Baseline/fracture/13-rotated3-rotated3-rotated3.jpg,fracture,96.54401947,0.155374826,0.58376428,0.976094706,3.461731821
+./pages/models/Bone Fracture Detection/Baseline/fracture/13-rotated3-rotated3.jpg,fracture,122.63051,0.146548145,0.579341041,0.968795046,3.866996461
+./pages/models/Bone Fracture Detection/Baseline/fracture/13.jpg,fracture,54.68490398,0.128390218,0.654304744,0.983132427,1.739257348
+./pages/models/Bone Fracture Detection/Baseline/fracture/14-rotated1-rotated1-rotated1.jpg,fracture,148.571147,0.169512464,0.52670112,0.979000538,4.406209781
+./pages/models/Bone Fracture Detection/Baseline/fracture/14-rotated1-rotated1-rotated2.jpg,fracture,146.4003579,0.16595114,0.524950457,0.979308203,4.384029118
+./pages/models/Bone Fracture Detection/Baseline/fracture/14-rotated1-rotated1-rotated3.jpg,fracture,161.4746018,0.17325747,0.541694639,0.977601879,4.441461551
+./pages/models/Bone Fracture Detection/Baseline/fracture/14-rotated1-rotated1.jpg,fracture,159.168195,0.176131052,0.537126585,0.97784438,4.489140927
+./pages/models/Bone Fracture Detection/Baseline/fracture/14-rotated1-rotated2-rotated3.jpg,fracture,132.3974823,0.178916724,0.527683959,0.98243162,4.68585103
+./pages/models/Bone Fracture Detection/Baseline/fracture/14-rotated1-rotated2.jpg,fracture,176.3462033,0.180593549,0.54639322,0.976086794,4.56451094
+./pages/models/Bone Fracture Detection/Baseline/fracture/14-rotated1-rotated3-rotated3.jpg,fracture,155.7197555,0.162036256,0.519234449,0.978943706,4.564792471
+./pages/models/Bone Fracture Detection/Baseline/fracture/14-rotated1-rotated3.jpg,fracture,236.6893501,0.186885269,0.505680696,0.969367186,6.208252896
+./pages/models/Bone Fracture Detection/Baseline/fracture/14-rotated1.jpg,fracture,240.7992278,0.172842535,0.524488062,0.967374574,5.428169241
+./pages/models/Bone Fracture Detection/Baseline/fracture/14-rotated2-rotated1-rotated1.jpg,fracture,151.9720882,0.170225227,0.539488066,0.978786298,4.403877091
+./pages/models/Bone Fracture Detection/Baseline/fracture/14-rotated2-rotated1-rotated2.jpg,fracture,142.0034588,0.164200263,0.52583042,0.979798145,4.375080438
+./pages/models/Bone Fracture Detection/Baseline/fracture/14-rotated2-rotated1.jpg,fracture,209.7291667,0.181763704,0.515354453,0.972254699,5.654721686
+./pages/models/Bone Fracture Detection/Baseline/fracture/14-rotated2-rotated2.jpg,fracture,150.3813345,0.168944625,0.513054485,0.97956736,4.86770029
+./pages/models/Bone Fracture Detection/Baseline/fracture/14.jpg,fracture,96.21823887,0.208100712,0.606765697,0.986320915,2.980910021
+./pages/models/Bone Fracture Detection/Baseline/fracture/99-rotated1-rotated3-rotated1.jpg,fracture,257.6653998,0.187127638,0.583428226,0.969823782,4.770451255
+./pages/models/Bone Fracture Detection/Baseline/fracture/99-rotated1-rotated3-rotated3.jpg,fracture,235.2337516,0.189242362,0.635630833,0.972425042,3.537845882
+./pages/models/Bone Fracture Detection/Baseline/fracture/99-rotated1-rotated3.jpg,fracture,288.9695745,0.196926715,0.581126525,0.96653128,5.359495656
+./pages/models/Bone Fracture Detection/Baseline/fracture/99-rotated2-rotated1-rotated1.jpg,fracture,226.5841578,0.174808779,0.644147216,0.972270233,3.439289736
+./pages/models/Bone Fracture Detection/Baseline/fracture/99-rotated2-rotated1-rotated2.jpg,fracture,276.7373914,0.183999131,0.644919524,0.966448101,3.675655566
+./pages/models/Bone Fracture Detection/Baseline/fracture/99-rotated2-rotated1-rotated3.jpg,fracture,254.8349622,0.191788503,0.624748601,0.969942074,4.030385296
+./pages/models/Bone Fracture Detection/Baseline/fracture/99-rotated2-rotated1.jpg,fracture,280.7995898,0.182689002,0.642927542,0.966055615,3.732826577
+./pages/models/Bone Fracture Detection/Baseline/fracture/99-rotated2-rotated2-rotated1.jpg,fracture,223.0779038,0.176347211,0.658023395,0.972575109,3.307271557
+./pages/models/Bone Fracture Detection/Baseline/fracture/99-rotated2-rotated2-rotated2.jpg,fracture,231.7542632,0.182051642,0.659799208,0.971730618,3.404520592
+./pages/models/Bone Fracture Detection/Baseline/fracture/99-rotated2-rotated2.jpg,fracture,246.8160191,0.181418361,0.656373254,0.969406479,3.386723777
+./pages/models/Bone Fracture Detection/Baseline/fracture/99-rotated2-rotated3-rotated1.jpg,fracture,259.3773327,0.186937127,0.584839684,0.969645453,4.584459459
+./pages/models/Bone Fracture Detection/Baseline/fracture/99-rotated2-rotated3-rotated2.jpg,fracture,251.8768702,0.194260689,0.577222635,0.970634559,5.141107625
+./pages/models/Bone Fracture Detection/Baseline/fracture/99-rotated3-rotated1-rotated1.jpg,fracture,241.7799429,0.17862417,0.631349286,0.970706236,3.729347651
+./pages/models/Bone Fracture Detection/Baseline/fracture/99-rotated3-rotated1-rotated2.jpg,fracture,209.372607,0.177997453,0.665585866,0.974532785,3.150197072
+./pages/models/Bone Fracture Detection/Baseline/fracture/99-rotated3-rotated1-rotated3.jpg,fracture,259.872064,0.185458075,0.608414552,0.969080166,4.231660232
+./pages/models/Bone Fracture Detection/Baseline/fracture/99-rotated3-rotated2-rotated1.jpg,fracture,266.6479649,0.180168672,0.64499977,0.96799818,3.625563063
+./pages/models/Bone Fracture Detection/Baseline/fracture/99-rotated3-rotated2-rotated2.jpg,fracture,266.6479649,0.180168672,0.64499977,0.96799818,3.625563063
+./pages/models/Bone Fracture Detection/Baseline/fracture/99-rotated3-rotated2.jpg,fracture,284.4109154,0.189397999,0.670132653,0.964886155,3.364784427
+./pages/models/Bone Fracture Detection/Baseline/fracture/99-rotated3-rotated3-rotated1.jpg,fracture,235.6697434,0.179718948,0.629423423,0.972022648,3.648105695
+./pages/models/Bone Fracture Detection/Baseline/fracture/99-rotated3-rotated3-rotated3.jpg,fracture,247.8530808,0.201005591,0.580906748,0.971299439,5.20045045
+./pages/models/Bone Fracture Detection/Baseline/fracture/99-rotated3.jpg,fracture,342.9019667,0.192742399,0.599284739,0.960179094,4.938565798
+./pages/models/Bone Fracture Detection/Baseline/no fracture/10-rotated1-rotated1-rotated1-rotated1.jpg,no fracture,185.0987773,0.205551182,0.579003938,0.974848572,4.796412484
+./pages/models/Bone Fracture Detection/Baseline/no fracture/10-rotated1-rotated1-rotated2.jpg,no fracture,176.7716779,0.217582534,0.583040793,0.976078623,5.061977156
+./pages/models/Bone Fracture Detection/Baseline/no fracture/10-rotated1-rotated1-rotated3-rotated1.jpg,no fracture,163.110843,0.22401837,0.568931561,0.977873722,5.159950129
+./pages/models/Bone Fracture Detection/Baseline/no fracture/10-rotated1-rotated2-rotated1-rotated1.jpg,no fracture,147.3004947,0.214508099,0.580316491,0.980217866,4.410372426
+./pages/models/Bone Fracture Detection/Baseline/no fracture/10-rotated1-rotated2-rotated2-rotated1.jpg,no fracture,145.6522683,0.218195597,0.591365178,0.980468539,4.327662484
+./pages/models/Bone Fracture Detection/Baseline/no fracture/10-rotated1-rotated2-rotated2.jpg,no fracture,161.3953909,0.216261509,0.589384438,0.978460918,4.443894788
+./pages/models/Bone Fracture Detection/Baseline/no fracture/10-rotated1-rotated2-rotated3-rotated1.jpg,no fracture,148.3707971,0.218173015,0.581424396,0.980066928,4.311876609
+./pages/models/Bone Fracture Detection/Baseline/no fracture/10-rotated1-rotated2.jpg,no fracture,176.3630952,0.212682523,0.572127742,0.975994009,4.764921171
+./pages/models/Bone Fracture Detection/Baseline/no fracture/10-rotated1-rotated3-rotated3-rotated1.jpg,no fracture,169.5697394,0.223196508,0.559151318,0.97715856,5.315878378
+./pages/models/Bone Fracture Detection/Baseline/no fracture/10-rotated1-rotated3.jpg,no fracture,191.7690637,0.221282913,0.576140885,0.974072422,4.993967181
+./pages/models/Bone Fracture Detection/Baseline/no fracture/10-rotated1.jpg,no fracture,210.8679818,0.219907475,0.582532423,0.971445268,4.98803491
+./pages/models/Bone Fracture Detection/Baseline/no fracture/10-rotated2-rotated1-rotated1-rotated1.jpg,no fracture,151.1959661,0.220389631,0.587173986,0.979441116,4.480634653
+./pages/models/Bone Fracture Detection/Baseline/no fracture/10-rotated2-rotated1-rotated2-rotated1.jpg,no fracture,138.7058599,0.2166191,0.575462095,0.980866882,4.451395592
+./pages/models/Bone Fracture Detection/Baseline/no fracture/10-rotated2-rotated1-rotated3-rotated1.jpg,no fracture,149.7524735,0.220860024,0.580167531,0.97965564,4.546633687
+./pages/models/Bone Fracture Detection/Baseline/no fracture/10-rotated2-rotated1-rotated3.jpg,no fracture,163.7432231,0.223006998,0.589603403,0.97779416,4.586611165
+./pages/models/Bone Fracture Detection/Baseline/no fracture/10-rotated2-rotated1.jpg,no fracture,214.8418597,0.203526205,0.570847858,0.971360113,5.066883848
+./pages/models/Bone Fracture Detection/Baseline/no fracture/10-rotated2-rotated2-rotated1-rotated1.jpg,no fracture,172.6380108,0.217517465,0.587355851,0.97689711,4.858329311
+./pages/models/Bone Fracture Detection/Baseline/no fracture/10-rotated2-rotated2-rotated1.jpg,no fracture,156.5478,0.220315064,0.588813179,0.978552613,4.483128218
+./pages/models/Bone Fracture Detection/Baseline/no fracture/10-rotated2-rotated2-rotated2-rotated1.jpg,no fracture,160.888051,0.216716548,0.588241924,0.978378517,4.702722812
+./pages/models/Bone Fracture Detection/Baseline/no fracture/10-rotated2-rotated2-rotated3-rotated1.jpg,no fracture,189.7431829,0.22507398,0.555678363,0.974473614,5.490166506
+./pages/models/Bone Fracture Detection/Baseline/no fracture/10-rotated2-rotated2-rotated3.jpg,no fracture,185.2897563,0.229344172,0.567548281,0.975046288,5.428269788
+./pages/models/Bone Fracture Detection/Baseline/no fracture/10-rotated2-rotated3-rotated1-rotated1.jpg,no fracture,164.355514,0.216578808,0.572441665,0.977634457,5.075912967
+./pages/models/Bone Fracture Detection/Baseline/no fracture/10-rotated2-rotated3-rotated2-rotated1.jpg,no fracture,213.5007843,0.207205314,0.576848378,0.971166988,5.162302928
+./pages/models/Bone Fracture Detection/Baseline/no fracture/10-rotated2-rotated3-rotated2.jpg,no fracture,205.1563908,0.215255014,0.584270997,0.972446279,5.248532014
+./pages/models/Bone Fracture Detection/Baseline/no fracture/10-rotated2-rotated3-rotated3-rotated1.jpg,no fracture,190.2910835,0.2044037,0.576058799,0.974177069,4.965552606
+./pages/models/Bone Fracture Detection/Baseline/no fracture/10-rotated2-rotated3-rotated3.jpg,no fracture,216.2354609,0.204251338,0.574520312,0.970804295,5.22142455
+./pages/models/Bone Fracture Detection/Baseline/no fracture/10-rotated2-rotated3.jpg,no fracture,191.0732987,0.219157996,0.588913589,0.974373876,4.876226673
+./pages/models/Bone Fracture Detection/Baseline/no fracture/10-rotated3-rotated1-rotated1.jpg,no fracture,165.8196791,0.213551113,0.596852454,0.977893528,4.4158824
+./pages/models/Bone Fracture Detection/Baseline/no fracture/10-rotated3-rotated1-rotated2-rotated1.jpg,no fracture,162.2493565,0.224031438,0.5732012,0.977985418,5.129946911
+./pages/models/Bone Fracture Detection/Baseline/no fracture/10-rotated3-rotated1-rotated2.jpg,no fracture,178.3144707,0.21958459,0.576367053,0.975835021,5.157697876
+./pages/models/Bone Fracture Detection/Baseline/no fracture/10-rotated3-rotated1-rotated3-rotated1.jpg,no fracture,197.0635859,0.212412601,0.57573525,0.973200061,5.162604569
+./pages/models/Bone Fracture Detection/Baseline/no fracture/10-rotated3-rotated1.jpg,no fracture,180.813606,0.215752414,0.568711901,0.975555477,4.875583172
+./pages/models/Bone Fracture Detection/Baseline/no fracture/10-rotated3-rotated2-rotated1-rotated1.jpg,no fracture,212.1081081,0.205958993,0.574646029,0.971389859,5.100868726
+./pages/models/Bone Fracture Detection/Baseline/no fracture/10-rotated3-rotated2-rotated2-rotated1.jpg,no fracture,194.8483551,0.209216633,0.575690952,0.973497709,4.992097008
+./pages/models/Bone Fracture Detection/Baseline/no fracture/10-rotated3-rotated2-rotated3.jpg,no fracture,169.6982786,0.211177175,0.590855958,0.977124246,4.422055985
+./pages/models/Bone Fracture Detection/Baseline/no fracture/10-rotated3-rotated2.jpg,no fracture,184.9971244,0.212291757,0.590133012,0.975432874,4.670024936
+./pages/models/Bone Fracture Detection/Baseline/no fracture/10-rotated3-rotated3-rotated1-rotated1.jpg,no fracture,156.2058197,0.220088575,0.590390134,0.97893258,4.53891168
+./pages/models/Bone Fracture Detection/Baseline/no fracture/10-rotated3-rotated3-rotated1.jpg,no fracture,181.5166506,0.20442977,0.574469874,0.975720188,4.71710103
+./pages/models/Bone Fracture Detection/Baseline/no fracture/10-rotated3-rotated3-rotated2-rotated1.jpg,no fracture,148.1008486,0.212095904,0.580585698,0.979924453,4.49901464
+./pages/models/Bone Fracture Detection/Baseline/no fracture/10-rotated3-rotated3-rotated2.jpg,no fracture,166.5162886,0.208938663,0.579159871,0.977545952,4.652549871
+./pages/models/Bone Fracture Detection/Baseline/no fracture/10-rotated3-rotated3-rotated3-rotated1.jpg,no fracture,160.9101512,0.232194585,0.585187136,0.978251625,4.923141892
+./pages/models/Bone Fracture Detection/Baseline/no fracture/10-rotated3-rotated3-rotated3.jpg,no fracture,185.309926,0.221715243,0.589468116,0.975326443,4.89527027
+./pages/models/Bone Fracture Detection/Baseline/no fracture/10-rotated3.jpg,no fracture,226.370214,0.222554059,0.570522088,0.969700291,5.419240669
+./pages/models/Bone Fracture Detection/Baseline/no fracture/10.jpg,no fracture,12.83969931,0.265327419,0.732555458,0.99825828,1.139347181
+./pages/models/Bone Fracture Detection/Baseline/no fracture/12-rotated1-rotated1-rotated1-rotated1.jpg,no fracture,45.10070785,0.143887484,0.642505475,0.984140826,2.203346203
+./pages/models/Bone Fracture Detection/Baseline/no fracture/12-rotated1-rotated1-rotated1.jpg,no fracture,83.91954231,0.146874657,0.596998593,0.971686567,3.188646236
+./pages/models/Bone Fracture Detection/Baseline/no fracture/12-rotated1-rotated1-rotated2.jpg,no fracture,66.87429617,0.15676777,0.630962314,0.978212885,2.614804537
+./pages/models/Bone Fracture Detection/Baseline/no fracture/12-rotated1-rotated1.jpg,no fracture,95.93392053,0.142602581,0.606420627,0.96259943,3.047417954
+./pages/models/Bone Fracture Detection/Baseline/no fracture/12-rotated1-rotated2-rotated1.jpg,no fracture,71.86653394,0.131577201,0.606673875,0.974829232,2.739804537
+./pages/models/Bone Fracture Detection/Baseline/no fracture/12-rotated1-rotated2-rotated2.jpg,no fracture,78.5832529,0.145144707,0.603724835,0.972754695,2.867881274
+./pages/models/Bone Fracture Detection/Baseline/no fracture/12-rotated1-rotated2-rotated3-rotated1.jpg,no fracture,68.99897442,0.138749529,0.597324275,0.975604594,2.769204472
+./pages/models/Bone Fracture Detection/Baseline/no fracture/12-rotated1-rotated2.jpg,no fracture,64.50301641,0.15116562,0.65180975,0.977757357,2.466779279
+./pages/models/Bone Fracture Detection/Baseline/no fracture/12-rotated1-rotated3-rotated1-rotated1.jpg,no fracture,78.94471927,0.134335596,0.598970155,0.970065471,2.831865347
+./pages/models/Bone Fracture Detection/Baseline/no fracture/12-rotated1-rotated3-rotated3-rotated1.jpg,no fracture,53.3167833,0.155079087,0.643393162,0.982222228,2.3527389
+./pages/models/Bone Fracture Detection/Baseline/no fracture/12-rotated1-rotated3-rotated3.jpg,no fracture,51.0560851,0.138885984,0.627289073,0.981151641,2.318512709
+./pages/models/Bone Fracture Detection/Baseline/no fracture/12-rotated1-rotated3.jpg,no fracture,85.20276303,0.168818802,0.616871611,0.973143167,3.116735039
+./pages/models/Bone Fracture Detection/Baseline/no fracture/12-rotated1.jpg,no fracture,123.5239503,0.147196661,0.600717306,0.955178074,3.473877896
+./pages/models/Bone Fracture Detection/Baseline/no fracture/12-rotated2-rotated1-rotated2.jpg,no fracture,93.17732465,0.174135272,0.593748667,0.971633945,3.527469434
+./pages/models/Bone Fracture Detection/Baseline/no fracture/12-rotated2-rotated1-rotated3-rotated1.jpg,no fracture,64.63620093,0.153698773,0.606106793,0.979209227,2.706624035
+./pages/models/Bone Fracture Detection/Baseline/no fracture/12-rotated2-rotated1-rotated3.jpg,no fracture,70.34551963,0.154060465,0.615801192,0.977425818,2.703145109
+./pages/models/Bone Fracture Detection/Baseline/no fracture/12-rotated2-rotated1.jpg,no fracture,74.41662645,0.15710015,0.637738079,0.974983095,2.651906371
+./pages/models/Bone Fracture Detection/Baseline/no fracture/12-rotated2-rotated2-rotated1-rotated1.jpg,no fracture,65.01337275,0.160150013,0.60889401,0.979749843,2.775076416
+./pages/models/Bone Fracture Detection/Baseline/no fracture/12-rotated2-rotated2-rotated1.jpg,no fracture,93.91433398,0.155298608,0.58495151,0.969469936,3.507239382
+./pages/models/Bone Fracture Detection/Baseline/no fracture/12-rotated2-rotated2-rotated2.jpg,no fracture,98.7363055,0.183104309,0.586974968,0.970370119,3.73204231
+./pages/models/Bone Fracture Detection/Baseline/no fracture/12-rotated2-rotated2-rotated3-rotated1.jpg,no fracture,86.62590492,0.181488434,0.574228912,0.974229633,3.677465412
+./pages/models/Bone Fracture Detection/Baseline/no fracture/12-rotated2-rotated2-rotated3.jpg,no fracture,103.1412886,0.185850094,0.582738773,0.969421112,4.045809202
+./pages/models/Bone Fracture Detection/Baseline/no fracture/12-rotated2-rotated2.jpg,no fracture,101.0733993,0.142747628,0.602827294,0.963730776,3.206644144
+./pages/models/Bone Fracture Detection/Baseline/no fracture/12-rotated2-rotated3-rotated1-rotated1.jpg,no fracture,77.39903073,0.170942381,0.596861772,0.976158625,3.260517214
+./pages/models/Bone Fracture Detection/Baseline/no fracture/12-rotated2-rotated3-rotated2-rotated1.jpg,no fracture,67.62089768,0.15394385,0.606557253,0.978239128,2.837797619
+./pages/models/Bone Fracture Detection/Baseline/no fracture/12-rotated2-rotated3-rotated2.jpg,no fracture,67.46919241,0.154439475,0.629509043,0.978362261,2.660553411
+./pages/models/Bone Fracture Detection/Baseline/no fracture/12-rotated2-rotated3.jpg,no fracture,63.11291425,0.146752936,0.646775777,0.977068752,2.387487934
+./pages/models/Bone Fracture Detection/Baseline/no fracture/12-rotated3-rotated1-rotated1-rotated1.jpg,no fracture,61.00339849,0.146177725,0.608708863,0.980008483,2.634511744
+./pages/models/Bone Fracture Detection/Baseline/no fracture/12-rotated3-rotated1-rotated2-rotated1.jpg,no fracture,65.47357625,0.152562255,0.610011546,0.978575322,2.68782175
+./pages/models/Bone Fracture Detection/Baseline/no fracture/12-rotated3-rotated1-rotated3-rotated1.jpg,no fracture,64.07711953,0.164405858,0.606569412,0.979660125,2.778173263
+./pages/models/Bone Fracture Detection/Baseline/no fracture/12-rotated3-rotated1.jpg,no fracture,64.92641972,0.146193458,0.622952762,0.975385662,2.586932915
+./pages/models/Bone Fracture Detection/Baseline/no fracture/12-rotated3-rotated2.jpg,no fracture,120.6727196,0.143025593,0.602267824,0.953547683,3.31050917
+./pages/models/Bone Fracture Detection/Baseline/no fracture/12-rotated3-rotated3-rotated1.jpg,no fracture,78.96378298,0.135642334,0.586669781,0.972391012,3.064249517
+./pages/models/Bone Fracture Detection/Baseline/no fracture/12-rotated3-rotated3-rotated2-rotated1.jpg,no fracture,64.3056427,0.144474663,0.61223399,0.978918265,2.698017214
+./pages/models/Bone Fracture Detection/Baseline/no fracture/12-rotated3-rotated3-rotated3-rotated1.jpg,no fracture,70.95541747,0.152623737,0.60834885,0.977112128,2.865930663
+./pages/models/Bone Fracture Detection/Baseline/no fracture/12-rotated3-rotated3-rotated3.jpg,no fracture,70.76761583,0.155101718,0.612293279,0.977186354,2.854287323
+./pages/models/Bone Fracture Detection/Baseline/no fracture/12-rotated3-rotated3.jpg,no fracture,103.2366675,0.13975973,0.584993831,0.964420627,3.506133366
+./pages/models/Bone Fracture Detection/Baseline/no fracture/12-rotated3.jpg,no fracture,122.436032,0.140134993,0.599890413,0.952238452,3.284206081
+./pages/models/Bone Fracture Detection/Baseline/no fracture/12.jpg,no fracture,44.95144944,0.137174962,0.697069348,0.981704475,1.253691501
+./pages/models/Bone Fracture Detection/Baseline/no fracture/13-rotated1-rotated1-rotated1.jpg,no fracture,121.7294683,0.349889303,0.603650251,0.980204114,3.622446107
+./pages/models/Bone Fracture Detection/Baseline/no fracture/13-rotated1-rotated1-rotated3-rotated1.jpg,no fracture,119.7080518,0.34584643,0.621685017,0.980755561,3.578145109
+./pages/models/Bone Fracture Detection/Baseline/no fracture/13-rotated1-rotated1-rotated3.jpg,no fracture,123.073902,0.357946156,0.627775762,0.980198111,3.52958092
+./pages/models/Bone Fracture Detection/Baseline/no fracture/13-rotated1-rotated2-rotated1-rotated1.jpg,no fracture,115.0556427,0.348298724,0.636765535,0.981529509,3.055884009
+./pages/models/Bone Fracture Detection/Baseline/no fracture/13-rotated1-rotated2-rotated2-rotated1.jpg,no fracture,152.667652,0.312166935,0.572266561,0.975822113,4.461249196
+./pages/models/Bone Fracture Detection/Baseline/no fracture/13-rotated1-rotated2-rotated3-rotated1.jpg,no fracture,150.0584982,0.316184152,0.579169839,0.976155192,4.321770431
+./pages/models/Bone Fracture Detection/Baseline/no fracture/13-rotated1-rotated3-rotated1-rotated1.jpg,no fracture,120.074264,0.318934645,0.593933677,0.980951785,3.662624678
+./pages/models/Bone Fracture Detection/Baseline/no fracture/13-rotated1-rotated3-rotated2.jpg,no fracture,119.6806226,0.326584716,0.625288585,0.98090964,3.246903153
+./pages/models/Bone Fracture Detection/Baseline/no fracture/13-rotated1-rotated3-rotated3-rotated1.jpg,no fracture,125.1490508,0.344977117,0.625132567,0.980073341,3.344996782
+./pages/models/Bone Fracture Detection/Baseline/no fracture/13-rotated1-rotated3-rotated3.jpg,no fracture,125.1535755,0.347229398,0.626408253,0.980066546,3.340391731
+./pages/models/Bone Fracture Detection/Baseline/no fracture/13-rotated1.jpg,no fracture,143.2017173,0.390492004,0.629764113,0.976907271,3.463581885
+./pages/models/Bone Fracture Detection/Baseline/no fracture/13-rotated2-rotated1-rotated1-rotated1.jpg,no fracture,97.15610923,0.347274881,0.636322714,0.984332213,2.941461551
+./pages/models/Bone Fracture Detection/Baseline/no fracture/13-rotated2-rotated1-rotated2-rotated1.jpg,no fracture,101.543195,0.322830958,0.623701898,0.983734428,3.116111647
+./pages/models/Bone Fracture Detection/Baseline/no fracture/13-rotated2-rotated1-rotated2.jpg,no fracture,122.9618123,0.337111783,0.632867519,0.980430511,3.182211229
+./pages/models/Bone Fracture Detection/Baseline/no fracture/13-rotated2-rotated1-rotated3-rotated1.jpg,no fracture,103.0576536,0.350655124,0.612869529,0.983186969,3.283039736
+./pages/models/Bone Fracture Detection/Baseline/no fracture/13-rotated2-rotated1-rotated3.jpg,no fracture,130.1407658,0.350713154,0.609481501,0.978861085,3.613537645
+./pages/models/Bone Fracture Detection/Baseline/no fracture/13-rotated2-rotated1.jpg,no fracture,145.9763715,0.379534996,0.630354018,0.976537885,3.466316763
+./pages/models/Bone Fracture Detection/Baseline/no fracture/13-rotated2-rotated2-rotated1.jpg,no fracture,138.3046573,0.36980635,0.619882159,0.97762141,3.718951094
+./pages/models/Bone Fracture Detection/Baseline/no fracture/13-rotated2-rotated2-rotated2-rotated1.jpg,no fracture,125.4920769,0.323637008,0.593455723,0.979678832,3.851150257
+./pages/models/Bone Fracture Detection/Baseline/no fracture/13-rotated2-rotated2-rotated2.jpg,no fracture,145.2372909,0.344549571,0.597221652,0.976613314,4.059885779
+./pages/models/Bone Fracture Detection/Baseline/no fracture/13-rotated2-rotated2.jpg,no fracture,113.6994651,0.394227568,0.626292899,0.981453488,3.262890122
+./pages/models/Bone Fracture Detection/Baseline/no fracture/13-rotated2-rotated3-rotated1-rotated1.jpg,no fracture,145.489161,0.304512821,0.569900192,0.976748646,4.327642375
+./pages/models/Bone Fracture Detection/Baseline/no fracture/13-rotated2-rotated3-rotated1.jpg,no fracture,123.8943653,0.374394703,0.624760509,0.97984769,3.474601834
+./pages/models/Bone Fracture Detection/Baseline/no fracture/13-rotated2.jpg,no fracture,141.8967383,0.453897161,0.636186313,0.976902294,3.659165862
+./pages/models/Bone Fracture Detection/Baseline/no fracture/13-rotated3-rotated1-rotated1-rotated1.jpg,no fracture,101.4108752,0.315389255,0.623727553,0.983853324,3.070222008
+./pages/models/Bone Fracture Detection/Baseline/no fracture/13-rotated3-rotated1-rotated1.jpg,no fracture,145.3939028,0.337079841,0.604825299,0.976718686,3.952501609
+./pages/models/Bone Fracture Detection/Baseline/no fracture/13-rotated3-rotated1-rotated3-rotated1.jpg,no fracture,120.4678451,0.303162902,0.543630513,0.981114459,4.324907497
+./pages/models/Bone Fracture Detection/Baseline/no fracture/13-rotated3-rotated1-rotated3.jpg,no fracture,137.0224421,0.311526008,0.552538017,0.978592537,4.40327381
+./pages/models/Bone Fracture Detection/Baseline/no fracture/13-rotated3-rotated1.jpg,no fracture,146.5888634,0.344858828,0.624920301,0.976728277,3.479870495
+./pages/models/Bone Fracture Detection/Baseline/no fracture/13-rotated3-rotated2-rotated1-rotated1.jpg,no fracture,104.2074284,0.313837513,0.613212019,0.983439566,3.18020029
+./pages/models/Bone Fracture Detection/Baseline/no fracture/13-rotated3-rotated2-rotated1.jpg,no fracture,128.6910996,0.329932289,0.611314774,0.979263228,3.691702864
+./pages/models/Bone Fracture Detection/Baseline/no fracture/13-rotated3-rotated2-rotated2-rotated1.jpg,no fracture,101.8854167,0.313767915,0.62291717,0.983775173,3.077380952
+./pages/models/Bone Fracture Detection/Baseline/no fracture/13-rotated3-rotated2-rotated2.jpg,no fracture,116.5421292,0.311121925,0.615018131,0.981537759,3.251910393
+./pages/models/Bone Fracture Detection/Baseline/no fracture/13-rotated3-rotated2-rotated3-rotated1.jpg,no fracture,96.3478121,0.315408348,0.621920025,0.98465798,3.054898649
+./pages/models/Bone Fracture Detection/Baseline/no fracture/13-rotated3-rotated2.jpg,no fracture,152.3626729,0.353771208,0.617614124,0.975593292,3.90393742
+./pages/models/Bone Fracture Detection/Baseline/no fracture/13-rotated3-rotated3-rotated2.jpg,no fracture,155.5550997,0.321321673,0.586807178,0.975620592,4.070342664
+./pages/models/Bone Fracture Detection/Baseline/no fracture/13-rotated3-rotated3-rotated3-rotated1.jpg,no fracture,114.6994651,0.322895366,0.624871589,0.981830545,3.332428411
+./pages/models/Bone Fracture Detection/Baseline/no fracture/13-rotated3-rotated3-rotated3.jpg,no fracture,113.4902067,0.320773836,0.620768711,0.982049594,3.309624356
+./pages/models/Bone Fracture Detection/Baseline/no fracture/13-rotated3.jpg,no fracture,154.5489463,0.369496828,0.633636491,0.975369956,3.485842986
+./pages/models/Bone Fracture Detection/Baseline/no fracture/14-rotated1-rotated1-rotated1.jpg,no fracture,170.2137227,0.22742266,0.587678549,0.97820768,4.353322072
+./pages/models/Bone Fracture Detection/Baseline/no fracture/14-rotated1-rotated1-rotated2-rotated1.jpg,no fracture,121.3467262,0.232776791,0.596715937,0.984370582,4.197192728
+./pages/models/Bone Fracture Detection/Baseline/no fracture/14-rotated1-rotated1.jpg,no fracture,148.538228,0.234859722,0.587208784,0.980484989,4.402610199
+./pages/models/Bone Fracture Detection/Baseline/no fracture/14-rotated1-rotated2-rotated1-rotated1.jpg,no fracture,114.2569176,0.235207232,0.606256749,0.985073903,3.825048263
+./pages/models/Bone Fracture Detection/Baseline/no fracture/14-rotated1-rotated2-rotated2-rotated1.jpg,no fracture,127.0630631,0.239669196,0.605298867,0.983703667,4.14394305
+./pages/models/Bone Fracture Detection/Baseline/no fracture/14-rotated1-rotated2-rotated2.jpg,no fracture,130.2185489,0.235536402,0.605155931,0.983109828,4.009330759
+./pages/models/Bone Fracture Detection/Baseline/no fracture/14-rotated1-rotated2-rotated3-rotated1.jpg,no fracture,120.6782095,0.227495228,0.562849896,0.984142368,4.328386422
+./pages/models/Bone Fracture Detection/Baseline/no fracture/14-rotated1-rotated2-rotated3.jpg,no fracture,136.8126005,0.236810175,0.569839134,0.982116648,4.555039414
+./pages/models/Bone Fracture Detection/Baseline/no fracture/14-rotated1-rotated2.jpg,no fracture,142.1706684,0.234731368,0.594141675,0.981800903,4.302948037
+./pages/models/Bone Fracture Detection/Baseline/no fracture/14-rotated1-rotated3-rotated1-rotated1.jpg,no fracture,123.9835907,0.229569988,0.595293868,0.984007618,4.02827381
+./pages/models/Bone Fracture Detection/Baseline/no fracture/14-rotated1-rotated3-rotated2-rotated1.jpg,no fracture,111.2195544,0.222347923,0.597926345,0.985617675,3.770109395
+./pages/models/Bone Fracture Detection/Baseline/no fracture/14-rotated1-rotated3-rotated2.jpg,no fracture,110.64889,0.234064454,0.610639454,0.985779027,3.737733269
+./pages/models/Bone Fracture Detection/Baseline/no fracture/14-rotated1-rotated3-rotated3.jpg,no fracture,134.2899775,0.239608096,0.596177597,0.982683975,4.386663449
+./pages/models/Bone Fracture Detection/Baseline/no fracture/14-rotated2-rotated1-rotated2.jpg,no fracture,135.8079754,0.239385993,0.56529179,0.982361039,4.879524614
+./pages/models/Bone Fracture Detection/Baseline/no fracture/14-rotated2-rotated1-rotated3-rotated1.jpg,no fracture,169.8158583,0.228167343,0.587063729,0.977879173,4.49169482
+./pages/models/Bone Fracture Detection/Baseline/no fracture/14-rotated2-rotated1-rotated3.jpg,no fracture,132.435469,0.239182257,0.576439274,0.982777866,4.662705116
+./pages/models/Bone Fracture Detection/Baseline/no fracture/14-rotated2-rotated1.jpg,no fracture,146.6100386,0.240186916,0.601191213,0.981159785,4.278474903
+./pages/models/Bone Fracture Detection/Baseline/no fracture/14-rotated2-rotated2-rotated1.jpg,no fracture,136.1339889,0.235483979,0.563364912,0.982261364,4.728583494
+./pages/models/Bone Fracture Detection/Baseline/no fracture/14-rotated2-rotated2-rotated2-rotated1.jpg,no fracture,113.5991594,0.23647568,0.617028086,0.985447502,3.647019788
+./pages/models/Bone Fracture Detection/Baseline/no fracture/14-rotated2-rotated2-rotated3-rotated1.jpg,no fracture,118.3873472,0.226766193,0.603201049,0.984771823,3.767334299
+./pages/models/Bone Fracture Detection/Baseline/no fracture/14-rotated2-rotated2-rotated3.jpg,no fracture,164.4965613,0.225883433,0.584183908,0.978911656,4.445885618
+./pages/models/Bone Fracture Detection/Baseline/no fracture/14-rotated2-rotated2.jpg,no fracture,154.3528797,0.233442084,0.565003411,0.97989048,4.75365991
+./pages/models/Bone Fracture Detection/Baseline/no fracture/14-rotated2-rotated3-rotated1-rotated1.jpg,no fracture,103.3781371,0.229829965,0.611701879,0.986706999,3.596605534
+./pages/models/Bone Fracture Detection/Baseline/no fracture/14-rotated2-rotated3-rotated2.jpg,no fracture,138.4273045,0.226618883,0.601412857,0.982281369,3.929958977
+./pages/models/Bone Fracture Detection/Baseline/no fracture/14-rotated2-rotated3-rotated3-rotated1.jpg,no fracture,114.3665943,0.22367531,0.610273032,0.985307619,3.693009974
+./pages/models/Bone Fracture Detection/Baseline/no fracture/14-rotated3-rotated1-rotated1-rotated1.jpg,no fracture,172.0819056,0.22753872,0.587328563,0.97795503,4.511723777
+./pages/models/Bone Fracture Detection/Baseline/no fracture/14-rotated3-rotated1-rotated1.jpg,no fracture,133.9472329,0.225692082,0.592415909,0.982542999,4.168677606
+./pages/models/Bone Fracture Detection/Baseline/no fracture/14-rotated3-rotated1-rotated3-rotated1.jpg,no fracture,178.1005671,0.225712757,0.585602479,0.976929505,4.529178732
+./pages/models/Bone Fracture Detection/Baseline/no fracture/14-rotated3-rotated1-rotated3.jpg,no fracture,133.4400338,0.24099476,0.592236609,0.982741774,4.424911519
+./pages/models/Bone Fracture Detection/Baseline/no fracture/14-rotated3-rotated1.jpg,no fracture,152.2434644,0.240282554,0.572733551,0.980218565,4.924931628
+./pages/models/Bone Fracture Detection/Baseline/no fracture/14-rotated3-rotated2-rotated1.jpg,no fracture,113.2692447,0.227119197,0.58617333,0.985183785,4.022824163
+./pages/models/Bone Fracture Detection/Baseline/no fracture/14-rotated3-rotated2-rotated2-rotated1.jpg,no fracture,114.1994651,0.229506805,0.594024175,0.985350062,3.812399453
+./pages/models/Bone Fracture Detection/Baseline/no fracture/14-rotated3-rotated2-rotated2.jpg,no fracture,128.1163731,0.238845856,0.600668706,0.98365442,3.933417793
+./pages/models/Bone Fracture Detection/Baseline/no fracture/14-rotated3-rotated2-rotated3-rotated1.jpg,no fracture,124.0835545,0.237484752,0.578504337,0.984079071,4.175896879
+./pages/models/Bone Fracture Detection/Baseline/no fracture/14-rotated3-rotated3-rotated2-rotated1.jpg,no fracture,117.6123311,0.230224856,0.595044386,0.984808612,4.179898649
+./pages/models/Bone Fracture Detection/Baseline/no fracture/14-rotated3-rotated3-rotated2.jpg,no fracture,152.9924188,0.225576505,0.590024505,0.980418856,4.398990508
+./pages/models/Bone Fracture Detection/Baseline/no fracture/14-rotated3-rotated3-rotated3.jpg,no fracture,126.0497506,0.237333235,0.601111866,0.983908806,3.928933398
+./pages/models/Bone Fracture Detection/Baseline/no fracture/14-rotated3-rotated3.jpg,no fracture,152.8033502,0.237436554,0.59640729,0.980453522,4.529178732
+./pages/models/Bone Fracture Detection/Baseline/no fracture/14-rotated3.jpg,no fracture,179.647985,0.247607224,0.589702226,0.97682069,4.991855695
+./pages/models/Bone Fracture Detection/Baseline/no fracture/14.jpg,no fracture,17.51417619,0.28570966,0.745494599,0.997669201,1.170766328
+./pages/models/Bone Fracture Detection/Baseline/no fracture/15-rotated1-rotated1-rotated1-rotated1.jpg,no fracture,145.2907014,0.200024921,0.575910465,0.982152438,3.891650579
+./pages/models/Bone Fracture Detection/Baseline/no fracture/15-rotated1-rotated1-rotated2-rotated1.jpg,no fracture,127.1232706,0.186503239,0.599462604,0.984150062,3.352276384
+./pages/models/Bone Fracture Detection/Baseline/no fracture/15-rotated1-rotated1-rotated2.jpg,no fracture,141.9746421,0.197907384,0.592933163,0.98238156,3.649674228
+./pages/models/Bone Fracture Detection/Baseline/no fracture/15-rotated1-rotated1-rotated3-rotated1.jpg,no fracture,147.1878419,0.196795773,0.552472372,0.982258314,4.11170769
+./pages/models/Bone Fracture Detection/Baseline/no fracture/15-rotated1-rotated2-rotated2-rotated1.jpg,no fracture,108.4170286,0.196329545,0.630012971,0.986473699,2.879544723
+./pages/models/Bone Fracture Detection/Baseline/no fracture/15-rotated1-rotated2-rotated2.jpg,no fracture,150.869852,0.19101152,0.610857196,0.981225519,3.274694337
+./pages/models/Bone Fracture Detection/Baseline/no fracture/15-rotated1-rotated2-rotated3.jpg,no fracture,133.4451215,0.20345634,0.619624829,0.983597878,3.288992117
+./pages/models/Bone Fracture Detection/Baseline/no fracture/15-rotated1-rotated3-rotated1-rotated1.jpg,no fracture,119.2155325,0.20384615,0.624639757,0.98531273,3.151624839
+./pages/models/Bone Fracture Detection/Baseline/no fracture/15-rotated1-rotated3-rotated1.jpg,no fracture,138.740448,0.188178032,0.614287237,0.982621674,3.218770109
+./pages/models/Bone Fracture Detection/Baseline/no fracture/15-rotated1-rotated3-rotated2-rotated1.jpg,no fracture,147.4767736,0.190120573,0.549971127,0.982054839,4.128921332
+./pages/models/Bone Fracture Detection/Baseline/no fracture/15-rotated1-rotated3-rotated3.jpg,no fracture,172.4642455,0.205234473,0.537034791,0.979389551,4.825892857
+./pages/models/Bone Fracture Detection/Baseline/no fracture/15-rotated1-rotated3.jpg,no fracture,149.3054215,0.200655085,0.619500908,0.981389446,3.419763514
+./pages/models/Bone Fracture Detection/Baseline/no fracture/15-rotated2-rotated1-rotated3.jpg,no fracture,146.1235923,0.201930154,0.572923921,0.982203783,3.943452381
+./pages/models/Bone Fracture Detection/Baseline/no fracture/15-rotated2-rotated2-rotated1.jpg,no fracture,169.9380027,0.203668479,0.560173264,0.97938858,4.363839286
+./pages/models/Bone Fracture Detection/Baseline/no fracture/15-rotated2-rotated2-rotated2-rotated1.jpg,no fracture,124.604971,0.201545191,0.625364883,0.984536853,3.169160232
+./pages/models/Bone Fracture Detection/Baseline/no fracture/15-rotated2-rotated2-rotated2.jpg,no fracture,149.1941361,0.194053532,0.6184339,0.981211193,3.186977156
+./pages/models/Bone Fracture Detection/Baseline/no fracture/15-rotated2-rotated2-rotated3-rotated1.jpg,no fracture,128.2088562,0.192315611,0.615648041,0.984094622,3.205035393
+./pages/models/Bone Fracture Detection/Baseline/no fracture/15-rotated2-rotated3-rotated1.jpg,no fracture,143.4120616,0.189730641,0.609692421,0.982188738,3.261804215
+./pages/models/Bone Fracture Detection/Baseline/no fracture/15-rotated2-rotated3-rotated2.jpg,no fracture,128.6196107,0.20011254,0.617439598,0.983931183,3.123833655
+./pages/models/Bone Fracture Detection/Baseline/no fracture/15-rotated2-rotated3-rotated3-rotated1.jpg,no fracture,133.0484033,0.200427223,0.595157359,0.983547317,3.613155566
+./pages/models/Bone Fracture Detection/Baseline/no fracture/15-rotated3-rotated1-rotated2-rotated1.jpg,no fracture,152.3410956,0.206437112,0.544396641,0.981585936,4.517897362
+./pages/models/Bone Fracture Detection/Baseline/no fracture/15-rotated3-rotated1-rotated2.jpg,no fracture,160.2771075,0.201267161,0.570641784,0.980446854,4.143339768
+./pages/models/Bone Fracture Detection/Baseline/no fracture/15-rotated3-rotated1-rotated3.jpg,no fracture,133.8474903,0.191086666,0.614739728,0.983567069,3.213119369
+./pages/models/Bone Fracture Detection/Baseline/no fracture/15-rotated3-rotated2-rotated1.jpg,no fracture,139.9477357,0.197785849,0.593897048,0.982734375,3.691783301
+./pages/models/Bone Fracture Detection/Baseline/no fracture/15-rotated3-rotated2-rotated2.jpg,no fracture,135.8628137,0.193427427,0.608701723,0.98308131,3.350788288
+./pages/models/Bone Fracture Detection/Baseline/no fracture/15-rotated3-rotated2-rotated3-rotated1.jpg,no fracture,105.7348375,0.196185415,0.608911028,0.986955667,3.059403153
+./pages/models/Bone Fracture Detection/Baseline/no fracture/15-rotated3-rotated2-rotated3.jpg,no fracture,118.4671211,0.201515407,0.612933233,0.985442975,3.130489865
+./pages/models/Bone Fracture Detection/Baseline/no fracture/15-rotated3-rotated2.jpg,no fracture,144.6997064,0.192053693,0.599925985,0.982103732,3.596625644
+./pages/models/Bone Fracture Detection/Baseline/no fracture/15-rotated3-rotated3-rotated1-rotated1.jpg,no fracture,127.1130148,0.198887173,0.581589942,0.984600444,3.623833655
+./pages/models/Bone Fracture Detection/Baseline/no fracture/15-rotated3-rotated3-rotated1.jpg,no fracture,162.8084379,0.206899869,0.521211084,0.980512563,5.104327542
+./pages/models/Bone Fracture Detection/Baseline/no fracture/15-rotated3-rotated3-rotated2-rotated1.jpg,no fracture,144.308458,0.211527252,0.524825496,0.982723751,4.950028153
+./pages/models/Bone Fracture Detection/Baseline/no fracture/15-rotated3-rotated3-rotated3-rotated1.jpg,no fracture,170.7146678,0.20813979,0.539836148,0.979496492,4.789716055
+./pages/models/Bone Fracture Detection/Baseline/no fracture/15-rotated3.jpg,no fracture,176.7892938,0.205753272,0.6142427,0.977896473,3.57846686
+./pages/models/Bone Fracture Detection/Baseline/no fracture/15.jpg,no fracture,40.11965389,0.244696103,0.74120492,0.994905917,1.258825346
+./pages/models/Bone Fracture Detection/Baseline/no fracture/16-rotated1-rotated1-rotated1-rotated1.jpg,no fracture,130.9697153,0.179758627,0.577252676,0.986827617,4.093508687
+./pages/models/Bone Fracture Detection/Baseline/no fracture/16-rotated1-rotated1-rotated1.jpg,no fracture,344.1324405,0.177109681,0.553145257,0.96634191,6.304617117
+./pages/models/Bone Fracture Detection/Baseline/no fracture/16-rotated1-rotated1-rotated2-rotated1.jpg,no fracture,306.0814431,0.184028902,0.559685519,0.969515433,6.023206242
+./pages/models/Bone Fracture Detection/Baseline/no fracture/16-rotated1-rotated1-rotated2.jpg,no fracture,398.2386382,0.179511421,0.557701788,0.961491316,6.172236969
+./pages/models/Bone Fracture Detection/Baseline/no fracture/16-rotated1-rotated1-rotated3-rotated1.jpg,no fracture,334.2271155,0.176232109,0.557814015,0.967209608,6.000643501
+./pages/models/Bone Fracture Detection/Baseline/no fracture/16-rotated1-rotated1-rotated3.jpg,no fracture,394.8978242,0.178296118,0.554989194,0.961723022,6.193914897
+./pages/models/Bone Fracture Detection/Baseline/no fracture/16-rotated1-rotated2-rotated1-rotated1.jpg,no fracture,291.4242278,0.171370607,0.537906918,0.971035122,5.96078668
+./pages/models/Bone Fracture Detection/Baseline/no fracture/16-rotated1-rotated2-rotated3-rotated1.jpg,no fracture,298.7561736,0.171707388,0.535665581,0.970311382,6.12465814
+./pages/models/Bone Fracture Detection/Baseline/no fracture/16-rotated1-rotated2.jpg,no fracture,385.6995455,0.183397027,0.556773264,0.962382993,6.531149453
+./pages/models/Bone Fracture Detection/Baseline/no fracture/16-rotated1-rotated3-rotated1-rotated1.jpg,no fracture,311.0106178,0.169099799,0.544751015,0.969038081,5.600345882
+./pages/models/Bone Fracture Detection/Baseline/no fracture/16-rotated1-rotated3-rotated1.jpg,no fracture,126.0016892,0.191921967,0.612859526,0.987308058,3.643339768
+./pages/models/Bone Fracture Detection/Baseline/no fracture/16-rotated1-rotated3-rotated2-rotated1.jpg,no fracture,325.0413047,0.165526127,0.535020761,0.968211201,6.123873874
+./pages/models/Bone Fracture Detection/Baseline/no fracture/16-rotated1-rotated3-rotated3-rotated1.jpg,no fracture,314.4830679,0.172605,0.550391797,0.969353629,6.052927928
+./pages/models/Bone Fracture Detection/Baseline/no fracture/16-rotated1-rotated3-rotated3.jpg,no fracture,360.723154,0.176342663,0.546146652,0.965450313,6.18651464
+./pages/models/Bone Fracture Detection/Baseline/no fracture/16-rotated1-rotated3.jpg,no fracture,145.9581926,0.187230194,0.598575823,0.985354077,3.98904038
+./pages/models/Bone Fracture Detection/Baseline/no fracture/16-rotated1.jpg,no fracture,309.2786559,0.182551286,0.562972432,0.970260428,5.499296171
+./pages/models/Bone Fracture Detection/Baseline/no fracture/16-rotated2-rotated1-rotated1.jpg,no fracture,305.0043436,0.186748275,0.555719769,0.969630582,6.249517375
+./pages/models/Bone Fracture Detection/Baseline/no fracture/16-rotated2-rotated1-rotated2-rotated1.jpg,no fracture,246.416365,0.184469797,0.543297527,0.97511232,5.975929054
+./pages/models/Bone Fracture Detection/Baseline/no fracture/16-rotated2-rotated1-rotated3.jpg,no fracture,209.8003338,0.210530757,0.551937729,0.978838694,6.023628539
+./pages/models/Bone Fracture Detection/Baseline/no fracture/16-rotated2-rotated1.jpg,no fracture,145.8754223,0.185601335,0.617864791,0.985048184,3.671673906
+./pages/models/Bone Fracture Detection/Baseline/no fracture/16-rotated2-rotated2-rotated2-rotated1.jpg,no fracture,112.8777751,0.19375604,0.610712298,0.988615796,3.528193372
+./pages/models/Bone Fracture Detection/Baseline/no fracture/16-rotated2-rotated2-rotated3-rotated1.jpg,no fracture,230.2172619,0.197466115,0.554604204,0.976754073,5.928973616
+./pages/models/Bone Fracture Detection/Baseline/no fracture/16-rotated2-rotated2-rotated3.jpg,no fracture,318.2903998,0.184929489,0.5550781,0.968452006,6.284527831
+./pages/models/Bone Fracture Detection/Baseline/no fracture/16-rotated2-rotated2.jpg,no fracture,361.4845359,0.188195944,0.557815831,0.964339793,6.522301319
+./pages/models/Bone Fracture Detection/Baseline/no fracture/16-rotated2-rotated3-rotated1.jpg,no fracture,226.3778153,0.20391414,0.552529541,0.977056666,5.916304698
+./pages/models/Bone Fracture Detection/Baseline/no fracture/16-rotated2-rotated3-rotated2-rotated1.jpg,no fracture,197.2220681,0.205809532,0.553808371,0.979954639,5.720982143
+./pages/models/Bone Fracture Detection/Baseline/no fracture/16-rotated2-rotated3-rotated3-rotated1.jpg,no fracture,184.0999839,0.208680717,0.552018161,0.981252025,5.825088481
+./pages/models/Bone Fracture Detection/Baseline/no fracture/16-rotated3-rotated1-rotated2-rotated1.jpg,no fracture,184.145411,0.19648288,0.570547744,0.981419338,5.250784266
+./pages/models/Bone Fracture Detection/Baseline/no fracture/16-rotated3-rotated1-rotated2.jpg,no fracture,196.5696791,0.189911884,0.574031773,0.980262077,5.08910473
+./pages/models/Bone Fracture Detection/Baseline/no fracture/16-rotated3-rotated1-rotated3.jpg,no fracture,191.1321589,0.180753005,0.577381167,0.980621524,4.684805341
+./pages/models/Bone Fracture Detection/Baseline/no fracture/16-rotated3-rotated1.jpg,no fracture,356.5622788,0.176620581,0.542710559,0.964736364,6.347832207
+./pages/models/Bone Fracture Detection/Baseline/no fracture/16-rotated3-rotated2-rotated1.jpg,no fracture,319.3072917,0.174094223,0.542922839,0.968432309,6.03891168
+./pages/models/Bone Fracture Detection/Baseline/no fracture/16-rotated3-rotated2-rotated2-rotated1.jpg,no fracture,122.9100105,0.202277645,0.631639093,0.987263749,3.392756596
+./pages/models/Bone Fracture Detection/Baseline/no fracture/16-rotated3-rotated2-rotated2.jpg,no fracture,127.4441562,0.189276898,0.632183043,0.986855098,3.377031049
+./pages/models/Bone Fracture Detection/Baseline/no fracture/16-rotated3-rotated2-rotated3-rotated1.jpg,no fracture,176.716176,0.186463727,0.577482765,0.982176911,4.792833012
+./pages/models/Bone Fracture Detection/Baseline/no fracture/16-rotated3-rotated2-rotated3.jpg,no fracture,187.5863296,0.180486896,0.575529295,0.980936895,4.626106017
+./pages/models/Bone Fracture Detection/Baseline/no fracture/16-rotated3-rotated2.jpg,no fracture,373.3734717,0.18682543,0.559752986,0.963416714,6.512588481
+./pages/models/Bone Fracture Detection/Baseline/no fracture/16-rotated3-rotated3-rotated2-rotated1.jpg,no fracture,186.6653998,0.175758861,0.585949057,0.980810683,4.222550676
+./pages/models/Bone Fracture Detection/Baseline/no fracture/16-rotated3-rotated3-rotated3-rotated1.jpg,no fracture,139.8189149,0.210586602,0.615077561,0.985611883,3.93152751
+./pages/models/Bone Fracture Detection/Baseline/no fracture/16-rotated3-rotated3.jpg,no fracture,402.8250282,0.179295454,0.554127507,0.961242471,6.483811937
+./pages/models/Bone Fracture Detection/Baseline/no fracture/16-rotated3.jpg,no fracture,427.8566803,0.189750776,0.556281964,0.958068221,6.860822876
+./pages/models/Bone Fracture Detection/Baseline/no fracture/17-rotated1-rotated2-rotated2-rotated1.jpg,no fracture,231.8254706,0.270328944,0.586489594,0.962879968,4.810871139
+./pages/models/Bone Fracture Detection/Baseline/no fracture/17-rotated1-rotated2-rotated2.jpg,no fracture,117.1045286,0.286039978,0.625654869,0.98124689,3.63465251
+./pages/models/Bone Fracture Detection/Baseline/no fracture/17-rotated1-rotated2-rotated3.jpg,no fracture,104.2347772,0.282494779,0.650974508,0.982649751,3.303792632
+./pages/models/Bone Fracture Detection/Baseline/no fracture/17-rotated1-rotated3-rotated1.jpg,no fracture,217.6140806,0.268939567,0.572830589,0.966371588,5.681809041
+./pages/models/Bone Fracture Detection/Baseline/no fracture/17-rotated1-rotated3-rotated2-rotated1.jpg,no fracture,97.60283945,0.277644016,0.649938018,0.983653151,3.23170045
+./pages/models/Bone Fracture Detection/Baseline/no fracture/17-rotated1-rotated3-rotated3.jpg,no fracture,134.3052003,0.275375878,0.646201613,0.977627668,3.525679698
+./pages/models/Bone Fracture Detection/Baseline/no fracture/17-rotated1.jpg,no fracture,334.3522965,0.306962065,0.613999059,0.948730122,5.549046815
+./pages/models/Bone Fracture Detection/Baseline/no fracture/17-rotated2-rotated1-rotated1-rotated1.jpg,no fracture,220.9751046,0.265164071,0.579673938,0.966006706,5.149050837
+./pages/models/Bone Fracture Detection/Baseline/no fracture/17-rotated2-rotated1-rotated1.jpg,no fracture,241.5010256,0.286092647,0.618154118,0.960130256,4.785533301
+./pages/models/Bone Fracture Detection/Baseline/no fracture/17-rotated2-rotated1-rotated2-rotated1.jpg,no fracture,131.1424751,0.282897685,0.632280609,0.978826771,3.694518179
+./pages/models/Bone Fracture Detection/Baseline/no fracture/17-rotated2-rotated1-rotated2.jpg,no fracture,130.9591377,0.282640466,0.632197747,0.97885889,3.690033784
+./pages/models/Bone Fracture Detection/Baseline/no fracture/17-rotated2-rotated2-rotated1.jpg,no fracture,121.6571951,0.276239717,0.646209034,0.979639096,3.607967342
+./pages/models/Bone Fracture Detection/Baseline/no fracture/17-rotated2-rotated2-rotated3.jpg,no fracture,267.2474461,0.279443452,0.586305685,0.959379196,5.938123391
+./pages/models/Bone Fracture Detection/Baseline/no fracture/17-rotated2-rotated2.jpg,no fracture,149.8392455,0.28816665,0.655721868,0.975115378,3.798825611
+./pages/models/Bone Fracture Detection/Baseline/no fracture/17-rotated2-rotated3-rotated1-rotated1.jpg,no fracture,88.54719675,0.28241377,0.649581284,0.985161961,3.104468308
+./pages/models/Bone Fracture Detection/Baseline/no fracture/17-rotated2-rotated3-rotated2.jpg,no fracture,102.7881676,0.275759664,0.641886752,0.982960626,3.257279601
+./pages/models/Bone Fracture Detection/Baseline/no fracture/17-rotated3-rotated1-rotated1.jpg,no fracture,224.7773287,0.267945049,0.573451166,0.965395425,5.697976995
+./pages/models/Bone Fracture Detection/Baseline/no fracture/17-rotated3-rotated1-rotated2-rotated1.jpg,no fracture,202.4821429,0.270307763,0.584870878,0.968013663,5.008888353
+./pages/models/Bone Fracture Detection/Baseline/no fracture/17-rotated3-rotated1-rotated3-rotated1.jpg,no fracture,190.7521517,0.281761953,0.587970498,0.969461437,5.502433237
+./pages/models/Bone Fracture Detection/Baseline/no fracture/17-rotated3-rotated1-rotated3.jpg,no fracture,222.1778274,0.28326843,0.593498828,0.964946422,5.712656853
+./pages/models/Bone Fracture Detection/Baseline/no fracture/17-rotated3-rotated1.jpg,no fracture,267.0077622,0.283633848,0.59087966,0.959198941,5.644305019
+./pages/models/Bone Fracture Detection/Baseline/no fracture/17-rotated3-rotated2-rotated1-rotated1.jpg,no fracture,150.4436334,0.284047797,0.641657384,0.974921341,3.958273005
+./pages/models/Bone Fracture Detection/Baseline/no fracture/17-rotated3-rotated2-rotated2-rotated1.jpg,no fracture,134.5148206,0.269883977,0.638165883,0.977102026,3.534769144
+./pages/models/Bone Fracture Detection/Baseline/no fracture/17-rotated3-rotated2-rotated2.jpg,no fracture,130.9482786,0.27500835,0.642235209,0.977814881,3.535191441
+./pages/models/Bone Fracture Detection/Baseline/no fracture/17-rotated3-rotated2-rotated3-rotated1.jpg,no fracture,174.5466739,0.277302065,0.622714887,0.970542615,4.228784588
+./pages/models/Bone Fracture Detection/Baseline/no fracture/17-rotated3-rotated3-rotated1-rotated1.jpg,no fracture,195.8622506,0.274624422,0.582340903,0.968824867,5.530968468
+./pages/models/Bone Fracture Detection/Baseline/no fracture/17-rotated3-rotated3-rotated2.jpg,no fracture,216.8541063,0.279751641,0.588307532,0.965562489,5.734133687
+./pages/models/Bone Fracture Detection/Baseline/no fracture/17-rotated3-rotated3.jpg,no fracture,256.981801,0.274656298,0.583256541,0.96067055,6.012045528
+./pages/models/Bone Fracture Detection/Baseline/no fracture/17-rotated3.jpg,no fracture,317.3600788,0.307298149,0.614777832,0.95117432,5.403153153
+./pages/models/Bone Fracture Detection/Baseline/no fracture/18-rotated1-rotated1-rotated1-rotated1.jpg,no fracture,49.45863497,0.439802479,0.736813048,0.987236897,1.893199003
+./pages/models/Bone Fracture Detection/Baseline/no fracture/18-rotated1-rotated1-rotated1.jpg,no fracture,86.52823359,0.452907281,0.72122158,0.978251289,2.470318533
+./pages/models/Bone Fracture Detection/Baseline/no fracture/18-rotated1-rotated1-rotated2.jpg,no fracture,85.14321911,0.432846642,0.724969751,0.978222625,2.330196268
+./pages/models/Bone Fracture Detection/Baseline/no fracture/18-rotated1-rotated1-rotated3.jpg,no fracture,84.24064913,0.432573515,0.719202054,0.978450461,2.254484395
+./pages/models/Bone Fracture Detection/Baseline/no fracture/18-rotated1-rotated1.jpg,no fracture,83.89947313,0.453920406,0.716208629,0.979453572,2.465230856
+./pages/models/Bone Fracture Detection/Baseline/no fracture/18-rotated1-rotated2-rotated1-rotated1.jpg,no fracture,87.233088,0.424800156,0.699950649,0.97798545,2.810468951
+./pages/models/Bone Fracture Detection/Baseline/no fracture/18-rotated1-rotated2-rotated2.jpg,no fracture,86.62974582,0.436852767,0.721733611,0.977826485,2.310328185
+./pages/models/Bone Fracture Detection/Baseline/no fracture/18-rotated1-rotated2-rotated3.jpg,no fracture,117.7173625,0.412785264,0.675331559,0.970775207,3.520732786
+./pages/models/Bone Fracture Detection/Baseline/no fracture/18-rotated1-rotated2.jpg,no fracture,68.06241956,0.439150776,0.732611581,0.982639124,2.16155888
+./pages/models/Bone Fracture Detection/Baseline/no fracture/18-rotated1-rotated3-rotated1-rotated1.jpg,no fracture,88.1708092,0.407217064,0.678493104,0.977812624,2.942286036
+./pages/models/Bone Fracture Detection/Baseline/no fracture/18-rotated1-rotated3-rotated3-rotated1.jpg,no fracture,61.46995656,0.404821546,0.690846703,0.984402318,2.447192728
+./pages/models/Bone Fracture Detection/Baseline/no fracture/18-rotated1-rotated3-rotated3.jpg,no fracture,79.83150338,0.397996188,0.677671548,0.979894279,2.774070946
+./pages/models/Bone Fracture Detection/Baseline/no fracture/18-rotated1.jpg,no fracture,140.6810047,0.462302985,0.70604198,0.96621017,3.137487934
+./pages/models/Bone Fracture Detection/Baseline/no fracture/18-rotated2-rotated1-rotated1.jpg,no fracture,101.3109918,0.456169389,0.708794385,0.975204421,2.771778475
+./pages/models/Bone Fracture Detection/Baseline/no fracture/18-rotated2-rotated1-rotated2-rotated1.jpg,no fracture,78.34590171,0.454269853,0.725009817,0.980262088,2.298001126
+./pages/models/Bone Fracture Detection/Baseline/no fracture/18-rotated2-rotated1-rotated2.jpg,no fracture,87.35334218,0.455248713,0.723981594,0.978136996,2.466155888
+./pages/models/Bone Fracture Detection/Baseline/no fracture/18-rotated2-rotated1.jpg,no fracture,64.42139237,0.442721771,0.737474352,0.983572474,2.052425193
+./pages/models/Bone Fracture Detection/Baseline/no fracture/18-rotated2-rotated2-rotated1-rotated1.jpg,no fracture,54.79307432,0.422034693,0.719066228,0.985916236,2.122908623
+./pages/models/Bone Fracture Detection/Baseline/no fracture/18-rotated2-rotated2-rotated1.jpg,no fracture,108.2826375,0.403918826,0.668472489,0.974085104,3.364482786
+./pages/models/Bone Fracture Detection/Baseline/no fracture/18-rotated2-rotated2-rotated2-rotated1.jpg,no fracture,76.59972249,0.412020842,0.692719852,0.980520329,2.590914575
+./pages/models/Bone Fracture Detection/Baseline/no fracture/18-rotated2-rotated2-rotated2.jpg,no fracture,69.39440557,0.425070926,0.707759702,0.982316812,2.384230212
+./pages/models/Bone Fracture Detection/Baseline/no fracture/18-rotated2-rotated2-rotated3-rotated1.jpg,no fracture,53.33673182,0.426872518,0.722377921,0.986294959,2.096826737
+./pages/models/Bone Fracture Detection/Baseline/no fracture/18-rotated2-rotated2-rotated3.jpg,no fracture,60.18812339,0.431969032,0.729044204,0.984577709,2.11669482
+./pages/models/Bone Fracture Detection/Baseline/no fracture/18-rotated2-rotated3-rotated1-rotated1.jpg,no fracture,105.2664093,0.436760456,0.696153321,0.974182409,3.013191763
+./pages/models/Bone Fracture Detection/Baseline/no fracture/18-rotated2-rotated3-rotated1.jpg,no fracture,67.57597329,0.447230709,0.725844086,0.98298818,2.181949807
+./pages/models/Bone Fracture Detection/Baseline/no fracture/18-rotated2-rotated3-rotated2-rotated1.jpg,no fracture,62.76057754,0.427347354,0.720963732,0.983951852,2.174227799
+./pages/models/Bone Fracture Detection/Baseline/no fracture/18-rotated2-rotated3-rotated2.jpg,no fracture,68.79611084,0.447542593,0.734787884,0.982464812,2.07281612
+./pages/models/Bone Fracture Detection/Baseline/no fracture/18-rotated2-rotated3.jpg,no fracture,64.57012146,0.461546644,0.734167125,0.983820968,2.118585103
+./pages/models/Bone Fracture Detection/Baseline/no fracture/18-rotated2.jpg,no fracture,76.31541586,0.482543856,0.744822289,0.981009182,2.269566441
+./pages/models/Bone Fracture Detection/Baseline/no fracture/18-rotated3-rotated1-rotated2-rotated1.jpg,no fracture,73.31983993,0.398838794,0.682248683,0.981376643,2.64094675
+./pages/models/Bone Fracture Detection/Baseline/no fracture/18-rotated3-rotated1-rotated2.jpg,no fracture,93.36255228,0.414327339,0.687516459,0.976477137,2.853301963
+./pages/models/Bone Fracture Detection/Baseline/no fracture/18-rotated3-rotated1-rotated3-rotated1.jpg,no fracture,90.30658784,0.406605809,0.686287918,0.977182337,2.956523488
+./pages/models/Bone Fracture Detection/Baseline/no fracture/18-rotated3-rotated1-rotated3.jpg,no fracture,87.37343147,0.421285335,0.717472077,0.977843329,2.531410875
+./pages/models/Bone Fracture Detection/Baseline/no fracture/18-rotated3-rotated1.jpg,no fracture,102.9486406,0.441789213,0.721152897,0.973931528,2.418959138
+./pages/models/Bone Fracture Detection/Baseline/no fracture/18-rotated3-rotated2-rotated1.jpg,no fracture,109.4940677,0.40520635,0.666548692,0.974043317,3.334278475
+./pages/models/Bone Fracture Detection/Baseline/no fracture/18-rotated3-rotated2-rotated2.jpg,no fracture,102.252212,0.414736914,0.689783994,0.974367101,3.077541828
+./pages/models/Bone Fracture Detection/Baseline/no fracture/18-rotated3-rotated2-rotated3-rotated1.jpg,no fracture,75.32118726,0.425957883,0.715040482,0.980778962,2.439229408
+./pages/models/Bone Fracture Detection/Baseline/no fracture/18-rotated3-rotated2-rotated3.jpg,no fracture,83.75814431,0.427738086,0.725819555,0.978564417,2.314410393
+./pages/models/Bone Fracture Detection/Baseline/no fracture/18-rotated3-rotated2.jpg,no fracture,135.1436213,0.40732345,0.659191136,0.968178028,3.651906371
+./pages/models/Bone Fracture Detection/Baseline/no fracture/18-rotated3-rotated3-rotated1-rotated1.jpg,no fracture,83.82239382,0.420592543,0.698436426,0.978769642,2.754544723
+./pages/models/Bone Fracture Detection/Baseline/no fracture/18-rotated3-rotated3-rotated2-rotated1.jpg,no fracture,91.66899936,0.408808659,0.682888143,0.97688778,3.020069176
+./pages/models/Bone Fracture Detection/Baseline/no fracture/18-rotated3-rotated3-rotated2.jpg,no fracture,88.38354649,0.409741846,0.698433699,0.977685456,2.634551963
+./pages/models/Bone Fracture Detection/Baseline/no fracture/18-rotated3-rotated3-rotated3.jpg,no fracture,86.7294482,0.4122937,0.71807044,0.978148739,2.392414736
+./pages/models/Bone Fracture Detection/Baseline/no fracture/18-rotated3.jpg,no fracture,85.66558076,0.459017554,0.735045269,0.97838988,2.22771879
+./pages/models/Bone Fracture Detection/Baseline/no fracture/19-rotated1-rotated1-rotated2-rotated1.jpg,no fracture,131.9192206,0.239448708,0.57899151,0.972413963,4.364925193
+./pages/models/Bone Fracture Detection/Baseline/no fracture/19-rotated1-rotated1-rotated2.jpg,no fracture,142.1025177,0.24561254,0.605874421,0.970257931,4.189712033
+./pages/models/Bone Fracture Detection/Baseline/no fracture/19-rotated1-rotated1-rotated3-rotated1.jpg,no fracture,99.65007642,0.250407797,0.656272616,0.978903564,3.126226673
+./pages/models/Bone Fracture Detection/Baseline/no fracture/19-rotated1-rotated1-rotated3.jpg,no fracture,106.5616152,0.251160523,0.662559884,0.977507825,3.167189511
+./pages/models/Bone Fracture Detection/Baseline/no fracture/19-rotated1-rotated2-rotated1.jpg,no fracture,97.2480695,0.24026681,0.652664684,0.979036088,3.145471364
+./pages/models/Bone Fracture Detection/Baseline/no fracture/19-rotated1-rotated2-rotated2-rotated1.jpg,no fracture,116.5736004,0.245993922,0.653219867,0.975118144,3.371138996
+./pages/models/Bone Fracture Detection/Baseline/no fracture/19-rotated1-rotated2-rotated3.jpg,no fracture,107.4576295,0.251247592,0.664567968,0.977065178,3.153495013
+./pages/models/Bone Fracture Detection/Baseline/no fracture/19-rotated1-rotated3-rotated1-rotated1.jpg,no fracture,116.57537,0.242923388,0.62333961,0.975583822,3.622466216
+./pages/models/Bone Fracture Detection/Baseline/no fracture/19-rotated1-rotated3-rotated1.jpg,no fracture,134.7593509,0.237059467,0.616438763,0.971782146,3.806648166
+./pages/models/Bone Fracture Detection/Baseline/no fracture/19-rotated1-rotated3-rotated2.jpg,no fracture,146.383647,0.240447528,0.588726752,0.969466868,4.364301802
+./pages/models/Bone Fracture Detection/Baseline/no fracture/19-rotated1-rotated3-rotated3-rotated1.jpg,no fracture,113.569297,0.238270433,0.629129916,0.976189779,3.524895431
+./pages/models/Bone Fracture Detection/Baseline/no fracture/19-rotated1-rotated3-rotated3.jpg,no fracture,133.4368163,0.238762302,0.615285921,0.972194188,3.851512227
+./pages/models/Bone Fracture Detection/Baseline/no fracture/19-rotated1-rotated3.jpg,no fracture,169.4592785,0.245183724,0.605373954,0.964777252,4.403052606
+./pages/models/Bone Fracture Detection/Baseline/no fracture/19-rotated2-rotated1-rotated3.jpg,no fracture,113.0978322,0.251928221,0.658084492,0.975676325,3.277047136
+./pages/models/Bone Fracture Detection/Baseline/no fracture/19-rotated2-rotated2-rotated3.jpg,no fracture,128.9074365,0.236037684,0.628436837,0.972768122,3.616976351
+./pages/models/Bone Fracture Detection/Baseline/no fracture/19-rotated2-rotated3-rotated1.jpg,no fracture,147.6239945,0.240849699,0.584994339,0.969321922,4.405767375
+./pages/models/Bone Fracture Detection/Baseline/no fracture/19-rotated2-rotated3.jpg,no fracture,175.9480574,0.246050778,0.584125617,0.963610573,4.752433237
+./pages/models/Bone Fracture Detection/Baseline/no fracture/19-rotated3-rotated1-rotated1.jpg,no fracture,95.8951094,0.23943859,0.655468408,0.979433128,3.146114865
+./pages/models/Bone Fracture Detection/Baseline/no fracture/19-rotated3-rotated1-rotated2-rotated1.jpg,no fracture,124.3599381,0.235306711,0.59410252,0.973841962,4.05154038
+./pages/models/Bone Fracture Detection/Baseline/no fracture/19-rotated3-rotated1-rotated3-rotated1.jpg,no fracture,124.7298102,0.234650383,0.58345808,0.973894192,4.120736808
+./pages/models/Bone Fracture Detection/Baseline/no fracture/19-rotated3-rotated2-rotated2-rotated1.jpg,no fracture,125.5191039,0.232037242,0.603525785,0.973551836,3.92454955
+./pages/models/Bone Fracture Detection/Baseline/no fracture/19-rotated3-rotated2-rotated3-rotated1.jpg,no fracture,142.8833253,0.238859616,0.602843022,0.970122396,4.170527671
+./pages/models/Bone Fracture Detection/Baseline/no fracture/19-rotated3-rotated2-rotated3.jpg,no fracture,161.1448078,0.239071673,0.609872397,0.966442861,4.196689994
+./pages/models/Bone Fracture Detection/Baseline/no fracture/19-rotated3-rotated3-rotated1-rotated1.jpg,no fracture,114.002212,0.240880901,0.640019392,0.976061152,3.372747748
+./pages/models/Bone Fracture Detection/Baseline/no fracture/19-rotated3-rotated3-rotated2-rotated1.jpg,no fracture,138.9601633,0.234313624,0.605642638,0.970862318,4.024714447
+./pages/models/Bone Fracture Detection/Baseline/no fracture/19-rotated3-rotated3-rotated3-rotated1.jpg,no fracture,152.5760738,0.23850852,0.563257934,0.968336004,4.76095962
+./pages/models/Bone Fracture Detection/Baseline/no fracture/19-rotated3-rotated3-rotated3.jpg,no fracture,177.6993444,0.24453386,0.571782577,0.963371373,4.921151062
+./pages/models/Bone Fracture Detection/Baseline/no fracture/19-rotated3-rotated3.jpg,no fracture,150.4045005,0.244051865,0.640447219,0.968340076,3.754122426
+./pages/models/Bone Fracture Detection/Baseline/no fracture/19.jpg,no fracture,32.40685691,0.336570057,0.801241735,0.993115924,1.187644116
+./pages/models/Bone Fracture Detection/Baseline/no fracture/20-rotated1-rotated1-rotated1.jpg,no fracture,149.8262548,0.240505194,0.618876646,0.977531818,4.377895753
+./pages/models/Bone Fracture Detection/Baseline/no fracture/20-rotated1-rotated1-rotated2-rotated1.jpg,no fracture,131.6105816,0.222153298,0.605797273,0.98036518,4.246641731
+./pages/models/Bone Fracture Detection/Baseline/no fracture/20-rotated1-rotated1-rotated3-rotated1.jpg,no fracture,155.0946348,0.235256034,0.595400469,0.976936291,4.921090734
+./pages/models/Bone Fracture Detection/Baseline/no fracture/20-rotated1-rotated1-rotated3.jpg,no fracture,169.6145431,0.234955016,0.605246447,0.974819406,4.908462033
+./pages/models/Bone Fracture Detection/Baseline/no fracture/20-rotated1-rotated1.jpg,no fracture,208.8884733,0.232138459,0.615279769,0.970328823,5.231740669
+./pages/models/Bone Fracture Detection/Baseline/no fracture/20-rotated1-rotated2-rotated1.jpg,no fracture,140.0147201,0.237279866,0.611660801,0.97883126,4.300233269
+./pages/models/Bone Fracture Detection/Baseline/no fracture/20-rotated1-rotated2-rotated2.jpg,no fracture,171.1145431,0.236398477,0.629668485,0.974904464,4.549589768
+./pages/models/Bone Fracture Detection/Baseline/no fracture/20-rotated1-rotated2-rotated3.jpg,no fracture,169.0966256,0.235556608,0.604534323,0.974795674,4.800776223
+./pages/models/Bone Fracture Detection/Baseline/no fracture/20-rotated1-rotated3-rotated1.jpg,no fracture,197.6589447,0.225512257,0.612377647,0.971542427,5.046854891
+./pages/models/Bone Fracture Detection/Baseline/no fracture/20-rotated1-rotated3-rotated2-rotated1.jpg,no fracture,131.5261824,0.221300541,0.609343775,0.980378961,4.173141892
+./pages/models/Bone Fracture Detection/Baseline/no fracture/20-rotated1-rotated3-rotated2.jpg,no fracture,142.9162243,0.225179012,0.604678659,0.978759904,4.310891248
+./pages/models/Bone Fracture Detection/Baseline/no fracture/20-rotated1-rotated3-rotated3-rotated1.jpg,no fracture,124.1305502,0.228290667,0.607717054,0.98145821,4.133244852
+./pages/models/Bone Fracture Detection/Baseline/no fracture/20-rotated1-rotated3-rotated3.jpg,no fracture,145.7207207,0.228869382,0.613607645,0.978358662,4.299469112
+./pages/models/Bone Fracture Detection/Baseline/no fracture/20-rotated1-rotated3.jpg,no fracture,217.1310931,0.237157707,0.617595399,0.968919581,5.239080598
+./pages/models/Bone Fracture Detection/Baseline/no fracture/20-rotated1.jpg,no fracture,192.7653032,0.259700438,0.625183515,0.971232529,4.657758205
+./pages/models/Bone Fracture Detection/Baseline/no fracture/20-rotated2-rotated1-rotated1.jpg,no fracture,141.7143058,0.231822406,0.617450944,0.979618116,4.271175193
+./pages/models/Bone Fracture Detection/Baseline/no fracture/20-rotated2-rotated1-rotated2-rotated1.jpg,no fracture,164.8069498,0.233599147,0.580733791,0.975688164,5.256716538
+./pages/models/Bone Fracture Detection/Baseline/no fracture/20-rotated2-rotated1-rotated2.jpg,no fracture,178.2487733,0.233984049,0.590153879,0.973686711,5.237069659
+./pages/models/Bone Fracture Detection/Baseline/no fracture/20-rotated2-rotated1-rotated3.jpg,no fracture,164.6293034,0.224465927,0.589292383,0.975392906,4.842221686
+./pages/models/Bone Fracture Detection/Baseline/no fracture/20-rotated2-rotated2-rotated1-rotated1.jpg,no fracture,127.8765283,0.224851155,0.61014838,0.980772769,4.154882561
+./pages/models/Bone Fracture Detection/Baseline/no fracture/20-rotated2-rotated2-rotated2.jpg,no fracture,164.8214286,0.224971867,0.593247086,0.975388982,4.824203668
+./pages/models/Bone Fracture Detection/Baseline/no fracture/20-rotated2-rotated3-rotated2.jpg,no fracture,156.3551319,0.236178995,0.613042784,0.976598443,4.518098456
+./pages/models/Bone Fracture Detection/Baseline/no fracture/20-rotated2-rotated3-rotated3-rotated1.jpg,no fracture,148.8161398,0.222724476,0.592101544,0.977719657,4.682573198
+./pages/models/Bone Fracture Detection/Baseline/no fracture/20-rotated2-rotated3-rotated3.jpg,no fracture,172.752212,0.235306953,0.600771041,0.974305021,4.982464607
+./pages/models/Bone Fracture Detection/Baseline/no fracture/20-rotated2-rotated3.jpg,no fracture,213.959379,0.237917982,0.596028868,0.968519568,5.538408945
+./pages/models/Bone Fracture Detection/Baseline/no fracture/20-rotated2.jpg,no fracture,216.9872305,0.25405393,0.621688815,0.968235313,4.942668115
+./pages/models/Bone Fracture Detection/Baseline/no fracture/20-rotated3-rotated1-rotated1-rotated1.jpg,no fracture,150.9880349,0.216307598,0.605768307,0.978255131,4.427505631
+./pages/models/Bone Fracture Detection/Baseline/no fracture/20-rotated3-rotated1-rotated3-rotated1.jpg,no fracture,184.8565999,0.219358148,0.602717307,0.973428488,4.945523649
+./pages/models/Bone Fracture Detection/Baseline/no fracture/20-rotated3-rotated2-rotated1.jpg,no fracture,251.9079191,0.23655974,0.619661071,0.96438818,5.456302284
+./pages/models/Bone Fracture Detection/Baseline/no fracture/20-rotated3-rotated2-rotated2-rotated1.jpg,no fracture,161.351291,0.231981551,0.592220463,0.97604781,5.086812259
+./pages/models/Bone Fracture Detection/Baseline/no fracture/20-rotated3-rotated2-rotated2.jpg,no fracture,203.0737814,0.227336578,0.598243432,0.970165306,5.319679054
+./pages/models/Bone Fracture Detection/Baseline/no fracture/20-rotated3-rotated2-rotated3.jpg,no fracture,183.726653,0.23203659,0.593992877,0.972860862,5.276846042
+./pages/models/Bone Fracture Detection/Baseline/no fracture/20-rotated3-rotated3-rotated1.jpg,no fracture,190.7570785,0.236861665,0.593902035,0.971856395,5.351552445
+./pages/models/Bone Fracture Detection/Baseline/no fracture/20-rotated3-rotated3-rotated2-rotated1.jpg,no fracture,134.1308317,0.226432036,0.611738154,0.980462534,4.236727799
+./pages/models/Bone Fracture Detection/Baseline/no fracture/20-rotated3-rotated3-rotated3-rotated1.jpg,no fracture,158.9071348,0.23316147,0.584950663,0.976572289,5.05284749
+./pages/models/Bone Fracture Detection/Baseline/no fracture/20-rotated3-rotated3.jpg,no fracture,212.402751,0.239961474,0.603387154,0.968833714,5.480413449
+./pages/models/Bone Fracture Detection/Baseline/no fracture/20-rotated3.jpg,no fracture,240.4213522,0.237865621,0.601031802,0.964756547,5.652529762
+./pages/models/Bone Fracture Detection/Baseline/no fracture/21-rotated1-rotated1-rotated1-rotated1.jpg,no fracture,99.19522201,0.30671416,0.658753764,0.980526798,3.015202703
+./pages/models/Bone Fracture Detection/Baseline/no fracture/21-rotated1-rotated1-rotated1.jpg,no fracture,157.4385859,0.285382495,0.623155941,0.970658328,4.378257722
+./pages/models/Bone Fracture Detection/Baseline/no fracture/21-rotated1-rotated1-rotated2-rotated1.jpg,no fracture,128.1979569,0.281484584,0.633292107,0.975580447,3.82613417
+./pages/models/Bone Fracture Detection/Baseline/no fracture/21-rotated1-rotated1-rotated2.jpg,no fracture,148.7131596,0.30059271,0.643987217,0.971855167,3.994288932
+./pages/models/Bone Fracture Detection/Baseline/no fracture/21-rotated1-rotated1-rotated3-rotated1.jpg,no fracture,88.3869852,0.302406431,0.706149353,0.983094217,2.452059202
+./pages/models/Bone Fracture Detection/Baseline/no fracture/21-rotated1-rotated1-rotated3.jpg,no fracture,81.8279038,0.312796127,0.707224554,0.984199018,2.39760296
+./pages/models/Bone Fracture Detection/Baseline/no fracture/21-rotated1-rotated2-rotated1.jpg,no fracture,166.4071348,0.281377915,0.621332438,0.969350559,4.627935972
+./pages/models/Bone Fracture Detection/Baseline/no fracture/21-rotated1-rotated2-rotated3-rotated1.jpg,no fracture,117.141369,0.300046981,0.660496166,0.977517405,3.297779923
+./pages/models/Bone Fracture Detection/Baseline/no fracture/21-rotated1-rotated2-rotated3.jpg,no fracture,105.8633567,0.299736918,0.665046405,0.979641802,2.954532658
+./pages/models/Bone Fracture Detection/Baseline/no fracture/21-rotated1-rotated3-rotated1-rotated1.jpg,no fracture,127.0989181,0.296596414,0.656490688,0.976298464,3.593005952
+./pages/models/Bone Fracture Detection/Baseline/no fracture/21-rotated1-rotated3-rotated1.jpg,no fracture,118.2327461,0.289293438,0.648908995,0.977568517,3.247828185
+./pages/models/Bone Fracture Detection/Baseline/no fracture/21-rotated1-rotated3-rotated2-rotated1.jpg,no fracture,102.7911036,0.293053787,0.669907106,0.980739982,2.92121139
+./pages/models/Bone Fracture Detection/Baseline/no fracture/21-rotated1-rotated3-rotated2.jpg,no fracture,141.1333253,0.299767748,0.664665153,0.973744556,3.534829472
+./pages/models/Bone Fracture Detection/Baseline/no fracture/21-rotated1-rotated3-rotated3-rotated1.jpg,no fracture,122.3052204,0.29739619,0.672871773,0.977040993,3.172699485
+./pages/models/Bone Fracture Detection/Baseline/no fracture/21-rotated1-rotated3-rotated3.jpg,no fracture,101.1660634,0.288702611,0.68840348,0.98083018,2.685006435
+./pages/models/Bone Fracture Detection/Baseline/no fracture/21-rotated1-rotated3.jpg,no fracture,87.45374839,0.296393077,0.668808117,0.983461265,2.850908945
+./pages/models/Bone Fracture Detection/Baseline/no fracture/21-rotated1.jpg,no fracture,113.4825048,0.316416822,0.678397749,0.978075384,3.04786036
+./pages/models/Bone Fracture Detection/Baseline/no fracture/21-rotated2-rotated1-rotated2-rotated1.jpg,no fracture,63.5909749,0.300985715,0.678254394,0.987619598,2.531973938
+./pages/models/Bone Fracture Detection/Baseline/no fracture/21-rotated2-rotated1-rotated3-rotated1.jpg,no fracture,120.7500201,0.286465625,0.631031999,0.977068445,3.580417471
+./pages/models/Bone Fracture Detection/Baseline/no fracture/21-rotated2-rotated2-rotated1-rotated1.jpg,no fracture,127.4283301,0.281723799,0.621338817,0.975735834,3.796171171
+./pages/models/Bone Fracture Detection/Baseline/no fracture/21-rotated2-rotated2-rotated1.jpg,no fracture,119.9800917,0.303445724,0.686817956,0.977506974,3.000361969
+./pages/models/Bone Fracture Detection/Baseline/no fracture/21-rotated2-rotated2-rotated2-rotated1.jpg,no fracture,151.9346042,0.293045106,0.635487774,0.971386284,4.178692085
+./pages/models/Bone Fracture Detection/Baseline/no fracture/21-rotated2-rotated2-rotated2.jpg,no fracture,177.6297056,0.288875291,0.634474956,0.966665431,4.301439833
+./pages/models/Bone Fracture Detection/Baseline/no fracture/21-rotated2-rotated2.jpg,no fracture,123.4741393,0.305620682,0.69635806,0.976831238,2.895431145
+./pages/models/Bone Fracture Detection/Baseline/no fracture/21-rotated2-rotated3-rotated1-rotated1.jpg,no fracture,142.0987371,0.28985953,0.628710444,0.97336498,4.232746139
+./pages/models/Bone Fracture Detection/Baseline/no fracture/21-rotated2-rotated3-rotated1.jpg,no fracture,111.2537202,0.293412133,0.675312291,0.979159498,2.988839286
+./pages/models/Bone Fracture Detection/Baseline/no fracture/21-rotated2-rotated3.jpg,no fracture,139.6638312,0.298714156,0.675580999,0.974066866,3.278535232
+./pages/models/Bone Fracture Detection/Baseline/no fracture/21-rotated2.jpg,no fracture,212.0817648,0.29484218,0.631899184,0.960824961,4.73238417
+./pages/models/Bone Fracture Detection/Baseline/no fracture/21.jpg,no fracture,35.40143838,0.353664455,0.794482019,0.993237521,1.258268687
+./pages/models/Bone Fracture Detection/Baseline/no fracture/4-rotated2-rotated3-rotated2-rotated1.jpg,no fracture,100.6200531,0.138652492,0.558718892,0.973685448,3.675032175
+./pages/models/Bone Fracture Detection/Baseline/no fracture/4-rotated2-rotated3-rotated3-rotated1.jpg,no fracture,128.958454,0.170627025,0.46961341,0.970209418,5.271356178
+./pages/models/Bone Fracture Detection/Baseline/no fracture/4-rotated2-rotated3-rotated3.jpg,no fracture,148.173162,0.172363243,0.470939216,0.96580489,5.573741152
+./pages/models/Bone Fracture Detection/Baseline/no fracture/4-rotated3-rotated1-rotated1-rotated1.jpg,no fracture,122.0357143,0.163428061,0.481721967,0.971115952,4.959379022
+./pages/models/Bone Fracture Detection/Baseline/no fracture/4-rotated3-rotated1-rotated1.jpg,no fracture,152.1878218,0.128339724,0.529585069,0.952651773,4.402308559
+./pages/models/Bone Fracture Detection/Baseline/no fracture/4-rotated3-rotated1-rotated2.jpg,no fracture,132.8069297,0.150776633,0.495900984,0.967548967,4.771858912
+./pages/models/Bone Fracture Detection/Baseline/no fracture/4-rotated3-rotated1-rotated3-rotated1.jpg,no fracture,125.2653636,0.164683091,0.472218276,0.970668199,5.126689189
+./pages/models/Bone Fracture Detection/Baseline/no fracture/4-rotated3-rotated2-rotated2-rotated1.jpg,no fracture,114.9700772,0.130480184,0.527291969,0.969508298,4.122305341
+./pages/models/Bone Fracture Detection/Baseline/no fracture/4-rotated3-rotated2-rotated2.jpg,no fracture,139.4616112,0.133742337,0.508770314,0.963329409,4.587053571
+./pages/models/Bone Fracture Detection/Baseline/no fracture/4-rotated3-rotated3-rotated1.jpg,no fracture,115.8850949,0.127961943,0.531051748,0.963617718,4.04090251
+./pages/models/Bone Fracture Detection/Baseline/no fracture/4-rotated3-rotated3-rotated2-rotated1.jpg,no fracture,98.94118002,0.156997799,0.563723432,0.975372326,3.659527831
+./pages/models/Bone Fracture Detection/Baseline/no fracture/4-rotated3-rotated3-rotated2.jpg,no fracture,98.87252654,0.158204247,0.564712211,0.975393718,3.655707046
+./pages/models/Bone Fracture Detection/Baseline/no fracture/4-rotated3-rotated3-rotated3-rotated1.jpg,no fracture,101.1782899,0.154428433,0.569254445,0.974961736,3.632722008
+./pages/models/Bone Fracture Detection/Baseline/no fracture/4-rotated3-rotated3.jpg,no fracture,145.8697112,0.13441636,0.54438306,0.954509516,4.303873069
+./pages/models/Bone Fracture Detection/Baseline/no fracture/4-rotated3.jpg,no fracture,177.4802526,0.152788062,0.50604182,0.955707746,5.086832368
+./pages/models/Bone Fracture Detection/Baseline/no fracture/5-rotated1-rotated1-rotated1-rotated1.jpg,no fracture,128.0366795,0.190701565,0.567194445,0.978838622,3.868926963
+./pages/models/Bone Fracture Detection/Baseline/no fracture/5-rotated1-rotated1-rotated2.jpg,no fracture,146.8854167,0.196426668,0.570738157,0.975810604,4.058799871
+./pages/models/Bone Fracture Detection/Baseline/no fracture/5-rotated1-rotated1-rotated3.jpg,no fracture,157.6478242,0.203455279,0.560450524,0.974526057,4.430964447
+./pages/models/Bone Fracture Detection/Baseline/no fracture/5-rotated1-rotated1.jpg,no fracture,144.9414414,0.208022174,0.553722141,0.975841047,4.223013192
+./pages/models/Bone Fracture Detection/Baseline/no fracture/5-rotated1-rotated2-rotated1-rotated1.jpg,no fracture,143.4785232,0.204998861,0.535728565,0.976885028,4.593709781
+./pages/models/Bone Fracture Detection/Baseline/no fracture/5-rotated1-rotated2-rotated2-rotated1.jpg,no fracture,135.547418,0.195254215,0.579052505,0.977879853,3.86402027
+./pages/models/Bone Fracture Detection/Baseline/no fracture/5-rotated1-rotated2.jpg,no fracture,179.8060248,0.207649049,0.562004418,0.971077756,4.620817246
+./pages/models/Bone Fracture Detection/Baseline/no fracture/5-rotated1-rotated3-rotated1-rotated1.jpg,no fracture,155.0045648,0.209524798,0.517464771,0.975243155,5.011160714
+./pages/models/Bone Fracture Detection/Baseline/no fracture/5-rotated1-rotated3-rotated1.jpg,no fracture,125.0689752,0.205798571,0.559327388,0.979679513,3.94980695
+./pages/models/Bone Fracture Detection/Baseline/no fracture/5-rotated1-rotated3-rotated2.jpg,no fracture,160.4890404,0.207121321,0.541580749,0.974189591,4.696770431
+./pages/models/Bone Fracture Detection/Baseline/no fracture/5-rotated1-rotated3-rotated3-rotated1.jpg,no fracture,143.5450249,0.20901859,0.536070906,0.97686932,4.593367921
+./pages/models/Bone Fracture Detection/Baseline/no fracture/5-rotated1-rotated3-rotated3.jpg,no fracture,159.5255993,0.206771161,0.548069626,0.974314228,4.615890444
+./pages/models/Bone Fracture Detection/Baseline/no fracture/5-rotated1.jpg,no fracture,186.8581885,0.216254744,0.571632167,0.969450345,4.432794402
+./pages/models/Bone Fracture Detection/Baseline/no fracture/5-rotated2-rotated1-rotated3-rotated1.jpg,no fracture,143.591176,0.208912146,0.52540899,0.976998574,4.711269305
+./pages/models/Bone Fracture Detection/Baseline/no fracture/5-rotated2-rotated1.jpg,no fracture,132.4177526,0.212292081,0.565787014,0.977930055,4.080839768
+./pages/models/Bone Fracture Detection/Baseline/no fracture/5-rotated2-rotated2-rotated1-rotated1.jpg,no fracture,146.7066643,0.205447144,0.525357814,0.976426048,4.768440315
+./pages/models/Bone Fracture Detection/Baseline/no fracture/5-rotated2-rotated2-rotated2.jpg,no fracture,155.222611,0.19289786,0.566783154,0.974794723,4.199444981
+./pages/models/Bone Fracture Detection/Baseline/no fracture/5-rotated2-rotated2-rotated3-rotated1.jpg,no fracture,154.426279,0.209698501,0.512205344,0.975366655,5.056587838
+./pages/models/Bone Fracture Detection/Baseline/no fracture/5-rotated2-rotated3-rotated1-rotated1.jpg,no fracture,119.3904842,0.202373275,0.542506474,0.980508939,4.062861969
+./pages/models/Bone Fracture Detection/Baseline/no fracture/5-rotated2-rotated3-rotated1.jpg,no fracture,160.315074,0.209228238,0.536952676,0.974449434,4.709017053
+./pages/models/Bone Fracture Detection/Baseline/no fracture/5-rotated2-rotated3-rotated2.jpg,no fracture,125.2954875,0.208979004,0.555212072,0.979635676,4.02827381
+./pages/models/Bone Fracture Detection/Baseline/no fracture/5-rotated2-rotated3-rotated3-rotated1.jpg,no fracture,115.9518179,0.203078419,0.54308559,0.981074951,4.040701416
+./pages/models/Bone Fracture Detection/Baseline/no fracture/5-rotated2-rotated3-rotated3.jpg,no fracture,128.4899252,0.205737236,0.548675999,0.979127684,4.138372748
+./pages/models/Bone Fracture Detection/Baseline/no fracture/5-rotated2-rotated3.jpg,no fracture,200.324083,0.218760475,0.524992299,0.968266195,5.398970399
+./pages/models/Bone Fracture Detection/Baseline/no fracture/5-rotated2.jpg,no fracture,179.8150137,0.227780778,0.582829382,0.97045129,4.361546815
+./pages/models/Bone Fracture Detection/Baseline/no fracture/5-rotated3-rotated1-rotated1-rotated1.jpg,no fracture,134.7185288,0.194661442,0.56276066,0.978072062,4.036659427
+./pages/models/Bone Fracture Detection/Baseline/no fracture/5-rotated3-rotated1-rotated1.jpg,no fracture,118.7422378,0.202526605,0.556668354,0.980481648,3.902992278
+./pages/models/Bone Fracture Detection/Baseline/no fracture/5-rotated3-rotated1-rotated3-rotated1.jpg,no fracture,102.2320222,0.199785657,0.580309139,0.983331594,3.50864704
+./pages/models/Bone Fracture Detection/Baseline/no fracture/5-rotated3-rotated1-rotated3.jpg,no fracture,147.6762186,0.198086656,0.568326579,0.976091718,4.030787484
+./pages/models/Bone Fracture Detection/Baseline/no fracture/5-rotated3-rotated1.jpg,no fracture,171.4472329,0.206935686,0.527993945,0.972537042,4.862612613
+./pages/models/Bone Fracture Detection/Baseline/no fracture/5-rotated3-rotated2-rotated1-rotated1.jpg,no fracture,93.60388514,0.200639243,0.578065724,0.984586548,3.460706242
+./pages/models/Bone Fracture Detection/Baseline/no fracture/5-rotated3-rotated2-rotated1.jpg,no fracture,169.1603121,0.211613526,0.524378511,0.97269847,4.879826255
+./pages/models/Bone Fracture Detection/Baseline/no fracture/5-rotated3-rotated2-rotated3-rotated1.jpg,no fracture,143.0245938,0.194947683,0.567790387,0.97661173,3.999215734
+./pages/models/Bone Fracture Detection/Baseline/no fracture/5-rotated3-rotated2-rotated3.jpg,no fracture,143.370596,0.195768632,0.567893195,0.976556518,3.99901464
+./pages/models/Bone Fracture Detection/Baseline/no fracture/5-rotated3-rotated3-rotated2.jpg,no fracture,131.5204513,0.196848028,0.580356295,0.978627211,3.783321268
+./pages/models/Bone Fracture Detection/Baseline/no fracture/5-rotated3-rotated3-rotated3-rotated1.jpg,no fracture,170.3342383,0.216474816,0.523256884,0.972912352,5.137729247
+./pages/models/Bone Fracture Detection/Baseline/no fracture/5-rotated3-rotated3-rotated3.jpg,no fracture,170.4585344,0.218679201,0.525169342,0.972888961,5.136824324
+./pages/models/Bone Fracture Detection/Baseline/no fracture/5-rotated3-rotated3.jpg,no fracture,213.1124718,0.218631281,0.509452091,0.966000294,5.6346324
+./pages/models/Bone Fracture Detection/Baseline/no fracture/6-rotated1-rotated1-rotated1-rotated1.jpg,no fracture,121.8840492,0.16384348,0.505458313,0.981745247,5.14096686
+./pages/models/Bone Fracture Detection/Baseline/no fracture/6-rotated1-rotated1-rotated1.jpg,no fracture,179.9783221,0.148483047,0.484861035,0.975656651,5.828225547
+./pages/models/Bone Fracture Detection/Baseline/no fracture/6-rotated1-rotated1-rotated2-rotated1.jpg,no fracture,142.8503459,0.189756016,0.523918778,0.978821322,5.06350547
+./pages/models/Bone Fracture Detection/Baseline/no fracture/6-rotated1-rotated1-rotated2.jpg,no fracture,155.7142656,0.189151731,0.528551556,0.976925054,5.223435489
+./pages/models/Bone Fracture Detection/Baseline/no fracture/6-rotated1-rotated1-rotated3-rotated1.jpg,no fracture,151.2982827,0.193966059,0.526784426,0.977761906,5.097108269
+./pages/models/Bone Fracture Detection/Baseline/no fracture/6-rotated1-rotated1-rotated3.jpg,no fracture,159.4874115,0.191824554,0.526816627,0.976524587,5.223455598
+./pages/models/Bone Fracture Detection/Baseline/no fracture/6-rotated1-rotated2-rotated2-rotated1.jpg,no fracture,147.0810006,0.160732445,0.501303203,0.977949883,5.305944337
+./pages/models/Bone Fracture Detection/Baseline/no fracture/6-rotated1-rotated2-rotated2.jpg,no fracture,129.4744208,0.172152583,0.516996306,0.980691111,5.198238417
+./pages/models/Bone Fracture Detection/Baseline/no fracture/6-rotated1-rotated2-rotated3-rotated1.jpg,no fracture,153.3456805,0.159998046,0.498686964,0.977008582,5.349621943
+./pages/models/Bone Fracture Detection/Baseline/no fracture/6-rotated1-rotated2-rotated3.jpg,no fracture,129.4744208,0.172152583,0.516996306,0.980691111,5.198238417
+./pages/models/Bone Fracture Detection/Baseline/no fracture/6-rotated1-rotated3-rotated1-rotated1.jpg,no fracture,131.4862251,0.16260901,0.510430482,0.981284754,5.19017455
+./pages/models/Bone Fracture Detection/Baseline/no fracture/6-rotated1-rotated3-rotated1.jpg,no fracture,204.6085907,0.158147772,0.499122115,0.96972043,5.872787967
+./pages/models/Bone Fracture Detection/Baseline/no fracture/6-rotated1-rotated3-rotated2-rotated1.jpg,no fracture,142.2727035,0.178015489,0.542303024,0.979707196,4.608731499
+./pages/models/Bone Fracture Detection/Baseline/no fracture/6-rotated1-rotated3-rotated3-rotated1.jpg,no fracture,87.81225869,0.192451498,0.557367348,0.987177525,3.885497104
+./pages/models/Bone Fracture Detection/Baseline/no fracture/6-rotated1-rotated3-rotated3.jpg,no fracture,103.1983792,0.195379961,0.580229979,0.985011181,3.875462516
+./pages/models/Bone Fracture Detection/Baseline/no fracture/6-rotated1.jpg,no fracture,214.3877494,0.157137458,0.486158061,0.971337673,6.217664093
+./pages/models/Bone Fracture Detection/Baseline/no fracture/6-rotated2-rotated1-rotated1-rotated1.jpg,no fracture,144.3879706,0.151096524,0.498380544,0.980120936,5.247848295
+./pages/models/Bone Fracture Detection/Baseline/no fracture/6-rotated2-rotated1-rotated2.jpg,no fracture,193.3125,0.148867462,0.491825782,0.973718975,5.686655405
+./pages/models/Bone Fracture Detection/Baseline/no fracture/6-rotated2-rotated1-rotated3-rotated1.jpg,no fracture,86.93122587,0.192585219,0.560772024,0.987448095,3.891690798
+./pages/models/Bone Fracture Detection/Baseline/no fracture/6-rotated2-rotated1.jpg,no fracture,203.446509,0.155077583,0.510958742,0.972081589,5.456724582
+./pages/models/Bone Fracture Detection/Baseline/no fracture/6-rotated2-rotated2-rotated1.jpg,no fracture,149.4434524,0.160798024,0.522907752,0.979332842,4.862411519
+./pages/models/Bone Fracture Detection/Baseline/no fracture/6-rotated2-rotated2-rotated2-rotated1.jpg,no fracture,216.2534789,0.147338669,0.492490434,0.97003419,5.634270431
+./pages/models/Bone Fracture Detection/Baseline/no fracture/6-rotated2-rotated2-rotated3.jpg,no fracture,146.4372989,0.167937677,0.513870461,0.97921554,5.367479086
+./pages/models/Bone Fracture Detection/Baseline/no fracture/6-rotated2-rotated2.jpg,no fracture,249.2537001,0.147279792,0.487419962,0.96612834,6.090492278
+./pages/models/Bone Fracture Detection/Baseline/no fracture/6-rotated2-rotated3-rotated1-rotated1.jpg,no fracture,178.8650458,0.145767917,0.493844772,0.975121504,5.39693935
+./pages/models/Bone Fracture Detection/Baseline/no fracture/6-rotated2-rotated3-rotated1.jpg,no fracture,156.8241836,0.156544534,0.512987744,0.977948805,5.124215734
+./pages/models/Bone Fracture Detection/Baseline/no fracture/6-rotated2-rotated3-rotated2.jpg,no fracture,158.3030486,0.159636817,0.510696645,0.977982079,5.344353282
+./pages/models/Bone Fracture Detection/Baseline/no fracture/6-rotated3-rotated1-rotated1-rotated1.jpg,no fracture,95.73962355,0.177306756,0.564415777,0.986273706,3.859194015
+./pages/models/Bone Fracture Detection/Baseline/no fracture/6-rotated3-rotated1-rotated2-rotated1.jpg,no fracture,108.6097571,0.170914867,0.548599593,0.984644121,4.151544402
+./pages/models/Bone Fracture Detection/Baseline/no fracture/6-rotated3-rotated1-rotated3-rotated1.jpg,no fracture,130.8305381,0.173933706,0.518107889,0.98125998,5.138211873
+./pages/models/Bone Fracture Detection/Baseline/no fracture/6-rotated3-rotated1-rotated3.jpg,no fracture,159.2450732,0.171275718,0.518127845,0.977578952,5.390021718
+./pages/models/Bone Fracture Detection/Baseline/no fracture/6-rotated3-rotated1.jpg,no fracture,113.7439069,0.195286854,0.566547316,0.983722494,4.133184524
+./pages/models/Bone Fracture Detection/Baseline/no fracture/6-rotated3-rotated2-rotated1-rotated1.jpg,no fracture,89.49211712,0.186078515,0.575218465,0.987145709,3.709419241
+./pages/models/Bone Fracture Detection/Baseline/no fracture/6-rotated3-rotated2-rotated2-rotated1.jpg,no fracture,135.093006,0.159848164,0.517456137,0.980826685,4.875020109
+./pages/models/Bone Fracture Detection/Baseline/no fracture/6-rotated3-rotated2-rotated2.jpg,no fracture,143.9145954,0.160453545,0.526680566,0.979672745,4.782074485
+./pages/models/Bone Fracture Detection/Baseline/no fracture/6-rotated3-rotated2-rotated3-rotated1.jpg,no fracture,94.06173584,0.180771694,0.567002363,0.98645763,3.834017053
+./pages/models/Bone Fracture Detection/Baseline/no fracture/6-rotated3-rotated3-rotated1.jpg,no fracture,201.1411277,0.157685102,0.494142296,0.970222256,5.89627574
+./pages/models/Bone Fracture Detection/Baseline/no fracture/6-rotated3-rotated3-rotated3.jpg,no fracture,152.0606499,0.16925378,0.534158133,0.978732538,4.670165701
+./pages/models/Bone Fracture Detection/Baseline/no fracture/6-rotated3-rotated3.jpg,no fracture,176.6044884,0.169512754,0.51148004,0.973996342,5.834379022
+./pages/models/Bone Fracture Detection/Baseline/no fracture/7-rotated1-rotated1-rotated1-rotated1.jpg,no fracture,87.53589527,0.266804479,0.623302048,0.978579873,3.356077059
+./pages/models/Bone Fracture Detection/Baseline/no fracture/7-rotated1-rotated1-rotated1.jpg,no fracture,81.68593147,0.261653154,0.635733744,0.979397234,2.929054054
+./pages/models/Bone Fracture Detection/Baseline/no fracture/7-rotated1-rotated1-rotated3-rotated1.jpg,no fracture,70.63809122,0.268511899,0.610965342,0.982430669,3.71410473
+./pages/models/Bone Fracture Detection/Baseline/no fracture/7-rotated1-rotated1-rotated3.jpg,no fracture,77.78669965,0.275661518,0.625262547,0.980762314,3.737833816
+./pages/models/Bone Fracture Detection/Baseline/no fracture/7-rotated1-rotated2-rotated1-rotated1.jpg,no fracture,92.54412001,0.255604667,0.59756854,0.976847442,3.847691441
+./pages/models/Bone Fracture Detection/Baseline/no fracture/7-rotated1-rotated2-rotated1.jpg,no fracture,91.22995093,0.260879339,0.621539741,0.976916192,3.621078668
+./pages/models/Bone Fracture Detection/Baseline/no fracture/7-rotated1-rotated2-rotated3-rotated1.jpg,no fracture,70.68028073,0.266316795,0.614882475,0.982429198,3.67054778
+./pages/models/Bone Fracture Detection/Baseline/no fracture/7-rotated1-rotated3-rotated1-rotated1.jpg,no fracture,59.38437098,0.286955188,0.688724738,0.985246422,2.144666988
+./pages/models/Bone Fracture Detection/Baseline/no fracture/7-rotated1-rotated3-rotated1.jpg,no fracture,84.10404601,0.263697564,0.626960524,0.978612723,3.09109556
+./pages/models/Bone Fracture Detection/Baseline/no fracture/7-rotated1-rotated3-rotated2.jpg,no fracture,80.01860119,0.26660627,0.639691501,0.980106653,2.926781692
+./pages/models/Bone Fracture Detection/Baseline/no fracture/7-rotated1-rotated3-rotated3-rotated1.jpg,no fracture,72.23413369,0.268429876,0.628424414,0.981977432,2.965995013
+./pages/models/Bone Fracture Detection/Baseline/no fracture/7-rotated1-rotated3-rotated3.jpg,no fracture,68.03390444,0.275198911,0.65569784,0.983103282,2.562218468
+./pages/models/Bone Fracture Detection/Baseline/no fracture/7-rotated1-rotated3.jpg,no fracture,81.16966297,0.272119041,0.656610744,0.979480701,2.76960666
+./pages/models/Bone Fracture Detection/Baseline/no fracture/7-rotated2-rotated1-rotated1-rotated1.jpg,no fracture,69.0967463,0.265966272,0.643613814,0.982345734,2.839587355
+./pages/models/Bone Fracture Detection/Baseline/no fracture/7-rotated2-rotated1-rotated2-rotated1.jpg,no fracture,88.23944257,0.262468397,0.609673174,0.977825523,3.650438385
+./pages/models/Bone Fracture Detection/Baseline/no fracture/7-rotated2-rotated1-rotated3.jpg,no fracture,68.73105695,0.268003421,0.646649277,0.982475231,2.782054376
+./pages/models/Bone Fracture Detection/Baseline/no fracture/7-rotated2-rotated1.jpg,no fracture,137.7706926,0.255824463,0.604509903,0.966770742,3.970499517
+./pages/models/Bone Fracture Detection/Baseline/no fracture/7-rotated2-rotated2-rotated2-rotated1.jpg,no fracture,72.81064994,0.260636332,0.630150327,0.981427139,2.954432111
+./pages/models/Bone Fracture Detection/Baseline/no fracture/7-rotated2-rotated2-rotated3-rotated1.jpg,no fracture,56.93170849,0.279096277,0.704169877,0.985707219,2.017656049
+./pages/models/Bone Fracture Detection/Baseline/no fracture/7-rotated2-rotated2.jpg,no fracture,112.1111044,0.267050273,0.609747341,0.971258822,3.837013353
+./pages/models/Bone Fracture Detection/Baseline/no fracture/7-rotated2-rotated3-rotated1-rotated1.jpg,no fracture,59.57014157,0.277727303,0.709768043,0.985209702,1.996621622
+./pages/models/Bone Fracture Detection/Baseline/no fracture/7-rotated2-rotated3-rotated1.jpg,no fracture,85.44972651,0.272992472,0.620139984,0.978867321,3.797619048
+./pages/models/Bone Fracture Detection/Baseline/no fracture/7-rotated2-rotated3-rotated3-rotated1.jpg,no fracture,75.74453024,0.278156656,0.645013582,0.98131041,2.890162484
+./pages/models/Bone Fracture Detection/Baseline/no fracture/7-rotated3-rotated1-rotated2-rotated1.jpg,no fracture,83.26174389,0.259849233,0.612223035,0.979266429,3.558920528
+./pages/models/Bone Fracture Detection/Baseline/no fracture/7-rotated3-rotated1-rotated2.jpg,no fracture,99.03782577,0.255916277,0.60541929,0.975464111,4.000060328
+./pages/models/Bone Fracture Detection/Baseline/no fracture/7-rotated3-rotated1-rotated3-rotated1.jpg,no fracture,98.74093066,0.257655563,0.605553362,0.975528466,3.996279762
+./pages/models/Bone Fracture Detection/Baseline/no fracture/7-rotated3-rotated1-rotated3.jpg,no fracture,119.4616715,0.264602096,0.618960012,0.970624906,4.191119691
+./pages/models/Bone Fracture Detection/Baseline/no fracture/7-rotated3-rotated2-rotated1-rotated1.jpg,no fracture,74.77781129,0.258197677,0.600159643,0.981302414,3.728945463
+./pages/models/Bone Fracture Detection/Baseline/no fracture/7-rotated3-rotated2-rotated2-rotated1.jpg,no fracture,80.53086792,0.265482349,0.618393435,0.980038475,3.799167471
+./pages/models/Bone Fracture Detection/Baseline/no fracture/7-rotated3-rotated2-rotated2.jpg,no fracture,97.09553974,0.264360125,0.60571299,0.975944486,4.020531692
+./pages/models/Bone Fracture Detection/Baseline/no fracture/7-rotated3-rotated2-rotated3-rotated1.jpg,no fracture,63.20443211,0.264375842,0.623964353,0.984284927,3.076978764
+./pages/models/Bone Fracture Detection/Baseline/no fracture/7-rotated3-rotated2.jpg,no fracture,157.9112572,0.264168059,0.610761172,0.962821302,4.386522683
+./pages/models/Bone Fracture Detection/Baseline/no fracture/7-rotated3-rotated3-rotated1.jpg,no fracture,73.10981741,0.264289926,0.627996132,0.981623414,3.141308719
+./pages/models/Bone Fracture Detection/Baseline/no fracture/7-rotated3-rotated3-rotated2.jpg,no fracture,80.93854569,0.270661418,0.614218763,0.979978015,3.840934685
+./pages/models/Bone Fracture Detection/Baseline/no fracture/7-rotated3-rotated3-rotated3-rotated1.jpg,no fracture,70.70135537,0.264135851,0.604397308,0.982427049,3.741212194
+./pages/models/Bone Fracture Detection/Baseline/no fracture/7-rotated3-rotated3-rotated3.jpg,no fracture,79.02447313,0.269157669,0.60789912,0.980443081,3.852095399
+./pages/models/Bone Fracture Detection/Baseline/no fracture/7.jpg,no fracture,24.66908009,0.29814315,0.747749296,0.994282441,1.273245142
+./pages/models/Bone Fracture Detection/Baseline/no fracture/8-rotated1-rotated1-rotated1-rotated1.jpg,no fracture,86.16916023,0.14922695,0.561815016,0.973853083,3.268018018
+./pages/models/Bone Fracture Detection/Baseline/no fracture/8-rotated1-rotated1-rotated2-rotated1.jpg,no fracture,85.19447796,0.14895986,0.555282071,0.974646355,3.382460586
+./pages/models/Bone Fracture Detection/Baseline/no fracture/8-rotated1-rotated1-rotated2.jpg,no fracture,106.0677486,0.157241184,0.561467621,0.968874881,3.557010135
+./pages/models/Bone Fracture Detection/Baseline/no fracture/8-rotated1-rotated1.jpg,no fracture,157.4040782,0.139090315,0.514877985,0.949824375,4.498391248
+./pages/models/Bone Fracture Detection/Baseline/no fracture/8-rotated1-rotated2-rotated1-rotated1.jpg,no fracture,138.9462275,0.167621685,0.500489589,0.962539375,4.869168275
+./pages/models/Bone Fracture Detection/Baseline/no fracture/8-rotated1-rotated2-rotated1.jpg,no fracture,99.5045045,0.148117884,0.549207305,0.968761164,3.544441763
+./pages/models/Bone Fracture Detection/Baseline/no fracture/8-rotated1-rotated2-rotated3.jpg,no fracture,126.7985039,0.147875093,0.53753276,0.962603703,4.003217503
+./pages/models/Bone Fracture Detection/Baseline/no fracture/8-rotated1-rotated2.jpg,no fracture,139.5378258,0.140583474,0.535977876,0.955723667,4.113959942
+./pages/models/Bone Fracture Detection/Baseline/no fracture/8-rotated1-rotated3-rotated1-rotated1.jpg,no fracture,130.4449204,0.160199449,0.508347393,0.964669546,4.587536197
+./pages/models/Bone Fracture Detection/Baseline/no fracture/8-rotated1-rotated3-rotated2.jpg,no fracture,152.45405,0.160931922,0.51204165,0.957683563,4.769888192
+./pages/models/Bone Fracture Detection/Baseline/no fracture/8-rotated1-rotated3.jpg,no fracture,206.8620898,0.166681428,0.495331649,0.944934639,5.59576094
+./pages/models/Bone Fracture Detection/Baseline/no fracture/8-rotated1.jpg,no fracture,174.2280808,0.15127686,0.542155648,0.941605799,4.260014479
+./pages/models/Bone Fracture Detection/Baseline/no fracture/8-rotated2-rotated1-rotated1-rotated1.jpg,no fracture,98.3381797,0.149956855,0.557775692,0.969775534,3.424167471
+./pages/models/Bone Fracture Detection/Baseline/no fracture/8-rotated2-rotated1-rotated1.jpg,no fracture,111.443754,0.155967075,0.554614683,0.968683098,3.764337999
+./pages/models/Bone Fracture Detection/Baseline/no fracture/8-rotated2-rotated1-rotated2.jpg,no fracture,117.4021276,0.136754961,0.531833191,0.960498502,3.935267857
+./pages/models/Bone Fracture Detection/Baseline/no fracture/8-rotated2-rotated1-rotated3-rotated1.jpg,no fracture,99.424449,0.135649501,0.532081728,0.96621307,3.70280325
+./pages/models/Bone Fracture Detection/Baseline/no fracture/8-rotated2-rotated1.jpg,no fracture,216.7432231,0.148405883,0.512061606,0.936387121,5.129363739
+./pages/models/Bone Fracture Detection/Baseline/no fracture/8-rotated2-rotated2-rotated2-rotated1.jpg,no fracture,89.83098053,0.165454114,0.567086803,0.974116078,3.353543275
+./pages/models/Bone Fracture Detection/Baseline/no fracture/8-rotated2-rotated2-rotated3-rotated1.jpg,no fracture,139.1391168,0.178506022,0.507977073,0.963326711,4.772321429
+./pages/models/Bone Fracture Detection/Baseline/no fracture/8-rotated2-rotated2-rotated3.jpg,no fracture,128.7267133,0.17717063,0.534115154,0.965592771,4.319498069
+./pages/models/Bone Fracture Detection/Baseline/no fracture/8-rotated2-rotated3-rotated2-rotated1.jpg,no fracture,119.8000322,0.136155481,0.524317424,0.963073264,3.994771557
+./pages/models/Bone Fracture Detection/Baseline/no fracture/8-rotated2-rotated3-rotated3-rotated1.jpg,no fracture,119.6246782,0.144165191,0.525614761,0.964470736,4.040379665
+./pages/models/Bone Fracture Detection/Baseline/no fracture/8-rotated2-rotated3.jpg,no fracture,131.3091015,0.159406861,0.554824578,0.962364865,3.926138192
+./pages/models/Bone Fracture Detection/Baseline/no fracture/8-rotated3-rotated1-rotated1.jpg,no fracture,138.3186937,0.145466057,0.504706457,0.960742313,4.613095238
+./pages/models/Bone Fracture Detection/Baseline/no fracture/8-rotated3-rotated1-rotated2.jpg,no fracture,202.5380068,0.174786327,0.50014753,0.947581754,5.565958816
+./pages/models/Bone Fracture Detection/Baseline/no fracture/8-rotated3-rotated1.jpg,no fracture,163.1127936,0.151983542,0.511912316,0.95519793,4.769003378
+./pages/models/Bone Fracture Detection/Baseline/no fracture/8-rotated3-rotated2-rotated1-rotated1.jpg,no fracture,105.9876931,0.160840294,0.547034868,0.971148476,3.785352317
+./pages/models/Bone Fracture Detection/Baseline/no fracture/8-rotated3-rotated2-rotated3.jpg,no fracture,112.756435,0.162041745,0.536511219,0.969225404,4.00864704
+./pages/models/Bone Fracture Detection/Baseline/no fracture/8-rotated3-rotated3.jpg,no fracture,213.6319579,0.181208888,0.486809973,0.945155709,6.067245817
+./pages/models/Bone Fracture Detection/Baseline/no fracture/8-rotated3.jpg,no fracture,249.3530808,0.158252732,0.49743705,0.932987628,5.821428571
+./pages/models/Bone Fracture Detection/Baseline/no fracture/9-rotated1-rotated2-rotated1-rotated1.jpg,no fracture,73.22930743,0.313114011,0.644353038,0.983963103,3.110983752
+./pages/models/Bone Fracture Detection/Baseline/no fracture/9-rotated1-rotated2-rotated2.jpg,no fracture,146.1630671,0.315402496,0.608890625,0.967836657,4.516710907
+./pages/models/Bone Fracture Detection/Baseline/no fracture/9-rotated1-rotated2-rotated3-rotated1.jpg,no fracture,96.02582046,0.310095372,0.633095797,0.979154304,3.436454311
+./pages/models/Bone Fracture Detection/Baseline/no fracture/9-rotated1-rotated2-rotated3.jpg,no fracture,127.9676641,0.312932587,0.630839719,0.972360619,3.788730695
+./pages/models/Bone Fracture Detection/Baseline/no fracture/9-rotated1-rotated2.jpg,no fracture,79.77316602,0.351002905,0.695159928,0.980851588,2.637226512
+./pages/models/Bone Fracture Detection/Baseline/no fracture/9-rotated1-rotated3-rotated1-rotated1.jpg,no fracture,131.8296131,0.313610367,0.600943997,0.96862355,4.453125
+./pages/models/Bone Fracture Detection/Baseline/no fracture/9-rotated1-rotated3-rotated2-rotated1.jpg,no fracture,134.3193372,0.312225928,0.597891011,0.967884937,4.493243243
+./pages/models/Bone Fracture Detection/Baseline/no fracture/9-rotated1-rotated3-rotated2.jpg,no fracture,148.6814672,0.322579965,0.605416222,0.964687003,4.607464607
+./pages/models/Bone Fracture Detection/Baseline/no fracture/9-rotated1-rotated3-rotated3-rotated1.jpg,no fracture,134.4961792,0.316966,0.596640674,0.967922196,4.473334942
+./pages/models/Bone Fracture Detection/Baseline/no fracture/9-rotated1-rotated3-rotated3.jpg,no fracture,148.3828829,0.315005938,0.60096626,0.964859936,4.613457207
+./pages/models/Bone Fracture Detection/Baseline/no fracture/9-rotated2-rotated1-rotated1-rotated1.jpg,no fracture,118.5015082,0.301197377,0.602623632,0.97333663,4.156994048
+./pages/models/Bone Fracture Detection/Baseline/no fracture/9-rotated2-rotated1-rotated1.jpg,no fracture,91.31362613,0.343623969,0.662226862,0.979294924,3.198600386
+./pages/models/Bone Fracture Detection/Baseline/no fracture/9-rotated2-rotated1-rotated3-rotated1.jpg,no fracture,123.6649171,0.303866959,0.613102582,0.972937578,3.944679054
+./pages/models/Bone Fracture Detection/Baseline/no fracture/9-rotated2-rotated1.jpg,no fracture,162.5624397,0.306387648,0.605818097,0.965039935,4.489482786
+./pages/models/Bone Fracture Detection/Baseline/no fracture/9-rotated2-rotated2-rotated1.jpg,no fracture,79.39878941,0.3487068,0.69441871,0.980949538,2.646738256
+./pages/models/Bone Fracture Detection/Baseline/no fracture/9-rotated2-rotated2-rotated2.jpg,no fracture,130.7181668,0.3084356,0.608111001,0.969838092,4.271175193
+./pages/models/Bone Fracture Detection/Baseline/no fracture/9-rotated2-rotated2-rotated3-rotated1.jpg,no fracture,130.2517495,0.310633739,0.59770428,0.969797765,4.439893018
+./pages/models/Bone Fracture Detection/Baseline/no fracture/9-rotated2-rotated2-rotated3.jpg,no fracture,134.9155808,0.307279622,0.606214296,0.9688887,4.362170206
+./pages/models/Bone Fracture Detection/Baseline/no fracture/9-rotated2-rotated3-rotated1-rotated1.jpg,no fracture,113.7803451,0.304447956,0.620077744,0.975117675,3.823902027
+./pages/models/Bone Fracture Detection/Baseline/no fracture/9-rotated2-rotated3-rotated1.jpg,no fracture,80.28199405,0.348953277,0.69269371,0.98071106,2.680401384
+./pages/models/Bone Fracture Detection/Baseline/no fracture/9-rotated2-rotated3-rotated2.jpg,no fracture,85.34067326,0.315854452,0.651018595,0.981356233,3.234777188
+./pages/models/Bone Fracture Detection/Baseline/no fracture/9-rotated2-rotated3-rotated3-rotated1.jpg,no fracture,135.3264157,0.302653022,0.605452559,0.970574427,4.204874517
+./pages/models/Bone Fracture Detection/Baseline/no fracture/9-rotated2-rotated3-rotated3.jpg,no fracture,135.3254102,0.303746777,0.605253106,0.970569906,4.206322394
+./pages/models/Bone Fracture Detection/Baseline/no fracture/9-rotated3-rotated1-rotated1-rotated1.jpg,no fracture,60.8996139,0.337839745,0.692220059,0.985534669,2.50297619
+./pages/models/Bone Fracture Detection/Baseline/no fracture/9-rotated3-rotated1-rotated1.jpg,no fracture,148.0728362,0.301158763,0.601401753,0.968072614,4.324163449
+./pages/models/Bone Fracture Detection/Baseline/no fracture/9-rotated3-rotated1-rotated2-rotated1.jpg,no fracture,136.9614101,0.319743469,0.614671397,0.969872659,4.265986969
+./pages/models/Bone Fracture Detection/Baseline/no fracture/9-rotated3-rotated1-rotated2.jpg,no fracture,149.0535111,0.329305329,0.629203616,0.967311693,4.161337677
+./pages/models/Bone Fracture Detection/Baseline/no fracture/9-rotated3-rotated1-rotated3-rotated1.jpg,no fracture,64.11361808,0.336335943,0.682574304,0.985050731,2.653474903
+./pages/models/Bone Fracture Detection/Baseline/no fracture/9-rotated3-rotated1-rotated3.jpg,no fracture,76.40620978,0.331580509,0.668149895,0.982615062,2.96577381
+./pages/models/Bone Fracture Detection/Baseline/no fracture/9-rotated3-rotated2-rotated1.jpg,no fracture,167.822615,0.313529575,0.605858209,0.963756184,4.685790701
+./pages/models/Bone Fracture Detection/Baseline/no fracture/9-rotated3-rotated2-rotated3.jpg,no fracture,132.4514358,0.338353143,0.651781063,0.969395212,3.571167149
+./pages/models/Bone Fracture Detection/Baseline/no fracture/9-rotated3-rotated2.jpg,no fracture,167.7818131,0.314944936,0.605926865,0.963765174,4.68484556
+./pages/models/Bone Fracture Detection/Baseline/no fracture/9-rotated3-rotated3-rotated1-rotated1.jpg,no fracture,133.620596,0.314767104,0.600343313,0.968603636,4.479950933
+./pages/models/Bone Fracture Detection/Baseline/no fracture/9-rotated3-rotated3-rotated2-rotated1.jpg,no fracture,126.2581443,0.31407713,0.603137382,0.970341602,4.323540058
+./pages/models/Bone Fracture Detection/Baseline/no fracture/9-rotated3-rotated3-rotated2.jpg,no fracture,147.3495616,0.316762479,0.602689312,0.965621143,4.631615991
+./pages/models/Bone Fracture Detection/Baseline/no fracture/9-rotated3-rotated3-rotated3-rotated1.jpg,no fracture,128.8658703,0.31283454,0.60144988,0.96948692,4.38296332
+./pages/models/Bone Fracture Detection/Baseline/no fracture/9-rotated3-rotated3-rotated3.jpg,no fracture,148.6621219,0.316841081,0.602367286,0.965033976,4.643540862
+./pages/models/Bone Fracture Detection/Baseline/no fracture/9.jpg,no fracture,10.6881364,0.393314722,0.826879805,0.997713321,0.701613695
