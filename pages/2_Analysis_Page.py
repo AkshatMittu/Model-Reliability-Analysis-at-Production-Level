@@ -1209,7 +1209,7 @@ def SHAP_Analysis(baseline, production, model_type, model_name, scaler=None):
 
     else:
 
-        shap.initjs()
+        #shap.initjs()
         cat_has_int, miss_dict, score, indices, outliers_index, num_invalid = validity_check(baseline, production_data)
         if (len(indices) == 0) or (score == 100):
             pass
