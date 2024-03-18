@@ -24,3 +24,4 @@ textstat==0.7.3
 wordcloud==1.9.3
 ydata_profiling==4.6.2
 opencv-python-headless
+pydantic==1.10.12
