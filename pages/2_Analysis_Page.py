@@ -42,13 +42,13 @@ reduce_header_height_style = """
 """
 st.markdown(reduce_header_height_style, unsafe_allow_html=True)
 
-with open("C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/benchmark.json", "r") as af:
+with open("./pages/benchmark.json", "r") as af:
     benchmark_metrics = json.load(af)
 
-with open("C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/models.json", "r") as m:
+with open("./pages/models.json", "r") as m:
     model_dict = json.load(m)
 
-with open("C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/output.json", "r") as o:
+with open("./pages/output.json", "r") as o:
     output_dict = json.load(o)
     
 model_type = st.sidebar.selectbox("Select Model Type:", options=list(model_dict.keys()))
@@ -56,8 +56,8 @@ model_name = st.sidebar.selectbox("Select Model:", options=model_dict[model_type
 
 # production_runs = {"Cardiovascular Disease Prediction": sorted([(datetime.today() - timedelta(days=7)*i).strftime('%Y-%m-%d') for i in range(1,4)]),
 #                    "Medical Cost Prediction": sorted([(datetime(2023, 8, 9) - timedelta(days=7)*i).strftime('%Y-%m-%d') for i in range(1,4)])}
-if model_name in os.listdir(f"C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/models/"):
-    production_runs_ = os.listdir(f"C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/models/{model_name}/Production Runs")
+if model_name in os.listdir(f"./pages/models/"):
+    production_runs_ = os.listdir(f"./pages/models/{model_name}/Production Runs")
     
     # dates = [datetime.strptime(i[:-4], '%dth %B %Y') for i in production_runs_]
     production_run = st.sidebar.selectbox("Select Production Run:", options=sorted([i[:-4] for  i in production_runs_]))
@@ -85,9 +85,9 @@ def get_labels(baseline_data, model_name):
 
 def read_data(production_run):
     
-    data_csv = f"C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/models/{model_name}/Ground Truths/{production_run}.csv"
-    production_csv = f"C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/models/{model_name}/Production Runs/{production_run}.csv"
-    baseline = f"C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/models/{model_name}/baseline.csv"
+    data_csv = f"./pages/models/{model_name}/Ground Truths/{production_run}.csv"
+    production_csv = f"./pages/models/{model_name}/Production Runs/{production_run}.csv"
+    baseline = f"./pages/models/{model_name}/baseline.csv"
     
     actual_data = pd.read_csv(data_csv)
     production_data = pd.read_csv(production_csv)
@@ -136,8 +136,8 @@ def Performance_Analysis(true_labels, predicted_labels, model_type):
         
         metrics = seq2seq_metrics(true_labels, predicted_labels)
 
-        gt_helper = pd.read_csv(f'C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/models/{model_name}/helper_target/Ground Truths/{production_run}.csv')
-        prod_helper = pd.read_csv(f'C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/models/{model_name}/helper_target/Production Runs/{production_run}.csv')
+        gt_helper = pd.read_csv(f'./pages/models/{model_name}/helper_target/Ground Truths/{production_run}.csv')
+        prod_helper = pd.read_csv(f'./pages/models/{model_name}/helper_target/Production Runs/{production_run}.csv')
         
         figures = text_score_figures(prod_helper)
         st.subheader(f"Production Run's Metrics: ")
@@ -587,7 +587,7 @@ def Data_Drift_Analysis(baseline, production, model_type, production_run, model_
 def Data_Quality_Analysis(production_data):
     
     if model_type == "CV":
-        df = pd.read_csv(f"C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/models/{model_name}/Production/{production_run}/production_paths_df.csv")
+        df = pd.read_csv(f"./pages/models/{model_name}/Production/{production_run}/production_paths_df.csv")
         df.drop("Unnamed: 0", axis=1, inplace=True)
 
         figures_CV_quality = CV_images_for_data_quality(df)
@@ -861,8 +861,8 @@ def Data_Quality_Analysis(production_data):
         
         elif quality_type == "NLP Metrics":
             
-            baseline_helper = pd.read_csv(f"C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/models/{model_name}/helper/baseline.csv")
-            production_helper = pd.read_csv(f"C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/models/{model_name}/helper/{production_run}.csv")
+            baseline_helper = pd.read_csv(f"./pages/models/{model_name}/helper/baseline.csv")
+            production_helper = pd.read_csv(f"./pages/models/{model_name}/helper/{production_run}.csv")
             
             st.markdown(f"<h2><u>Readability:</u></h2>", unsafe_allow_html=True)
             st.write("###")
@@ -958,8 +958,8 @@ def Prediction_Drift_Analysis(baseline, production, model_type, production_run):
     
     if model_type == "Text":
         
-        gt_helper = pd.read_csv(f'C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/models/{model_name}/helper_target/Ground Truths/{production_run}.csv')
-        prod_helper = pd.read_csv(f'C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/models/{model_name}/helper_target/Production Runs/{production_run}.csv')
+        gt_helper = pd.read_csv(f'./pages/models/{model_name}/helper_target/Ground Truths/{production_run}.csv')
+        prod_helper = pd.read_csv(f'./pages/models/{model_name}/helper_target/Production Runs/{production_run}.csv')
         
         st.markdown(f"<h3><u>Readability:</u></h3>", unsafe_allow_html=True)
         result_read, fig_read = ks_test(gt_helper['readability'], prod_helper['readability'], b_name="Ground Truth")
@@ -1153,13 +1153,13 @@ def SHAP_Analysis(baseline, production, model_type, model_name, scaler=None):
     st.set_option('deprecation.showPyplotGlobalUse', False)
     if model_type == "CV":
         
-        path = f"C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/models/{model_name}/Production"
+        path = f"./pages/models/{model_name}/Production"
         class_names = os.listdir(f"{path}/{production_run}")
         random_images = dict()
         for i in class_names[:-1]:
             random_images[i] = f"{path}/{production_run}/{i}/" + random.sample(os.listdir(f"{path}/{production_run}/{i}"), 1)[0]
         
-        model = load_model(f"C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/models/{model_name}/model.h5")
+        model = load_model(f"./pages/models/{model_name}/model.h5")
         for i in class_names[:-1]:
     
             to_display = cv.imread(random_images[i])
@@ -1231,7 +1231,7 @@ def SHAP_Analysis(baseline, production, model_type, model_name, scaler=None):
         production_one = one_hot(production)
         
         if model_type == "Regression":
-            explainer = shap.Explainer(joblib.load(f"C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/models/{model_name}/model.joblib"))
+            explainer = shap.Explainer(joblib.load(f"./pages/models/{model_name}/model.joblib"))
             shap_values_baseline = explainer(baseline_one)
             shap_values_production = explainer(production_one)
             row = random.randint(0, len(production_one))
@@ -1276,7 +1276,7 @@ def SHAP_Analysis(baseline, production, model_type, model_name, scaler=None):
 
         
         if model_type == "Classification":
-            model = joblib.load(f"C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/models/{model_name}/model.joblib")
+            model = joblib.load(f"./pages/models/{model_name}/model.joblib")
             
             clas = random.randint(0,1)
             def f(X):
