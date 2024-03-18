@@ -1152,12 +1152,13 @@ def SHAP_Analysis(baseline, production, model_type, model_name, scaler=None):
         
         path = f"./pages/models/{model_name}/Production"
         class_names = os.listdir(f"{path}/{production_run}")
+        class_names.remove("production_paths_df.csv")
         random_images = dict()
-        for i in class_names[:-1]:
+        for i in class_names:
             random_images[i] = f"{path}/{production_run}/{i}/" + random.sample(os.listdir(f"{path}/{production_run}/{i}"), 1)[0]
         
         model = load_model(f"./pages/models/{model_name}/model.h5")
-        for i in class_names[:-1]:
+        for i in class_names:
     
             to_display = cv.imread(random_images[i])
             image = tf.io.read_file(random_images[i])
