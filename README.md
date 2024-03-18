@@ -3,3 +3,5 @@ This application assesses the reliability of models at the production level, the
 
 
 This project is still in progress, until then please find the related article that I wrote for Regression and Classification here: https://medium.com/@dasulaakshat/model-monitoring-dashboard-for-models-in-production-d69f17b96f2c
+
+You can access the project upto current progress using: https://model-reliability-analysis.streamlit.app/
