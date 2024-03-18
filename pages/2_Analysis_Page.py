@@ -15,6 +15,7 @@ from lime import lime_image
 import cv2 as cv
 import tensorflow as tf
 from tensorflow.keras.models import load_model
+import xgboost
 
 from ydata_profiling import ProfileReport
 from streamlit_pandas_profiling import st_profile_report
