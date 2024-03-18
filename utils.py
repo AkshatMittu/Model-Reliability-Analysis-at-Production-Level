@@ -619,11 +619,11 @@ def create_and_save_embeddings(text_df, text_col, file_name):
 def semantic_drift(production_run, model_name, col='text', b_name="Baseline"):
     
     if col == 'text':
-        baseline = pd.read_csv(f"C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/models/{model_name}/embeds/baseline.csv")
-        production = pd.read_csv(f"C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/models/{model_name}/embeds/{production_run}.csv")
+        baseline = pd.read_csv(f"./pages/models/{model_name}/embeds/baseline.csv")
+        production = pd.read_csv(f"./pages/models/{model_name}/embeds/{production_run}.csv")
     elif col == 'target':
-        baseline = pd.read_csv(f"C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/models/{model_name}/embeds_target/Ground Truths/{production_run}.csv")
-        production = pd.read_csv(f"C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/models/{model_name}/embeds_target/Production Runs/{production_run}.csv")
+        baseline = pd.read_csv(f"./pages/models/{model_name}/embeds_target/Ground Truths/{production_run}.csv")
+        production = pd.read_csv(f"./pages/models/{model_name}/embeds_target/Production Runs/{production_run}.csv")
         
     if 'Unnamed: 0' in production.columns:
         production.drop('Unnamed: 0', axis=1, inplace=True)
