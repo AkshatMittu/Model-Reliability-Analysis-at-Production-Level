@@ -1187,7 +1187,7 @@ def SHAP_Analysis(baseline, production, model_type, model_name, scaler=None):
 
     elif model_type == "NLP":
 
-        path = f"C:/Users/Akshat Mittu/Desktop/Model Monitoring Dashboard/pages/models/{model_name}"
+        path = f"./pages/models/{model_name}"
         vect = joblib.load(f"{path}/vectorizer.joblib")
         model = joblib.load(f"{path}/model.joblib")
         df = pd.read_csv(f"{path}/Production Runs/{production_run}.csv")
