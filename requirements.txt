@@ -6,6 +6,7 @@ nltk==3.8.1
 num2words==0.5.13
 numpy==1.23.5
 opencv_python==4.9.0.80
+opencv-python-headless
 pandas==1.5.3
 Pillow==10.2.0
 plotly==5.18.0
@@ -23,5 +24,4 @@ tensorflow_intel==0.0.1
 textstat==0.7.3
 wordcloud==1.9.3
 ydata_profiling==4.6.2
-opencv-python-headless
 xgboost==1.7.6
